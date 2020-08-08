@@ -59,15 +59,16 @@ def do_if_escape(input)
   @escapes[cmd]['exec'] unless cmd.empty?
 end
 
-def start_loop(loop = true, exit_then = false)
-  while loop
+def start_loop(loop_mode = true, exit_then = false)
+  loop do
     puts 'Enter your words: (use --<cmd> or -<cmd> to escape)'
     input = readline
     do_if_escape input
 
     words = input.split /[,\s]/
-
     words.each { |item| eval_word item }
+
+    break unless loop_mode
   end
 
   return if exit_then
