@@ -25,7 +25,13 @@ end
 @result = {}
 
 load_dict(csv_path_instance) do |item|
-  item.each { |key, value| @result[key] = value unless @result.key?(key) }
+  item.each do |key, value|
+    if @result.key?(key)
+      @result[key] += "; #{value}"
+    else
+      @result[key] = value
+    end
+  end
 end
 
 File.open(destination, 'w+') do |file|
