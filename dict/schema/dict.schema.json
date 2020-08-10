@@ -1,0 +1,30 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "$id": "http://dy55.github.io/cutyourword/dict.schema.json",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "features": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "meaning": {
+        "type": "string"
+      },
+      "examples": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "source": {
+        "type": "string",
+        "enum": ["Latin", "Greek", "Other"]
+      }
+    },
+    "required": ["features", "meaning"]
+  }
+}

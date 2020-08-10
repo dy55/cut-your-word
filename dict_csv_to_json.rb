@@ -11,7 +11,7 @@ csv_path_instance = Pathname.new csv_path
 destination = Pathname.new './dict/dict.json'
 
 puts "Entered path: #{csv_path_instance}"
-printf 'Processing... '
+print 'Processing... '
 # Process start
 
 def load_dict(path)
