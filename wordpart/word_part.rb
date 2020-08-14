@@ -12,7 +12,7 @@ class WordPart
   # @param meaning [String] Meaning of this word part
   # @param examples [String] Example words
   # @param source [String] Word part source
-  def initialize(features, meaning, examples = NIL, source = NIL)
+  def initialize(features, meaning, examples = nil, source = nil)
     @features = features
     @meaning = meaning
     @examples = examples
