@@ -16,15 +16,4 @@ class Word
   def include?(input_string)
     @content.include? input_string
   end
-
-  # Cut the word into parts according to dictionaries
-  #
-  # @param root_dict [hash<String, String>] Root dictionary
-  # @param prefix_dict [hash<String, String>] Prefix dictionary
-  # @param suffix_dict [hash<String, String>] Suffix dictionary
-  #
-  # @return [Array<WordPart>] Word parts
-  def cut(root_dict, prefix_dict, suffix_dict)
-    # TODO
-  end
 end

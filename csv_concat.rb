@@ -25,7 +25,7 @@ end
 
 path = './raw/dict-raw2.csv'
 
-rows = CSV.read(path)
+rows = CSV.read path
 
 new_table = []
 
@@ -38,7 +38,7 @@ replaced_hash = {
 
 rows.each do |row|
   if row[0].nil? || row[1].nil? || row[3].nil?
-    new_table[-1] = merge(new_table[-1], row)
+    new_table[-1] = merge new_table[-1], row
 
     replaced_hash.each do |key, value|
       if value.match? new_table[-1][2]

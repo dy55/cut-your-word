@@ -43,7 +43,7 @@ module DictParse
 
   # Load dict file
   def load_dict(path)
-    CSV.foreach(path.to_s.strip) do |row|
+    CSV.foreach path.to_s.strip do |row|
       row[0].split(', ').each do |root|
         yield Hash[root, row[1]]
       end
@@ -52,16 +52,16 @@ module DictParse
 
   # Write dict file
   def write_dict(destination, hash_content)
-    File.open(destination, 'w+') do |file|
-      file.write(JSON.pretty_generate(hash_content))
+    File.open destination, 'w+' do |file|
+      file.write JSON.pretty_generate(hash_content)
     end
   end
 
   def append(hash_dict, key, value)
-    if hash_dict.key?(key)
-      hash_dict[key] += "; #{value}"
+    if hash_dict.key? key
+      hash_dict[key].append value
     else
-      hash_dict[key] = value
+      hash_dict[key] = [value]
     end
   end
 end

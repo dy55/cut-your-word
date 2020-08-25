@@ -21,8 +21,7 @@
         }
       },
       "source": {
-        "type": "string",
-        "enum": ["Latin", "Greek", "Other"]
+        "type": "string"
       }
     },
     "required": ["features", "meaning"]
