@@ -16,4 +16,8 @@ class Word
   def include?(input_string)
     @content.include? input_string
   end
+
+  def to_s
+    content
+  end
 end
