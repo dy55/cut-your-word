@@ -1,0 +1,5214 @@
+[
+  {
+    "features": [
+      "a",
+      "an"
+    ],
+    "meaning": [
+      "not",
+      "without"
+    ],
+    "examples": [
+      "abyss - without bottom",
+      "achromatic - without color",
+      "anhydrous - without water"
+    ]
+  },
+  {
+    "features": [
+      "a"
+    ],
+    "meaning": [
+      "on"
+    ],
+    "examples": [
+      "afire - on fire",
+      "ashore - on the shore",
+      "aside - on the side"
+    ]
+  },
+  {
+    "features": [
+      "a, ab",
+      "a, abs"
+    ],
+    "meaning": [
+      "from",
+      "away",
+      "off"
+    ],
+    "examples": [
+      "abduct - carry away by force",
+      "abnormal - away from normal, not normal",
+      "absent - away, not present",
+      "aversion - the act of turning away from",
+      "abbreviate: to shorten."
+    ]
+  },
+  {
+    "features": [
+      "a",
+      "ac",
+      "ad"
+    ],
+    "meaning": [
+      "to",
+      "toward",
+      "near"
+    ],
+    "examples": [
+      "accelerate - to increase the speed of",
+      "accessible - easily entered, approached, or obtained",
+      "admittance - allowing into"
+    ]
+  },
+  {
+    "features": [
+      "acro"
+    ],
+    "meaning": [
+      "top",
+      "height",
+      "tip",
+      "beginning"
+    ],
+    "examples": [
+      "acrobat - a \"high walker\"",
+      "acronym - a word formed from the first (capital) letters of a word",
+      "acrophobia - fear of height"
+    ]
+  },
+  {
+    "features": [
+      "act"
+    ],
+    "meaning": [
+      "do"
+    ],
+    "examples": [
+      "activity - something that a person does",
+      "react - to do something in response",
+      "interaction - communication between two or more things"
+    ]
+  },
+  {
+    "features": [
+      "aer",
+      "aero"
+    ],
+    "meaning": [
+      "air"
+    ],
+    "examples": [
+      "aerate - to let air reach something",
+      "aerial - relating to the air",
+      "aerospace - the air space"
+    ]
+  },
+  {
+    "features": [
+      "agr",
+      "agri",
+      "agro"
+    ],
+    "meaning": [
+      "farming"
+    ],
+    "examples": [
+      "agriculture - management of the land, agribusiness - making money by utilizing land",
+      "agrarian - relating to the management of land"
+    ]
+  },
+  {
+    "features": [
+      "alg",
+      "algo"
+    ],
+    "meaning": [
+      "pain"
+    ],
+    "examples": [
+      "neuralgia - pain caused by a nerve",
+      "analgesic - a drug that makes one pain free",
+      "nostalgia - aching for the familiar"
+    ]
+  },
+  {
+    "features": [
+      "ambi, amphi"
+    ],
+    "meaning": [
+      "both",
+      "on both sides",
+      "around"
+    ],
+    "examples": [
+      "ambidextrous - able to use both hands equally",
+      "ambiguous - having more than one meaning",
+      "ambivalence - conflicting or opposite feelings toward a person or thing"
+    ]
+  },
+  {
+    "features": [
+      "ambul"
+    ],
+    "meaning": [
+      "walk",
+      "move"
+    ],
+    "examples": [
+      "amble - to walk in a slow, relaxed way",
+      "ambulant - walking or moving around",
+      "ambulance - a vehicle that moves a patient"
+    ]
+  },
+  {
+    "features": [
+      "ami",
+      "amio"
+    ],
+    "meaning": [
+      "love"
+    ],
+    "examples": [
+      "amiable - friendly, pleasant, lovable",
+      "amity - friendly and peaceful relations",
+      "amorous - showing romantic love"
+    ]
+  },
+  {
+    "features": [
+      "ana"
+    ],
+    "meaning": [
+      "up",
+      "back",
+      "against",
+      "again",
+      "throughout"
+    ],
+    "examples": [
+      "analysis - a close examination of something",
+      "anatomy - the structure of something as visible when cut up for analysis",
+      "anachronism - not being in the right place in time"
+    ]
+  },
+  {
+    "features": [
+      "andr",
+      "andro"
+    ],
+    "meaning": [
+      "man",
+      "male"
+    ],
+    "examples": [
+      "androgynous - being both male and female",
+      "android - resembling a human",
+      "misandry - hatred towards men"
+    ]
+  },
+  {
+    "features": [
+      "anim"
+    ],
+    "meaning": [
+      "life",
+      "spirit"
+    ],
+    "examples": [
+      "animal - a living organism",
+      "animate - to make alive",
+      "equanimity - of balanced spirit"
+    ]
+  },
+  {
+    "features": [
+      "ann",
+      "annenn"
+    ],
+    "meaning": [
+      "year"
+    ],
+    "examples": [
+      "anniversary - a date observed once a year",
+      "annual - happening once a year",
+      "millennium - 1,000 years"
+    ]
+  },
+  {
+    "features": [
+      "ante"
+    ],
+    "meaning": [
+      "before",
+      "in front"
+    ],
+    "examples": [
+      "antecede - to come before something in time",
+      "antemeridian - before noon",
+      "anteroom- a small room before the main room"
+    ]
+  },
+  {
+    "features": [
+      "anth",
+      "antho"
+    ],
+    "meaning": [
+      "flower"
+    ],
+    "examples": [
+      "chrysanthemum and amaranth - names of flowers",
+      "anthology - a collection of treasured writings",
+      "anthozoan - half plant, half animal, like anemones and corals."
+    ]
+  },
+  {
+    "features": [
+      "anthrop",
+      "anthropo"
+    ],
+    "meaning": [
+      "human"
+    ],
+    "examples": [
+      "anthropology - the study of mankind",
+      "anthropomorphism - giving human form to non-human things",
+      "philanthropy - the love to mankind (expressed through good deeds)"
+    ]
+  },
+  {
+    "features": [
+      "anti"
+    ],
+    "meaning": [
+      "against",
+      "opposite of"
+    ],
+    "examples": [
+      "antibody - a substance that destroys micro-organisms",
+      "antiseptic - preventing infection",
+      "antisocial - opposing social norm"
+    ]
+  },
+  {
+    "features": [
+      "apo, apho"
+    ],
+    "meaning": [
+      "away",
+      "off",
+      "separate"
+    ],
+    "examples": [
+      "aphorism - a short expression of a general truth",
+      "apology - an explicit expression of regret, apostrophe - a small dash used in place of an omitted letter"
+    ]
+  },
+  {
+    "features": [
+      "aqu",
+      "aqua"
+    ],
+    "meaning": [
+      "water"
+    ],
+    "examples": [
+      "aquarium - a water container for fish",
+      "aquatic- relating to water",
+      "aqueduct - a pipeline for water"
+    ]
+  },
+  {
+    "features": [
+      "arbor"
+    ],
+    "meaning": [
+      "tree"
+    ],
+    "examples": [
+      "arborist - someone working with trees",
+      "arbor - a shady area formed by trees",
+      "arborous - having many trees"
+    ]
+  },
+  {
+    "features": [
+      "arch",
+      "archi"
+    ],
+    "meaning": [
+      "chief",
+      "most important",
+      "rule"
+    ],
+    "examples": [
+      "archbishop - the highest ranking bishop",
+      "archenemy - chief or worst enemy",
+      "matriarch - a female who rules a group",
+      "monarch - a king or queen"
+    ]
+  },
+  {
+    "features": [
+      "arch",
+      "archa",
+      "archi"
+    ],
+    "meaning": [
+      "primitive",
+      "ancient"
+    ],
+    "examples": [
+      "archaeology - the study of ancient cultures",
+      "archaic - belonging to an earlier period",
+      "archive - a collection of historical materials"
+    ]
+  },
+  {
+    "features": [
+      "arthr",
+      "arthro"
+    ],
+    "meaning": [
+      "joint"
+    ],
+    "examples": [
+      "arthroscope - a tool to see inside a joint",
+      "arthritis - inflammation of a joint",
+      "arthropod - invertebrates with jointed legs, like spiders, crustaceans, insects"
+    ]
+  },
+  {
+    "features": [
+      "art"
+    ],
+    "meaning": [
+      "skill"
+    ],
+    "examples": [
+      "artifact - object made by a person's skill",
+      "artisan - a person skilled in a craft",
+      "artist - a person who creates skillfully"
+    ]
+  },
+  {
+    "features": [
+      "astro, aster"
+    ],
+    "meaning": [
+      "star",
+      "stars",
+      "outer space"
+    ],
+    "examples": [
+      "astronaut - a person traveling to the stars",
+      "astronomer - someone who studies the stars",
+      "asterisk - a star-shaped sign used as a reference tool"
+    ]
+  },
+  {
+    "features": [
+      "aud",
+      "audi",
+      "audio"
+    ],
+    "meaning": [
+      "hear"
+    ],
+    "examples": [
+      "audible - loud enough to be heard",
+      "audience - people who listen to a program",
+      "audiovisual - relating to sound and vision"
+    ]
+  },
+  {
+    "features": [
+      "auto"
+    ],
+    "meaning": [
+      "self",
+      "same",
+      "one"
+    ],
+    "examples": [
+      "autocrat - a person who governs with absolute power",
+      "autograph - a person's own signature",
+      "automatic - moving by itself"
+    ]
+  },
+  {
+    "features": [
+      "avi",
+      "avia"
+    ],
+    "meaning": [
+      "bird"
+    ],
+    "examples": [
+      "aviary - a large enclosure for birds",
+      "aviatrix - a female airplane pilot",
+      "aviation - the art of designing or operating aircraft"
+    ]
+  },
+  {
+    "features": [
+      "bar",
+      "baro"
+    ],
+    "meaning": [
+      "pressure",
+      "weight"
+    ],
+    "examples": [
+      "baric - pertaining to pressure, esp. of the atmosphere",
+      "milliard - metric unit, equal to 1/1000th of a bar",
+      "baryon - heavy elementary particle"
+    ]
+  },
+  {
+    "features": [
+      "bell",
+      "belli"
+    ],
+    "meaning": [
+      "war"
+    ],
+    "examples": [
+      "bellicose - warlike",
+      "belligerent - hostile, ready to fight",
+      "rebel - person who opposes and fights"
+    ]
+  },
+  {
+    "features": [
+      "bene"
+    ],
+    "meaning": [
+      "good",
+      "well"
+    ],
+    "examples": [
+      "benefactor - person who gives money to a cause",
+      "beneficial - producing a good effect",
+      "benevolent - showing kindness or goodwill"
+    ]
+  },
+  {
+    "features": [
+      "bi",
+      "bin"
+    ],
+    "meaning": [
+      "two",
+      "twice",
+      "once in every two"
+    ],
+    "examples": [
+      "biannual - happening twice a year",
+      "binoculars - optical device with two lenses",
+      "bilateral - of or involving two sides"
+    ]
+  },
+  {
+    "features": [
+      "bibli",
+      "biblio"
+    ],
+    "meaning": [
+      "book"
+    ],
+    "examples": [
+      "bibliography - a list of books used as sources",
+      "bibliomania - an extreme love of books",
+      "bibliophile - a person who loves books"
+    ]
+  },
+  {
+    "features": [
+      "bio"
+    ],
+    "meaning": [
+      "life",
+      "living matter"
+    ],
+    "examples": [
+      "biography- a life story written by another person",
+      "biology - the science of life",
+      "biosphere - Earth's surface inhabited by living things"
+    ]
+  },
+  {
+    "features": [
+      "blast",
+      "blasto"
+    ],
+    "meaning": [
+      "cell",
+      "primitive",
+      "immature cell"
+    ],
+    "examples": [
+      "blastula - an early stage of embryonic development",
+      "fibroblast - a cell that forms connective tissue",
+      "blastoderm - the layer surrounding the inside of an egg"
+    ]
+  },
+  {
+    "features": [
+      "burs"
+    ],
+    "meaning": [
+      "pouch",
+      "purse"
+    ],
+    "examples": [
+      "bursar- an administrative officer in charge of funds",
+      "bursary- the treasury of a college or monastery",
+      "disburse-?to expend especially from a public fund"
+    ]
+  },
+  {
+    "features": [
+      "calc"
+    ],
+    "meaning": [
+      "stone"
+    ],
+    "examples": [
+      "calcite",
+      "calcium- the flame of acetylene gas generated by reaction of calcium carbide with water",
+      "?calcification-?impregnation with calcareous matter"
+    ]
+  },
+  {
+    "features": [
+      "cand"
+    ],
+    "meaning": [
+      "glowing",
+      "iridescent"
+    ],
+    "examples": [
+      "candid- free from bias, prejudice, or malice",
+      "candle- something that gives light",
+      "incandescent-?white, glowing, or luminous with intense heat"
+    ]
+  },
+  {
+    "features": [
+      "capt, cept, ceive"
+    ],
+    "meaning": [
+      "take",
+      "hold"
+    ],
+    "examples": [
+      "intercept - to stop or interrupt",
+      "perceive - to take notice of something",
+      "captivating - taking hold of"
+    ]
+  },
+  {
+    "features": [
+      "cardi",
+      "cardio"
+    ],
+    "meaning": [
+      "heart"
+    ],
+    "examples": [
+      "cardiac - relating to the heart",
+      "cardiogenic - resulting from heart disease",
+      "cardiologist - a heart doctor"
+    ]
+  },
+  {
+    "features": [
+      "carn",
+      "carni"
+    ],
+    "meaning": [
+      "flesh",
+      "meat"
+    ],
+    "examples": [
+      "carnivorous - flesh-eating",
+      "carnal - pertaining to the body or flesh",
+      "incarnate - given bodily form"
+    ]
+  },
+  {
+    "features": [
+      "cata"
+    ],
+    "meaning": [
+      "down",
+      "againstcompletely",
+      "intensive",
+      "according to"
+    ],
+    "examples": [
+      "cataclysm - a flood or other disaster, catalog - a complete listing",
+      "catastrophe - turning for the worst, a substantial disaster"
+    ]
+  },
+  {
+    "features": [
+      "caust,caut"
+    ],
+    "meaning": [
+      "to burn"
+    ],
+    "examples": [
+      "cauterize - to burn with a hot instrument",
+      "caustic - capable of burning or eating away",
+      "holocaust - total devastation, especially by fire"
+    ]
+  },
+  {
+    "features": [
+      "cede,ceed,cess"
+    ],
+    "meaning": [
+      "go",
+      "yield"
+    ],
+    "examples": [
+      "exceed - to go beyond the limits",
+      "recede - to go back",
+      "accessible - easily entered, approached, or obtained"
+    ]
+  },
+  {
+    "features": [
+      "celer"
+    ],
+    "meaning": [
+      "fast"
+    ],
+    "examples": [
+      "accelerate - to increase the speed of",
+      "decelerate - to reduce the speed of"
+    ]
+  },
+  {
+    "features": [
+      "cent",
+      "centi"
+    ],
+    "meaning": [
+      "hundred",
+      "hundredth"
+    ],
+    "examples": [
+      "centennial- the 100th anniversary",
+      "centimeter - 1/100 of a meter",
+      "century - 100 years"
+    ]
+  },
+  {
+    "features": [
+      "centr",
+      "centro",
+      "centri"
+    ],
+    "meaning": [
+      "center"
+    ],
+    "examples": [
+      "egocentric - self-centered",
+      "eccentric - not having a common center, not according to norm",
+      "centrifugal - moving outward from a center"
+    ]
+  },
+  {
+    "features": [
+      "cephal",
+      "cephalo"
+    ],
+    "meaning": [
+      "head"
+    ],
+    "examples": [
+      "encephalitis - inflammation of the brain",
+      "cephalic - pertaining to the head",
+      "cephalopod - marine mollusks like octopus and squid who have tentacles growing from their head"
+    ]
+  },
+  {
+    "features": [
+      "cerebr",
+      "cerebro"
+    ],
+    "meaning": [
+      "brain"
+    ],
+    "examples": [
+      "cerebral - pertaining to the brain",
+      "cerebrate - to use the brain",
+      "cerebrospinal - pertaining to the brain and the spinal cord"
+    ]
+  },
+  {
+    "features": [
+      "cert"
+    ],
+    "meaning": [
+      "sure"
+    ],
+    "examples": [
+      "ascertain- to find out something with certainty",
+      "certain - being absolutely sure",
+      "certify - to state that something is true"
+    ]
+  },
+  {
+    "features": [
+      "chrom",
+      "chromo chromat",
+      "chromo, chros"
+    ],
+    "meaning": [
+      "color",
+      "pigment"
+    ],
+    "examples": [
+      "achromatic - without color",
+      "chromium - a blue-white metallic chemical element, chromatics - the study of color"
+    ]
+  },
+  {
+    "features": [
+      "chron",
+      "chrono"
+    ],
+    "meaning": [
+      "time"
+    ],
+    "examples": [
+      "chronic - lasting for a long time",
+      "chronological - arranging events in time order, synchronize - happening at the same time"
+    ]
+  },
+  {
+    "features": [
+      "chrys",
+      "chryso"
+    ],
+    "meaning": [
+      "gold",
+      "yellow"
+    ],
+    "examples": [
+      "chrysanthemum and helichrysum - golden/yellow flowers",
+      "chrysolite - a yellowish gem"
+    ]
+  },
+  {
+    "features": [
+      "cide, cise"
+    ],
+    "meaning": [
+      "cut",
+      "kill"
+    ],
+    "examples": [
+      "homicide - murder",
+      "incisor - a sharp tooth for cutting food",
+      "insecticide - a chemical used to kill insects"
+    ]
+  },
+  {
+    "features": [
+      "circum,circle"
+    ],
+    "meaning": [
+      "around",
+      "about"
+    ],
+    "examples": [
+      "circumnavigate - to sail around",
+      "circumscribe - to draw around",
+      "circumspect - looking around"
+    ]
+  },
+  {
+    "features": [
+      "claim, clam"
+    ],
+    "meaning": [
+      "shout",
+      "speak out"
+    ],
+    "examples": [
+      "clamor - to shout and make noise",
+      "exclaim - to cry out loudly and suddenly",
+      "proclamation - something announced officially in public"
+    ]
+  },
+  {
+    "features": [
+      "clar"
+    ],
+    "meaning": [
+      "clear"
+    ],
+    "examples": [
+      "clarification - an explanation",
+      "clarify - to make something clear",
+      "declare - to state something clearly"
+    ]
+  },
+  {
+    "features": [
+      "clud, clus"
+    ],
+    "meaning": [
+      "close"
+    ],
+    "examples": [
+      "conclusion - the end or last part",
+      "exclusion - shutting out, rejecting",
+      "seclude - to keep away from",
+      "to isolate"
+    ]
+  },
+  {
+    "features": [
+      "cline"
+    ],
+    "meaning": [
+      "lean"
+    ],
+    "examples": [
+      "inclination - a leaning toward",
+      "incline - a surface that slopes or leans",
+      "recline - to lean back and relax"
+    ]
+  },
+  {
+    "features": [
+      "co"
+    ],
+    "meaning": [
+      "with",
+      "together",
+      "joint"
+    ],
+    "examples": [
+      "coauthor - writer who collaborates with another author",
+      "coeducation - educating males and females together",
+      "cohousing - planning your neighborhood in an intentional neighborly fashion"
+    ]
+  },
+  {
+    "features": [
+      "col"
+    ],
+    "meaning": [
+      "together",
+      "jointly"
+    ],
+    "examples": [
+      "Collaborate - to work together",
+      "collision - smashing together",
+      "colloquial - words formed by everday interaction"
+    ]
+  },
+  {
+    "features": [
+      "com"
+    ],
+    "meaning": [
+      "together",
+      "common"
+    ],
+    "examples": [
+      "commemorate - to memorize together",
+      "composition - an arrangement or putting together of parts",
+      "commune - living together while owning things in common"
+    ]
+  },
+  {
+    "features": [
+      "cogn",
+      "cogni"
+    ],
+    "meaning": [
+      "know"
+    ],
+    "examples": [
+      "cognition - process of acquiring knowledge",
+      "incognito - disguised so no one knows you",
+      "recognize - to discover that one knows"
+    ]
+  },
+  {
+    "features": [
+      "con"
+    ],
+    "meaning": [
+      "with",
+      "jointly"
+    ],
+    "examples": [
+      "concur - to agree with someone",
+      "contemporary - of the same time period as others",
+      "convention - a gathering of people with a common interest"
+    ]
+  },
+  {
+    "features": [
+      "contra",
+      "contrao"
+    ],
+    "meaning": [
+      "against",
+      "opposite"
+    ],
+    "examples": [
+      "contradict to argue against, Contraflow, contraception, contrary not in agreement, controversy disagreement"
+    ]
+  },
+  {
+    "features": [
+      "corp",
+      "corpo"
+    ],
+    "meaning": [
+      "body"
+    ],
+    "examples": [
+      "corporation - a company recognized by law as a single body",
+      "corpse - a dead body",
+      "corporal - pertaining to the body"
+    ]
+  },
+  {
+    "features": [
+      "cosm",
+      "cosmo"
+    ],
+    "meaning": [
+      "universe"
+    ],
+    "examples": [
+      "cosmonaut - a Russian astronaut",
+      "cosmos - the universe",
+      "microcosm - a miniature universe"
+    ]
+  },
+  {
+    "features": [
+      "counter"
+    ],
+    "meaning": [
+      "opposite",
+      "contrary",
+      "opposing"
+    ],
+    "examples": [
+      "counteract - to oppose the effects of an action",
+      "countermand - to cancel a previous order",
+      "counteroffensive - attack against an attack"
+    ]
+  },
+  {
+    "features": [
+      "cranio"
+    ],
+    "meaning": [
+      "skull"
+    ],
+    "examples": [
+      "craniology - the study of skull characteristics",
+      "cranium - skull of vertebrates",
+      "cranial - pertaining to the skull"
+    ]
+  },
+  {
+    "features": [
+      "cred"
+    ],
+    "meaning": [
+      "believe"
+    ],
+    "examples": [
+      "credence - belief that something is true or valid",
+      "credulous - believing things too easily, gullible",
+      "incredible - unbelievable"
+    ]
+  },
+  {
+    "features": [
+      "cruc"
+    ],
+    "meaning": [
+      "cross"
+    ],
+    "examples": [
+      "crucial-characteristic of or having the form of a cross ",
+      "crucifix- the cross itself as a Christian emblem",
+      "excruciating- ?so intense as to cause great pain or anguish"
+    ]
+  },
+  {
+    "features": [
+      "crypto"
+    ],
+    "meaning": [
+      "hidden",
+      "secret"
+    ],
+    "examples": [
+      "cryptic - of hidden meaning",
+      "cryptography - science of secret codes",
+      "encrypt - encode into secret code"
+    ]
+  },
+  {
+    "features": [
+      "cumul"
+    ],
+    "meaning": [
+      "mass",
+      "heap"
+    ],
+    "examples": [
+      "accumulate - to gather or pile up",
+      "cumulative - gradually building up"
+    ]
+  },
+  {
+    "features": [
+      "curr, curs"
+    ],
+    "meaning": [
+      "run"
+    ],
+    "examples": [
+      "concurrent- running parallel",
+      "?current- flowing easily and smoothly",
+      "?cursive-?having a flowing, easy, impromptu character"
+    ]
+  },
+  {
+    "features": [
+      "cycl"
+    ],
+    "meaning": [
+      "circle",
+      "ring"
+    ],
+    "examples": [
+      "bicycle - a vehicle with two wheels",
+      "cycle - a sequence that is repeated",
+      "cyclone - a storm with circling winds"
+    ]
+  },
+  {
+    "features": [
+      "de"
+    ],
+    "meaning": [
+      "reduce",
+      "away",
+      "down",
+      "remove"
+    ],
+    "examples": [
+      "decelerate - to slow down, reduce speed",
+      "dethrone - to remove from power",
+      "debug - to remove bugs"
+    ]
+  },
+  {
+    "features": [
+      "dec",
+      "deca,deka"
+    ],
+    "meaning": [
+      "ten"
+    ],
+    "examples": [
+      "decade - 10 years",
+      "decathlon - athletic contest that includes 10 disciplines in which each participant competes",
+      "December - formerly the 10th month of the Roman calendar"
+    ]
+  },
+  {
+    "features": [
+      "deci"
+    ],
+    "meaning": [
+      "one tenth"
+    ],
+    "examples": [
+      "deciliter - a tenth of a liter",
+      "decimate - reduce dramatically",
+      "decibel - one tenth of the sound volume unit bel"
+    ]
+  },
+  {
+    "features": [
+      "dem",
+      "demo"
+    ],
+    "meaning": [
+      "people"
+    ],
+    "examples": [
+      "democracy - government of the people",
+      "demographic - the study of people",
+      "epidemic - spreading among people in a region"
+    ]
+  },
+  {
+    "features": [
+      "demi"
+    ],
+    "meaning": [
+      "half",
+      "less than"
+    ],
+    "examples": [
+      "demitasse - a small cup of coffee",
+      "demimonde - someone of little respected life style"
+    ]
+  },
+  {
+    "features": [
+      "dendr",
+      "dendro",
+      "dendri"
+    ],
+    "meaning": [
+      "tree"
+    ],
+    "examples": [
+      "philodendron - a climbing plant that grows on trees",
+      "dendrochronology - dating events by studying growth rings in trees",
+      "dendriform - in the shape of a tree"
+    ]
+  },
+  {
+    "features": [
+      "dent, dont"
+    ],
+    "meaning": [
+      "tooth"
+    ],
+    "examples": [
+      "dental - relating to teeth",
+      "dentist - a doctor for the teeth",
+      "dentures - a set of false teeth"
+    ]
+  },
+  {
+    "features": [
+      "derm",
+      "derma"
+    ],
+    "meaning": [
+      "skin"
+    ],
+    "examples": [
+      "dermatologist - a doctor for the skin",
+      "pachyderm - a class of animals with very thick skin (elephant, rhinoceros)",
+      "dermatitis - inflammation of the skin"
+    ]
+  },
+  {
+    "features": [
+      "di",
+      "diplo"
+    ],
+    "meaning": [
+      "two",
+      "twice"
+    ],
+    "examples": [
+      "dichromatic - displaying two colors",
+      "diploma - a certificate, literally \"a letter folded double\"",
+      "dilemma - a situation that requires a choice between two alternatives."
+    ]
+  },
+  {
+    "features": [
+      "di",
+      "dis"
+    ],
+    "meaning": [
+      "apart",
+      "away",
+      "not",
+      "to the opposite"
+    ],
+    "examples": [
+      "digression - a departure from the main issue, subject",
+      "disappear - to move out of sight",
+      "dissect - to cut apart piece by piece."
+    ]
+  },
+  {
+    "features": [
+      "dia"
+    ],
+    "meaning": [
+      "through",
+      "between",
+      "apart",
+      "across"
+    ],
+    "examples": [
+      "diabetes - disease characterized by excessive thirst and discharge of urine",
+      "diagnosis - understanding a condition by going through a detailed review of symptoms",
+      "dialog - conversation between two people."
+    ]
+  },
+  {
+    "features": [
+      "dict"
+    ],
+    "meaning": [
+      "speak"
+    ],
+    "examples": [
+      "contradict - to express the opposite of",
+      "prediction - a statement foretelling the future",
+      "dictate - to speak out loud for another person to write down."
+    ]
+  },
+  {
+    "features": [
+      "domin"
+    ],
+    "meaning": [
+      "master"
+    ],
+    "examples": [
+      "dominate - to be the master of",
+      "domineering - excessively controlling",
+      "predominate - to have more power than others"
+    ]
+  },
+  {
+    "features": [
+      "don",
+      "donat"
+    ],
+    "meaning": [
+      "give"
+    ],
+    "examples": [
+      "donation - a contribution or gift",
+      "donor - someone who gives something",
+      "pardon - to give forgiveness for an offense"
+    ]
+  },
+  {
+    "features": [
+      "duc",
+      "duct"
+    ],
+    "meaning": [
+      "lead"
+    ],
+    "examples": [
+      "conduct - to lead musicians in playing music",
+      "educate - to lead to knowledge",
+      "deduction - a subtraction of an amount."
+    ]
+  },
+  {
+    "features": [
+      "du",
+      "duo"
+    ],
+    "meaning": [
+      "two",
+      "twice"
+    ],
+    "examples": [
+      "duplicate - make an identical copy",
+      "duet - a musical composition for two voices or instruments",
+      "duo - a pair normally thought of as being together."
+    ]
+  },
+  {
+    "features": [
+      "dur"
+    ],
+    "meaning": [
+      "harden",
+      "to last",
+      "lasting"
+    ],
+    "examples": [
+      "durable - having the quality of lasting",
+      "duration - the length of time something lasts",
+      "enduring - able to last."
+    ]
+  },
+  {
+    "features": [
+      "dyn",
+      "dyna",
+      "dynam"
+    ],
+    "meaning": [
+      "power",
+      "energy",
+      "strength"
+    ],
+    "examples": [
+      "dynamo - a generator of energy",
+      "dynamic - having physical energy/power",
+      "dynamite - a powerful explosive."
+    ]
+  },
+  {
+    "features": [
+      "dys"
+    ],
+    "meaning": [
+      "abnormal",
+      "bad"
+    ],
+    "examples": [
+      "dyspepsia - abnormal digestion",
+      "dystopia - an imaginary place of total misery",
+      "dyslexia - impairment of the ability to handle words."
+    ]
+  },
+  {
+    "features": [
+      "e-"
+    ],
+    "meaning": [
+      "out",
+      "away"
+    ],
+    "examples": [
+      "eloquent - speaking beautifully and forcefully",
+      "emissary - a representative of a country or group sent on a mission",
+      "eject - throw out forcefully."
+    ]
+  },
+  {
+    "features": [
+      "ego"
+    ],
+    "meaning": [
+      "self"
+    ],
+    "examples": [
+      "egoistic - self-centered",
+      "alter ego - a higher aspect of oneself",
+      "egomania - excessive preoccupation with oneself."
+    ]
+  },
+  {
+    "features": [
+      "em, en"
+    ],
+    "meaning": [
+      "into",
+      "cover with",
+      "cause"
+    ],
+    "examples": [
+      "empathy - intention to feel like another person",
+      "empower - put into power",
+      "engorge - make larger."
+    ]
+  },
+  {
+    "features": [
+      "endo"
+    ],
+    "meaning": [
+      "within",
+      "inside"
+    ],
+    "examples": [
+      "endotherm - a creature that can keep its inside temperature fairly constant",
+      "endocrine - relating to glands that secrete directly into the blood or lymph",
+      "endogamy - the custom to marry within one's clan, tribe etc."
+    ]
+  },
+  {
+    "features": [
+      "enn",
+      "enni, anni"
+    ],
+    "meaning": [
+      "years"
+    ],
+    "examples": [
+      "bicentennial - of or relating to an age or period of 200 years",
+      "centennial - of or relating to an age or period of 100 years",
+      "perennial -lasting through many years."
+    ]
+  },
+  {
+    "features": [
+      "en, in"
+    ],
+    "meaning": [
+      "inside",
+      "inwards"
+    ],
+    "examples": [
+      "envision - to picture in the mind",
+      "enclose - lock inside",
+      "inwards - towards the inside."
+    ]
+  },
+  {
+    "features": [
+      "ep",
+      "epi"
+    ],
+    "meaning": [
+      "on",
+      "upon",
+      "over",
+      "among",
+      "at",
+      "after",
+      "to",
+      "outside"
+    ],
+    "examples": [
+      "epidemic - the rapid spread of something negative",
+      "epilogue - a short speech delivered after a play",
+      "epicenter - the center of an earthquake."
+    ]
+  },
+  {
+    "features": [
+      "equ",
+      "equi"
+    ],
+    "meaning": [
+      "equal",
+      "equally"
+    ],
+    "examples": [
+      "equidistant - an equal distance from two points",
+      "equanimity - calm temperament, evenness of temper",
+      "equation - a statement of equality."
+    ]
+  },
+  {
+    "features": [
+      "erg",
+      "ergo"
+    ],
+    "meaning": [
+      "work"
+    ],
+    "examples": [
+      "ergonomics - study of the working environment",
+      "energy - the power to accomplish work",
+      "energetics - science that looks at energy and its transformation."
+    ]
+  },
+  {
+    "features": [
+      "esth",
+      "esthaesth"
+    ],
+    "meaning": [
+      "feeling",
+      "sensation",
+      "beauty"
+    ],
+    "examples": [
+      "esthetician - someone who beautifies",
+      "aesthetic - pertaining to a sense of beauty",
+      "kinesthesia - the sensation of bodily movement."
+    ]
+  },
+  {
+    "features": [
+      "ethno"
+    ],
+    "meaning": [
+      "race",
+      "people"
+    ],
+    "examples": [
+      "ethnic - pertaining to a defined group of people",
+      "ethnocentric - focusing on the ethnicity of people",
+      "ethnology - the science of people and races."
+    ]
+  },
+  {
+    "features": [
+      "eu"
+    ],
+    "meaning": [
+      "good",
+      "well"
+    ],
+    "examples": [
+      "euphemism - replacing an offensive word with an inoffensive one",
+      "euphonious - having a pleasant sound",
+      "euphoria - feeling of well-being."
+    ]
+  },
+  {
+    "features": [
+      "ex"
+    ],
+    "meaning": [
+      "from",
+      "out"
+    ],
+    "examples": [
+      "excavate - to dig out",
+      "exhale - to breathe out",
+      "extract - to pull out."
+    ]
+  },
+  {
+    "features": [
+      "extra, extro"
+    ],
+    "meaning": [
+      "outside",
+      "beyond"
+    ],
+    "examples": [
+      "extraordinary - beyond ordinary",
+      "extraterrestrial - outside the Earth",
+      "extrovert - an outgoing person."
+    ]
+  },
+  {
+    "features": [
+      "fac",
+      "fact"
+    ],
+    "meaning": [
+      "make",
+      "do"
+    ],
+    "examples": [
+      "artifact - an object made by a person",
+      "factory - a place where things are made",
+      "malefact - a person who does wrong."
+    ]
+  },
+  {
+    "features": [
+      "fer"
+    ],
+    "meaning": [
+      "bear",
+      "bring",
+      "carry"
+    ],
+    "examples": [
+      "confer - to bring an honor to someone",
+      "ferry - a boat that carries passengers",
+      "transfer - to move to another place."
+    ]
+  },
+  {
+    "features": [
+      "fid"
+    ],
+    "meaning": [
+      "faith"
+    ],
+    "examples": [
+      "confide - place trust in someone, fidelity - faithfulness",
+      "fiduciary - a trustee"
+    ]
+  },
+  {
+    "features": [
+      "flect"
+    ],
+    "meaning": [
+      "bend"
+    ],
+    "examples": [
+      "deflect - to bend course because of hitting something",
+      "inflection - a bending in the voice's tone or pitch",
+      "flexible - easily bending."
+    ]
+  },
+  {
+    "features": [
+      "flor",
+      "flora,fleur"
+    ],
+    "meaning": [
+      "flower"
+    ],
+    "examples": [
+      "florist - someone working with flowers",
+      "floral - flowerlike",
+      "flora - the plant life of a particular time or area"
+    ]
+  },
+  {
+    "features": [
+      "for"
+    ],
+    "meaning": [
+      "completely (used to intensifythe meaning of a word)"
+    ],
+    "examples": [
+      "forsaken or forfeited - completely lost",
+      "forgiven - completely given (a release of debt)."
+    ]
+  },
+  {
+    "features": [
+      "fore"
+    ],
+    "meaning": [
+      "in front of",
+      "previous",
+      "earlier"
+    ],
+    "examples": [
+      "forebear - ancestor",
+      "forebode - to give an advance warning of something bad",
+      "forecast - a preview of events to be."
+    ]
+  },
+  {
+    "features": [
+      "form"
+    ],
+    "meaning": [
+      "shape"
+    ],
+    "examples": [
+      "conformity- correspondence in form, manner, or character",
+      "?formation- something that is formed",
+      "?reformatory-?intended for reformation"
+    ]
+  },
+  {
+    "features": [
+      "fract, frag"
+    ],
+    "meaning": [
+      "break"
+    ],
+    "examples": [
+      "fracture - a break",
+      "fragile - easy to break",
+      "fragment or fraction - a part or element of a larger whole"
+    ]
+  },
+  {
+    "features": [
+      "fug"
+    ],
+    "meaning": [
+      "flee",
+      "run away",
+      "escape"
+    ],
+    "examples": [
+      "fugitive - a person who is running away",
+      "refuge - a sheltered place to flee to",
+      "refugee - a person seeking protection"
+    ]
+  },
+  {
+    "features": [
+      "funct"
+    ],
+    "meaning": [
+      "perform",
+      "work"
+    ],
+    "examples": [
+      "defunct - no longer working or alive",
+      "function - to work or perform a role normally",
+      "malfunction - to fail to work correctly."
+    ]
+  },
+  {
+    "features": [
+      "fus"
+    ],
+    "meaning": [
+      "pour"
+    ],
+    "examples": [
+      "confusion - being flooded with too much information that is hard to make sense of",
+      "fuse - to melt by heating",
+      "infuse - to put into."
+    ]
+  },
+  {
+    "features": [
+      "gastr",
+      "gastro"
+    ],
+    "meaning": [
+      "stomach"
+    ],
+    "examples": [
+      "gastric - pertaining to the stomach",
+      "gastronomy - serving the stomach by providing good food",
+      "gastritis - inflammation of the stomach."
+    ]
+  },
+  {
+    "features": [
+      "gen",
+      "geno",
+      "gene",
+      "gengenesis"
+    ],
+    "meaning": [
+      "birth",
+      "production",
+      "formation",
+      "kind"
+    ],
+    "examples": [
+      "genealogy - the study of the history of a family",
+      "generation - all the people born at approximately the same time",
+      "genetic -relating to heredity encoded in the genes."
+    ]
+  },
+  {
+    "features": [
+      "geo"
+    ],
+    "meaning": [
+      "earth",
+      "soil",
+      "global"
+    ],
+    "examples": [
+      "geography - study of the earth's surface",
+      "geology - study of the structure of the earth",
+      "geoponics - soil based agriculture."
+    ]
+  },
+  {
+    "features": [
+      "ger"
+    ],
+    "meaning": [
+      "old age"
+    ],
+    "examples": [
+      "geriatrics - medicine pertaining to the elderly",
+      "gerontocracy - the rule of the elders",
+      "gerontology - the science of aging."
+    ]
+  },
+  {
+    "features": [
+      "giga"
+    ],
+    "meaning": [
+      "a billion"
+    ],
+    "examples": [
+      "gigabyte - unit of computer storage space",
+      "gigahertz - unit of frequency (one billion Hz/sec)",
+      "gigawatt unit of electric power (one billion watts)."
+    ]
+  },
+  {
+    "features": [
+      "gon"
+    ],
+    "meaning": [
+      "angle"
+    ],
+    "examples": [
+      "decagon - a polygon with 10 angles",
+      "diagonal - a slanting line running across a space",
+      "octagon - a geometrical figure with 8 angles."
+    ]
+  },
+  {
+    "features": [
+      "gram"
+    ],
+    "meaning": [
+      "letter",
+      "written"
+    ],
+    "examples": [
+      "diagram - a simple drawing",
+      "grammar - rules of how to write words in sentences",
+      "telegram - a message sent by telegraph."
+    ]
+  },
+  {
+    "features": [
+      "gran"
+    ],
+    "meaning": [
+      "grain"
+    ],
+    "examples": [
+      "granary- a storehouse or repository for grain especially after it is threshed or husked",
+      "?granola- a mixture of rolled oats and other ingredients",
+      "?granule-?a little grain (as of sugar)"
+    ]
+  },
+  {
+    "features": [
+      "graph",
+      "graphy"
+    ],
+    "meaning": [
+      "writing",
+      "recording",
+      "written"
+    ],
+    "examples": [
+      "Graphology - the study of handwritings",
+      "autograph - written with one's own hand",
+      "seismograph - a machine noting strength and duration of earthquakes."
+    ]
+  },
+  {
+    "features": [
+      "grat"
+    ],
+    "meaning": [
+      "pleasing"
+    ],
+    "examples": [
+      "gratify - to please someone",
+      "grateful - feeling thankful",
+      "gratuity - a tip, token of appreciation."
+    ]
+  },
+  {
+    "features": [
+      "gyn",
+      "gyno",
+      "gyne"
+    ],
+    "meaning": [
+      "woman",
+      "female"
+    ],
+    "examples": [
+      "gynecology - the science of female reproductive health",
+      "gynephobia - fear of women",
+      "gynecoid - resembling a woman."
+    ]
+  },
+  {
+    "features": [
+      "gress, grad",
+      "gress, grade",
+      "gress, gradi"
+    ],
+    "meaning": [
+      "to step",
+      "to go"
+    ],
+    "examples": [
+      "digression - a departure from the main issue, subject, etc.",
+      "progress - movement forward or onward",
+      "gradual - step by step."
+    ]
+  },
+  {
+    "features": [
+      "hect",
+      "hecto, hecat"
+    ],
+    "meaning": [
+      "hundred"
+    ],
+    "examples": [
+      "hectoliter - 100 liters",
+      "hectare - metric unit equaling 100 ares or 10,000 square meters",
+      "hectometer - 100 meters."
+    ]
+  },
+  {
+    "features": [
+      "helic",
+      "helico"
+    ],
+    "meaning": [
+      "spiral",
+      "circular"
+    ],
+    "examples": [
+      "helicopter - an aircraft with horizontal rotating wing",
+      "helix - a spiral form",
+      "helicon - a circular tuba."
+    ]
+  },
+  {
+    "features": [
+      "heli",
+      "helio"
+    ],
+    "meaning": [
+      "sun"
+    ],
+    "examples": [
+      "heliotropism - movement or growth in relating to the sun",
+      "heliograph - apparatus used to send message with the help of sunlight",
+      "helianthus - genus of plants including sunflowers."
+    ]
+  },
+  {
+    "features": [
+      "hemi"
+    ],
+    "meaning": [
+      "half",
+      "partial"
+    ],
+    "examples": [
+      "hemicycle - a semicircular structure",
+      "hemisphere - one half of the earth",
+      "hemistich - half a line of poetry."
+    ]
+  },
+  {
+    "features": [
+      "hem",
+      "hemo",
+      "hema"
+    ],
+    "meaning": [
+      "blood"
+    ],
+    "examples": [
+      "hemorrhage - clotting of the blood",
+      "hemorrhoids - swelling of the blood vessels",
+      "hemoglobin - red blood particle."
+    ]
+  },
+  {
+    "features": [
+      "hepa"
+    ],
+    "meaning": [
+      "liver"
+    ],
+    "examples": [
+      "hepatitis - inflammation of the liver",
+      "hepatoma - a tumor of the liver",
+      "hepatotoxic - toxic and damaging to the liver."
+    ]
+  },
+  {
+    "features": [
+      "hept",
+      "hepta"
+    ],
+    "meaning": [
+      "seven"
+    ],
+    "examples": [
+      "heptagon - a shape with seven angles and seven sides",
+      "Heptateuch - the first seven books of the Old Testament",
+      "heptameter - a line of verse consisting of seven metrical feet."
+    ]
+  },
+  {
+    "features": [
+      "herbi"
+    ],
+    "meaning": [
+      "grass",
+      "plant"
+    ],
+    "examples": [
+      "herbicide - any chemical used to kill unwanted plants, etc.",
+      "herbivorous - plant-eating",
+      "herbal - relating to plants."
+    ]
+  },
+  {
+    "features": [
+      "hetero"
+    ],
+    "meaning": [
+      "different",
+      "other"
+    ],
+    "examples": [
+      "heterogeneous - made up of unrelated parts",
+      "heteronyms - words with same spelling but different meanings",
+      "heterodox - not conforming to traditional beliefs."
+    ]
+  },
+  {
+    "features": [
+      "hex",
+      "hexa"
+    ],
+    "meaning": [
+      "six"
+    ],
+    "examples": [
+      "hexagon - a shape with six angles/sides",
+      "hexameter - a verse measured in six",
+      "hexapod - having six legs."
+    ]
+  },
+  {
+    "features": [
+      "histo"
+    ],
+    "meaning": [
+      "tissue"
+    ],
+    "examples": [
+      "histology - study of the microscopic structure of tissues",
+      "histochemistry - study of the chemical constitution of cells and tissues."
+    ]
+  },
+  {
+    "features": [
+      "homo,homeo"
+    ],
+    "meaning": [
+      "like",
+      "alike",
+      "same"
+    ],
+    "examples": [
+      "homogeneous - of the same nature or kind",
+      "homonym - sounding alike",
+      "homeopath - a therapy that is based on treating \"same with same\""
+    ]
+  },
+  {
+    "features": [
+      "hydr",
+      "hydro"
+    ],
+    "meaning": [
+      "liquid",
+      "water"
+    ],
+    "examples": [
+      "hydrate - to add water to",
+      "hydrophobia - intense fear of water",
+      "hydroponics - growing plants in liquid nutrient solution",
+      "hydraulic - operated by force created by a liquid."
+    ]
+  },
+  {
+    "features": [
+      "hygr",
+      "hygro"
+    ],
+    "meaning": [
+      "moisture",
+      "humidity"
+    ],
+    "examples": [
+      "hygrometer - tool used to measure humidity",
+      "hygrograph - instrument for recording variations in atmospheric humidity."
+    ]
+  },
+  {
+    "features": [
+      "hyper"
+    ],
+    "meaning": [
+      "too much",
+      "over",
+      "excessive",
+      "beyond"
+    ],
+    "examples": [
+      "hyperactive - very restless",
+      "hypercritical - too critical",
+      "hypertension - above normal pressure."
+    ]
+  },
+  {
+    "features": [
+      "hyp",
+      "hypo"
+    ],
+    "meaning": [
+      "under"
+    ],
+    "examples": [
+      "hypoglycemia - an abnormally low level of sugar in the blood",
+      "hypothermia - abnormally low body temperature",
+      "hypothesis - a theory that is unproven but used under the assumption that it is true."
+    ]
+  },
+  {
+    "features": [
+      "iatr",
+      "iatro"
+    ],
+    "meaning": [
+      "medical care"
+    ],
+    "examples": [
+      "geriatrics - medical care of the elderly",
+      "pediatrician - a doctor who treats children",
+      "podiatry - medical care for feet."
+    ]
+  },
+  {
+    "features": [
+      "icon",
+      "icono"
+    ],
+    "meaning": [
+      "image"
+    ],
+    "examples": [
+      "icon - an (often religious) image, in modern usage a simplified graphic of high symbolic content",
+      "iconology - science of symbols and icons",
+      "iconoclast - someone who destroys religious images and traditional beliefs."
+    ]
+  },
+  {
+    "features": [
+      "idio"
+    ],
+    "meaning": [
+      "peculiar",
+      "personal",
+      "distinct"
+    ],
+    "examples": [
+      "idiomatic - Peculiar to a particular language",
+      "idiosyncracy - a physical or mental characteristic typical or a particular person",
+      "idiot - someone who is distinctly foolish or stupid."
+    ]
+  },
+  {
+    "features": [
+      "il, in"
+    ],
+    "meaning": [
+      "in",
+      "into"
+    ],
+    "examples": [
+      "illuminate - to give light to",
+      "innovation - a new idea, method, or device",
+      "inspection - the act of examining or reviewing."
+    ]
+  },
+  {
+    "features": [
+      "ig, il, im,in, ir"
+    ],
+    "meaning": [
+      "not",
+      "without"
+    ],
+    "examples": [
+      "illegal - not legal",
+      "impossible - not possible",
+      "inappropriate - not appropriate",
+      "irresponsible - not responsible."
+    ]
+  },
+  {
+    "features": [
+      "imag"
+    ],
+    "meaning": [
+      "likeness"
+    ],
+    "examples": [
+      "image - a likeness of someone",
+      "imaginative - able to think up new ideas or images",
+      "imagine - to form a picture or likeness in the mind."
+    ]
+  },
+  {
+    "features": [
+      "infra"
+    ],
+    "meaning": [
+      "beneath",
+      "below"
+    ],
+    "examples": [
+      "infrastructure - underlying framework of a system",
+      "infrared - below the regular light spectrum."
+    ]
+  },
+  {
+    "features": [
+      "inter"
+    ],
+    "meaning": [
+      "between",
+      "among",
+      "jointly"
+    ],
+    "examples": [
+      "international - involving two or more countries",
+      "intersection - place where roads come together",
+      "intercept - to stop or interrupt the course of."
+    ]
+  },
+  {
+    "features": [
+      "intra,intro"
+    ],
+    "meaning": [
+      "within",
+      "inside"
+    ],
+    "examples": [
+      "intrastate - existing in one state",
+      "intravenous - inside or into a vein",
+      "introvert - shy person who keeps within him/herself."
+    ]
+  },
+  {
+    "features": [
+      "ir"
+    ],
+    "meaning": [
+      "not"
+    ],
+    "examples": [
+      "irredeemable - not redeemable",
+      "irreformable - not reformable",
+      "irrational - not rational."
+    ]
+  },
+  {
+    "features": [
+      "iso"
+    ],
+    "meaning": [
+      "equal"
+    ],
+    "examples": [
+      "isobar - a line on a map connecting points of equal barometric pressure",
+      "isometric - having equality of measure",
+      "isothermal - having equal or constant temperature."
+    ]
+  },
+  {
+    "features": [
+      "ject"
+    ],
+    "meaning": [
+      "throw"
+    ],
+    "examples": [
+      "eject - to throw someone/something out",
+      "interject - to throw a remark into a discussion",
+      "project - to cast or throw something."
+    ]
+  },
+  {
+    "features": [
+      "jud"
+    ],
+    "meaning": [
+      "law"
+    ],
+    "examples": [
+      "judgment - a decision of a court of law",
+      "judicial - having to do with judges or courts of law",
+      "judiciary - a system of courts of law."
+    ]
+  },
+  {
+    "features": [
+      "junct"
+    ],
+    "meaning": [
+      "join"
+    ],
+    "examples": [
+      "conjunction - a word that joins parts of sentences",
+      "disjunction - a disconnection",
+      "junction - a place where two things join."
+    ]
+  },
+  {
+    "features": [
+      "juven"
+    ],
+    "meaning": [
+      "young"
+    ],
+    "examples": [
+      "juvenile - youthful or childish",
+      "rejuvenate - to bring back to youthful strength or appearance."
+    ]
+  },
+  {
+    "features": [
+      "kilo"
+    ],
+    "meaning": [
+      "thousand"
+    ],
+    "examples": [
+      "kilobyte - 1,000 bytes",
+      "kilometer - 1,000 meter",
+      "kilograms - 1,000 grams."
+    ]
+  },
+  {
+    "features": [
+      "kine",
+      "kinet",
+      "kinemat"
+    ],
+    "meaning": [
+      "motion",
+      "division"
+    ],
+    "examples": [
+      "kinetics - study of the force of motion",
+      "psychokinesis or telekinesis - the ability to move objects with your mind",
+      "cinematography - motion picture making."
+    ]
+  },
+  {
+    "features": [
+      "lab"
+    ],
+    "meaning": [
+      "work"
+    ],
+    "examples": [
+      "collaborate - to work with a person",
+      "elaborate - to work out the details",
+      "laborious - requiring a lot of hard work."
+    ]
+  },
+  {
+    "features": [
+      "lact",
+      "lacto"
+    ],
+    "meaning": [
+      "milk"
+    ],
+    "examples": [
+      "lactate - to give milk, nurse",
+      "lactose - the sugar contained in milk",
+      "lactic acid."
+    ]
+  },
+  {
+    "features": [
+      "later"
+    ],
+    "meaning": [
+      "side"
+    ],
+    "examples": [
+      "bilateral - of or involving two sides",
+      "unilateral - affecting one side of something."
+    ]
+  },
+  {
+    "features": [
+      "leuk",
+      "leuko,leuc",
+      "leuko"
+    ],
+    "meaning": [
+      "white",
+      "colorless"
+    ],
+    "examples": [
+      "leukemia - abnormal increase of white blood cells in the blood",
+      "leukocyte - a mature white blood cell",
+      "leucine - a white, crystalline amino acid."
+    ]
+  },
+  {
+    "features": [
+      "lex"
+    ],
+    "meaning": [
+      "word",
+      "law",
+      "reading"
+    ],
+    "examples": [
+      "lexicology - the study and history of words",
+      "alexia -loss of the ability to read",
+      "illegal - not authorized by the official rules or laws."
+    ]
+  },
+  {
+    "features": [
+      "liber"
+    ],
+    "meaning": [
+      "free"
+    ],
+    "examples": [
+      "liberate - to set free",
+      "libertine - a person with a free, wild lifestyle",
+      "liberty - freedom."
+    ]
+  },
+  {
+    "features": [
+      "lingu"
+    ],
+    "meaning": [
+      "language",
+      "tongue"
+    ],
+    "examples": [
+      "linguist - one who studies languages",
+      "multilingual - able to communicate in multiple languages",
+      "linguine - long, flat \"tongue-shaped\" pasta."
+    ]
+  },
+  {
+    "features": [
+      "lip",
+      "lipo"
+    ],
+    "meaning": [
+      "fat"
+    ],
+    "examples": [
+      "liposuction - the mechanical removal of fat reserves in the tissue",
+      "lipase - enzyme that breaks down fat",
+      "lipoid - resembling fat."
+    ]
+  },
+  {
+    "features": [
+      "lite, ite,lith",
+      "lite, ite,litho"
+    ],
+    "meaning": [
+      "mineral",
+      "rock",
+      "fossil"
+    ],
+    "examples": [
+      "apatite - a group of common minerals",
+      "granite - a hard, granular rock",
+      "monolith - a remarkable, unique stone."
+    ]
+  },
+  {
+    "features": [
+      "loc"
+    ],
+    "meaning": [
+      "place"
+    ],
+    "examples": [
+      "dislocate - to put something out of its usual place",
+      "location - a place",
+      "relocate - to move to a new place."
+    ]
+  },
+  {
+    "features": [
+      "log",
+      "logo"
+    ],
+    "meaning": [
+      "word",
+      "doctrine",
+      "discourse"
+    ],
+    "examples": [
+      "logic - correct reasoning",
+      "monologue - a long speech by one speaker",
+      "analogy - similarity, especially between things otherwise dissimilar."
+    ]
+  },
+  {
+    "features": [
+      "loqu, locu"
+    ],
+    "meaning": [
+      "speak"
+    ],
+    "examples": [
+      "eloquent - speaking beautifully and forcefully ",
+      "loquacious - very talkative",
+      "elocution - art of public speaking."
+    ]
+  },
+  {
+    "features": [
+      "luc"
+    ],
+    "meaning": [
+      "light"
+    ],
+    "examples": [
+      "elucidate - to explain, to throw light on",
+      "lucid - easily understood, giving off light",
+      "translucent - allowing light through."
+    ]
+  },
+  {
+    "features": [
+      "lud, lus"
+    ],
+    "meaning": [
+      "to play"
+    ],
+    "examples": [
+      "prelude - introduction to the major performance",
+      "illusion - misleading optical image or impression",
+      "delude - to mislead, deceive."
+    ]
+  },
+  {
+    "features": [
+      "lumin"
+    ],
+    "meaning": [
+      "light"
+    ],
+    "examples": [
+      "illuminate - to fill with light",
+      "lumen - unit measuring light."
+    ]
+  },
+  {
+    "features": [
+      "lun",
+      "luna",
+      "luni"
+    ],
+    "meaning": [
+      "moon"
+    ],
+    "examples": [
+      "lunar - relating to the moon",
+      "lunarscape - the surface of the moon",
+      "lunatic - insane (as if driven mad by the moon)."
+    ]
+  },
+  {
+    "features": [
+      "macro"
+    ],
+    "meaning": [
+      "large",
+      "great"
+    ],
+    "examples": [
+      "macroevolution - large scale evolution",
+      "macromolecule - a large molecule",
+      "macroeconomics - study of the overall forces of economy."
+    ]
+  },
+  {
+    "features": [
+      "magn",
+      "magna",
+      "magni"
+    ],
+    "meaning": [
+      "great",
+      "large"
+    ],
+    "examples": [
+      "magnify - make larger",
+      "magnificent - grand",
+      "magnate - a powerful person, especially in business or industry."
+    ]
+  },
+  {
+    "features": [
+      "mal",
+      "male"
+    ],
+    "meaning": [
+      "bad",
+      "ill",
+      "wrong"
+    ],
+    "examples": [
+      "malcontent - wrong content",
+      "malaria - \"bad air\", infectious disease thought to originate from the \"bad air\" of the swamps, but caused by the bite of an infected mosquito",
+      "malicious - showing strong ill will."
+    ]
+  },
+  {
+    "features": [
+      "man",
+      "mani",
+      "manu"
+    ],
+    "meaning": [
+      "hand"
+    ],
+    "examples": [
+      "maneuver - to move by hand",
+      "manual - done with the hands",
+      "manuscript - a book written by hand."
+    ]
+  },
+  {
+    "features": [
+      "mand"
+    ],
+    "meaning": [
+      "to order"
+    ],
+    "examples": [
+      "command - an order or instruction",
+      "demand - a hard-to-ignore order",
+      "mandate - an official order."
+    ]
+  },
+  {
+    "features": [
+      "mania"
+    ],
+    "meaning": [
+      "madness",
+      "insanity",
+      "excessive desire"
+    ],
+    "examples": [
+      "bibliomania - a crazy love of books",
+      "egomania - a mad love of oneself",
+      "maniac an insane person."
+    ]
+  },
+  {
+    "features": [
+      "mar",
+      "mari"
+    ],
+    "meaning": [
+      "sea"
+    ],
+    "examples": [
+      "marina - a harbor for pleasure boats",
+      "maritime - relating to the sea",
+      "submarine - an undersea boat",
+      "aquamarine - color of sea water."
+    ]
+  },
+  {
+    "features": [
+      "mater,matr",
+      "mater,matri"
+    ],
+    "meaning": [
+      "mother"
+    ],
+    "examples": [
+      "maternal - relating to motherhood",
+      "maternity - the state of being a mother",
+      "matriarch - a woman head of a household."
+    ]
+  },
+  {
+    "features": [
+      "max"
+    ],
+    "meaning": [
+      "greatest"
+    ],
+    "examples": [
+      "maximal - the best or greatest possible",
+      "maximize - to make as great as possible",
+      "maximum - the greatest amount."
+    ]
+  },
+  {
+    "features": [
+      "medi"
+    ],
+    "meaning": [
+      "middle"
+    ],
+    "examples": [
+      "medieval - pertaining to the Middle Ages",
+      "medium - in the middle",
+      "mediocre - only of medium (inferior) quality."
+    ]
+  },
+  {
+    "features": [
+      "mega"
+    ],
+    "meaning": [
+      "great",
+      "large",
+      "million"
+    ],
+    "examples": [
+      "megalopolis - an area with many nearby cities",
+      "megaphone - a device that projects a loud voice",
+      "megastructure - huge building or other structure."
+    ]
+  },
+  {
+    "features": [
+      "melan",
+      "melano"
+    ],
+    "meaning": [
+      "black"
+    ],
+    "examples": [
+      "melancholy - a state of dark emotions",
+      "melanoma - malignant dark tumor of the skin",
+      "melodrama - a dark, pathetic drama."
+    ]
+  },
+  {
+    "features": [
+      "memor",
+      "memori"
+    ],
+    "meaning": [
+      "remember"
+    ],
+    "examples": [
+      "commemorate - to honor the memory of, as by a ceremony",
+      "memorial - related to remembering a person or event",
+      "memory: an ability to retain knowledge or an individual's stock of retained knowledge."
+    ]
+  },
+  {
+    "features": [
+      "merge,mers"
+    ],
+    "meaning": [
+      "dip",
+      "dive"
+    ],
+    "examples": [
+      "immerge or immerse - to put or dip something into a liquid",
+      "submerge to dip something completely into wate.r"
+    ]
+  },
+  {
+    "features": [
+      "meso"
+    ],
+    "meaning": [
+      "middle"
+    ],
+    "examples": [
+      "Mesoamerica - Middle America",
+      "meson - elementary particle with a mass between an electron and a proton."
+    ]
+  },
+  {
+    "features": [
+      "meta"
+    ],
+    "meaning": [
+      "change",
+      "after",
+      "beyond",
+      "between"
+    ],
+    "examples": [
+      "metaphysics - study of nature and reality",
+      "metamorphosis - a complete change of form",
+      "metastasis - the transmission of disease to other parts of the body."
+    ]
+  },
+  {
+    "features": [
+      "meter,metr",
+      "meter,metry"
+    ],
+    "meaning": [
+      "measure"
+    ],
+    "examples": [
+      "audiometer- an instrument that measures hearing acuteness",
+      "chronometer- an instrument that measures time",
+      "metric - measured."
+    ]
+  },
+  {
+    "features": [
+      "micro"
+    ],
+    "meaning": [
+      "very small",
+      "short",
+      "minute"
+    ],
+    "examples": [
+      "microbe - a very small living thing",
+      "microchip - a tiny wafer with an integrated circuit",
+      "microscope - a device to see very small things."
+    ]
+  },
+  {
+    "features": [
+      "mid"
+    ],
+    "meaning": [
+      "middle"
+    ],
+    "examples": [
+      "midriff - the area between the chest and the waist",
+      "midterm - middle of a term in school",
+      "midway - halfway between."
+    ]
+  },
+  {
+    "features": [
+      "migr"
+    ],
+    "meaning": [
+      "move"
+    ],
+    "examples": [
+      "immigrant - a person who moves to a new country to settle",
+      "migrant - person who moves from place to place",
+      "migration - the process of moving."
+    ]
+  },
+  {
+    "features": [
+      "milli"
+    ],
+    "meaning": [
+      "onethousandth"
+    ],
+    "examples": [
+      "millimeter - one thousandth of a meter",
+      "millibar - one thousandth of a bar",
+      "milliliter - one thousandth of a liter."
+    ]
+  },
+  {
+    "features": [
+      "min",
+      "mini"
+    ],
+    "meaning": [
+      "small",
+      "less"
+    ],
+    "examples": [
+      "mini - something that is very small",
+      "minuscule - extremely tiny",
+      "minutiae - very small or trivial details."
+    ]
+  },
+  {
+    "features": [
+      "mis",
+      "miso"
+    ],
+    "meaning": [
+      "bad",
+      "badly",
+      "wrong",
+      "wrongly",
+      "to hate"
+    ],
+    "examples": [
+      "misbehave - to behave badly",
+      "misprint - an error in printing",
+      "misnomer - an error in naming a person or thing."
+    ]
+  },
+  {
+    "features": [
+      "miss, mit"
+    ],
+    "meaning": [
+      "send",
+      "let go"
+    ],
+    "examples": [
+      "dismiss - to send someone away",
+      "missile - a weapon sent into the air",
+      "emit - to send something out",
+      "admittance - entry."
+    ]
+  },
+  {
+    "features": [
+      "mob"
+    ],
+    "meaning": [
+      "move"
+    ],
+    "examples": [
+      "immobilize - to stop from moving",
+      "mobile - able to move freely",
+      "mobility - the quality of being able to move."
+    ]
+  },
+  {
+    "features": [
+      "mon",
+      "mono"
+    ],
+    "meaning": [
+      "one",
+      "single",
+      "alone"
+    ],
+    "examples": [
+      "monochromat - having one color",
+      "monologue - a speech spoken by one person",
+      "monotheism - belief in one god."
+    ]
+  },
+  {
+    "features": [
+      "mot, mov"
+    ],
+    "meaning": [
+      "move"
+    ],
+    "examples": [
+      "motion - the act of moving",
+      "motivate - to move someone to action",
+      "promote to move someone forward",
+      "removable - able to be taken or carried away."
+    ]
+  },
+  {
+    "features": [
+      "morph",
+      "morpho"
+    ],
+    "meaning": [
+      "form"
+    ],
+    "examples": [
+      "metamorphosis - complete change of form",
+      "endorphins - chemical in the brain able to transform pain",
+      "amorphous - without distinct shape or form."
+    ]
+  },
+  {
+    "features": [
+      "mort"
+    ],
+    "meaning": [
+      "death"
+    ],
+    "examples": [
+      "immortal - living forever, unable to die",
+      "mortal - certain to die",
+      "mortician - an undertaker."
+    ]
+  },
+  {
+    "features": [
+      "multi"
+    ],
+    "meaning": [
+      "many",
+      "more than one or two"
+    ],
+    "examples": [
+      "multicolored - having many colors",
+      "multimedia - using a range of media",
+      "multitasking - doing many things at once."
+    ]
+  },
+  {
+    "features": [
+      "mut"
+    ],
+    "meaning": [
+      "change"
+    ],
+    "examples": [
+      "immutable - not changing",
+      "mutant - an organism that has undergone change",
+      "mutate - to undergo a change."
+    ]
+  },
+  {
+    "features": [
+      "my",
+      "myo"
+    ],
+    "meaning": [
+      "muscle"
+    ],
+    "examples": [
+      "myocardium - the middle muscle of the heart",
+      "myasthenia - muscle fatigue or weakness",
+      "myosin - common protein in muscle tissue."
+    ]
+  },
+  {
+    "features": [
+      "narr"
+    ],
+    "meaning": [
+      "tell"
+    ],
+    "examples": [
+      "narrate - to tell a story",
+      "narrative - a story",
+      "narrator - a person who tells a story."
+    ]
+  },
+  {
+    "features": [
+      "nat"
+    ],
+    "meaning": [
+      "born"
+    ],
+    "examples": [
+      "innate - included since birth",
+      "natal - relating to birth",
+      "natural - gotten at birth, not afterward."
+    ]
+  },
+  {
+    "features": [
+      "nav"
+    ],
+    "meaning": [
+      "ship"
+    ],
+    "examples": [
+      "circumnavigate - to sail around a place",
+      "naval - relating to a navy or warships",
+      "navigate - to sail a ship through a place."
+    ]
+  },
+  {
+    "features": [
+      "necr",
+      "necro"
+    ],
+    "meaning": [
+      "dead",
+      "death"
+    ],
+    "examples": [
+      "necrophil - loving death",
+      "necrosis - the death of tissue due to disease or injury",
+      "necrology - a list of persons who have recently died."
+    ]
+  },
+  {
+    "features": [
+      "neg"
+    ],
+    "meaning": [
+      "no"
+    ],
+    "examples": [
+      "negate - to say it didn't happen",
+      "negative - meaning \"no\"",
+      "renege - to go back on a promise."
+    ]
+  },
+  {
+    "features": [
+      "neo"
+    ],
+    "meaning": [
+      "new",
+      "recent"
+    ],
+    "examples": [
+      "neoclassic - a revival of classic form, neocolonialism - the indirect (\"new\") economical and political control of a region by a more powerful foreign power",
+      "neonatal - a newborn child, especially the first few weeks."
+    ]
+  },
+  {
+    "features": [
+      "nephr",
+      "nephro"
+    ],
+    "meaning": [
+      "kidney"
+    ],
+    "examples": [
+      "nephritis - inflammation of the kidneys",
+      "nephrotomy - surgical incision of a kidney",
+      "nephron - a single, excretory unit in the kidney."
+    ]
+  },
+  {
+    "features": [
+      "neur",
+      "neuro"
+    ],
+    "meaning": [
+      "nerve"
+    ],
+    "examples": [
+      "neuralgia - pain along a nerve",
+      "neurologist - doctor specializing in the nerves",
+      "neurotic - mental disorder that usually does not include an impaired perception of reality."
+    ]
+  },
+  {
+    "features": [
+      "nom",
+      "nomin"
+    ],
+    "meaning": [
+      "name"
+    ],
+    "examples": [
+      "misnomer - an error in naming a person or thing",
+      "nominal - being something in name only but not in reality",
+      "nominate - to name for election or appointment, to designate."
+    ]
+  },
+  {
+    "features": [
+      "non"
+    ],
+    "meaning": [
+      "no",
+      "not",
+      "without"
+    ],
+    "examples": [
+      "nondescript - with no special characteristics",
+      "nonfiction - true, real, not made-up",
+      "nonsense - without sense."
+    ]
+  },
+  {
+    "features": [
+      "not"
+    ],
+    "meaning": [
+      "mark"
+    ],
+    "examples": [
+      "notable - marked as worthy of attention",
+      "notarize - to certify a signature on a legal document",
+      "annotate - to add remarks."
+    ]
+  },
+  {
+    "features": [
+      "noun,nunc"
+    ],
+    "meaning": [
+      "declare"
+    ],
+    "examples": [
+      "announce - to declare in public",
+      "denounce - to proclaim harsh criticism",
+      "enunciate - to speak or declare something clearly."
+    ]
+  },
+  {
+    "features": [
+      "nov"
+    ],
+    "meaning": [
+      "new"
+    ],
+    "examples": [
+      "innovate - to introduce a new way",
+      "novelty - something new",
+      "novice - a person who is new at a job",
+      "renovate - to make something like new again."
+    ]
+  },
+  {
+    "features": [
+      "numer"
+    ],
+    "meaning": [
+      "number"
+    ],
+    "examples": [
+      "enumerate - to name a number of items on a list",
+      "numerology - the study of magical uses of numbers",
+      "numerous - a large number."
+    ]
+  },
+  {
+    "features": [
+      "ob, op"
+    ],
+    "meaning": [
+      "in the way",
+      "against"
+    ],
+    "examples": [
+      "object - to be against something",
+      "obscure - hard to understand",
+      "opposition - the act of resistance or action against."
+    ]
+  },
+  {
+    "features": [
+      "oct",
+      "octa",
+      "octo"
+    ],
+    "meaning": [
+      "eight"
+    ],
+    "examples": [
+      "octagon - a figure with 8 sides and 8 angles",
+      "octogenarian - person in his or her 80s",
+      "octopus - sea animal with 8 arms."
+    ]
+  },
+  {
+    "features": [
+      "ocu"
+    ],
+    "meaning": [
+      "eye"
+    ],
+    "examples": [
+      "binoculars - lens device for seeing distances",
+      "monocula - relating to one eye",
+      "oculist - an eye doctor."
+    ]
+  },
+  {
+    "features": [
+      "od"
+    ],
+    "meaning": [
+      "path",
+      "way"
+    ],
+    "examples": [
+      "diode - ?an electron tube having two electrodes, a cathode and an anode",
+      "?odometer - ?an instrument attached to a vehicle to measure the distance traversed",
+      "?triode -?an electron tube with an anode, a cathode, and a control grid"
+    ]
+  },
+  {
+    "features": [
+      "odor?"
+    ],
+    "meaning": [
+      "smell",
+      "scent"
+    ],
+    "examples": [
+      "deodorant - a substance that helps prevent body odor",
+      "?malodorous - having a terribly bad smell",
+      "?odoriferous- something that bears or diffuses a scent"
+    ]
+  },
+  {
+    "features": [
+      "omni"
+    ],
+    "meaning": [
+      "all"
+    ],
+    "examples": [
+      "omnipotent - with all the power",
+      "omniscient - knowing all things",
+      "omnivorous eating all foods."
+    ]
+  },
+  {
+    "features": [
+      "op",
+      "opt",
+      "ops"
+    ],
+    "meaning": [
+      "eye",
+      "visual condition",
+      "sight"
+    ],
+    "examples": [
+      "optic - relating to the eyes",
+      "optician - a person who fits eyeglasses",
+      "autopsy - the examination of a dead body."
+    ]
+  },
+  {
+    "features": [
+      "opt"
+    ],
+    "meaning": [
+      "best"
+    ],
+    "examples": [
+      "optimal - the best, the most desirable",
+      "optimize - to make the best of",
+      "optimum - the best something could be."
+    ]
+  },
+  {
+    "features": [
+      "ortho"
+    ],
+    "meaning": [
+      "straight"
+    ],
+    "examples": [
+      "orthodontist - a dentist that straightens teeth",
+      "orthopedic - a doctor concerned with the proper alignment of the bones",
+      "orthography - the correct way of writing."
+    ]
+  },
+  {
+    "features": [
+      "osteo"
+    ],
+    "meaning": [
+      "bone"
+    ],
+    "examples": [
+      "osteoarthritis - inflammation caused by degeneration of the joints",
+      "osteopathy - therapy that uses among others manipulation of the skeleton to restore health",
+      "osteology - the study of bones."
+    ]
+  },
+  {
+    "features": [
+      "out"
+    ],
+    "meaning": [
+      "goes beyond",
+      "surpasses",
+      "exceeds"
+    ],
+    "examples": [
+      "Outgoing - being of lively, sharing nature",
+      "outdoing - doing better than",
+      "outdoor - outside."
+    ]
+  },
+  {
+    "features": [
+      "over"
+    ],
+    "meaning": [
+      "excessive"
+    ],
+    "examples": [
+      "overconfident - more confident than is appropriate",
+      "overstock - more supplies than is desirable",
+      "overexcited - ,more excited than one should be."
+    ]
+  },
+  {
+    "features": [
+      "oxi",
+      "oxioxy"
+    ],
+    "meaning": [
+      "sharp"
+    ],
+    "examples": [
+      "oxymoron - combining two ideas that sharply contradict each other",
+      "oxidize - corrode a surface."
+    ]
+  },
+  {
+    "features": [
+      "pale",
+      "paleo"
+    ],
+    "meaning": [
+      "ancient"
+    ],
+    "examples": [
+      "paleontology - study of ancient fossils",
+      "paleography - the study of ancient forms of writing",
+      "Paleolithic - period of the Stone Age."
+    ]
+  },
+  {
+    "features": [
+      "pan"
+    ],
+    "meaning": [
+      "all",
+      "any",
+      "everyone"
+    ],
+    "examples": [
+      "panacea - a cure for all diseases or problems",
+      "panorama - an all-around view",
+      "pantheism - the worship of all gods",
+      "pandemic - affecting all."
+    ]
+  },
+  {
+    "features": [
+      "para"
+    ],
+    "meaning": [
+      "beside",
+      "beyond",
+      "abnormal",
+      "assistant"
+    ],
+    "examples": [
+      "parasite - an organism that lives on and off another living being",
+      "parallel - alongside and always an equal distance apart",
+      "paragraph - a portion of a writtenn document that presents a distinct idea."
+    ]
+  },
+  {
+    "features": [
+      "para"
+    ],
+    "meaning": [
+      "protection from"
+    ],
+    "examples": [
+      "parachute - protection from falling",
+      "parasol - an umbrella used to protect from the sun"
+    ]
+  },
+  {
+    "features": [
+      "pater,patr",
+      "pater,patri"
+    ],
+    "meaning": [
+      "father"
+    ],
+    "examples": [
+      "paternal - relating to fathers",
+      "paternity - fatherhood",
+      "patriarch - a man who rules a group."
+    ]
+  },
+  {
+    "features": [
+      "path"
+    ],
+    "meaning": [
+      "feeling",
+      "emotion"
+    ],
+    "examples": [
+      "antipathy - a feeling of great dislike",
+      "apathy - a lack of feeling or interest",
+      "empathy - ability to understand another's feelings."
+    ]
+  },
+  {
+    "features": [
+      "ped",
+      "pedi",
+      "pede"
+    ],
+    "meaning": [
+      "foot",
+      "feet"
+    ],
+    "examples": [
+      "pedal - a lever pushed by the foot",
+      "pedestrian - one who walks",
+      "pedicure - cosmetic treatment of feet and toes."
+    ]
+  },
+  {
+    "features": [
+      "pel"
+    ],
+    "meaning": [
+      "drive",
+      "force"
+    ],
+    "examples": [
+      "compel - to force someone to act",
+      "expel - to drive someone out of a place",
+      "repel - to force back."
+    ]
+  },
+  {
+    "features": [
+      "pent",
+      "penta"
+    ],
+    "meaning": [
+      "five"
+    ],
+    "examples": [
+      "pentagon - shape having 5 angles and 5 sides, pentagram - a five-pointed star formerly used as a symbolic figure in magic",
+      "pentathlon - an athletic contest that includes five events."
+    ]
+  },
+  {
+    "features": [
+      "pept,peps"
+    ],
+    "meaning": [
+      "digestion"
+    ],
+    "examples": [
+      "dyspepsia - abnormal digestion",
+      "peptic - aiding digestion",
+      "pepsin - a digestive enzyme."
+    ]
+  },
+  {
+    "features": [
+      "per"
+    ],
+    "meaning": [
+      "through",
+      "throughout"
+    ],
+    "examples": [
+      "permanent - lasting throughout all time",
+      "permeate - to spread throughout",
+      "persist - to continue for a long time",
+      "perennial - lasting through many years."
+    ]
+  },
+  {
+    "features": [
+      "peri"
+    ],
+    "meaning": [
+      "around",
+      "enclosing"
+    ],
+    "examples": [
+      "periodontal - pertaining to bone and tissue around a tooth",
+      "peripheral - lying outside of the center",
+      "perimeter - the outer boundary of an area."
+    ]
+  },
+  {
+    "features": [
+      "phag",
+      "phage"
+    ],
+    "meaning": [
+      "to eat"
+    ],
+    "examples": [
+      "esophagus - muscular tube that carries food to the stomach",
+      "anthropophagy or sarcophagy - cannibalism",
+      "xylophagous - feeding on wood."
+    ]
+  },
+  {
+    "features": [
+      "phil",
+      "philo"
+    ],
+    "meaning": [
+      "love",
+      "friend"
+    ],
+    "examples": [
+      "philanthropist - one who loves humanity",
+      "philology - the love of words",
+      "philosophy - the love of wisdom",
+      "bibliophil - loving books."
+    ]
+  },
+  {
+    "features": [
+      "phon",
+      "phono",
+      "phone",
+      "phony"
+    ],
+    "meaning": [
+      "sound"
+    ],
+    "examples": [
+      "cacophony - loud, unpleasant sounds",
+      "microphone - a device that records and amplifies sound",
+      "phonetic - relating to human speech sounds."
+    ]
+  },
+  {
+    "features": [
+      "phot",
+      "photo"
+    ],
+    "meaning": [
+      "light"
+    ],
+    "examples": [
+      "photogenic - caused by light",
+      "photograph - image made on light-sensitive film",
+      "photon - the smallest possible unit of light."
+    ]
+  },
+  {
+    "features": [
+      "phyll",
+      "phyllo"
+    ],
+    "meaning": [
+      "leaf"
+    ],
+    "examples": [
+      "chlorophyll - a group of green pigments found in leaves",
+      "phyllotaxis - the arrangement of leaves on a stem",
+      "phyllite - a rock that forms sheets, similar to slate."
+    ]
+  },
+  {
+    "features": [
+      "phys"
+    ],
+    "meaning": [
+      "nature",
+      "medicine",
+      "the body"
+    ],
+    "examples": [
+      "physical - relating to the body",
+      "physician - a doctor",
+      "physique - nature and shape of one's body."
+    ]
+  },
+  {
+    "features": [
+      "phyt",
+      "phyto",
+      "phyte"
+    ],
+    "meaning": [
+      "plant",
+      "to grow"
+    ],
+    "examples": [
+      "epiphyte - a plant growing independently on the surface of another",
+      "hydrophyte - a plant that grows only in water",
+      "neophyte - a beginner, especially a person recently converted to a new belief."
+    ]
+  },
+  {
+    "features": [
+      "plas",
+      "plast",
+      "plasm"
+    ],
+    "meaning": [
+      "to form",
+      "development",
+      "forming cells"
+    ],
+    "examples": [
+      "protoplasm - something that is the first made or formed, also the living portion of a cell",
+      "plastic - able to be formed, especially when warm",
+      "plaster - a mixture of lime, sand and water that forms a smooth solid covering for walls."
+    ]
+  },
+  {
+    "features": [
+      "plaud, plod, plaus, plos"
+    ],
+    "meaning": [
+      "approve",
+      "clap"
+    ],
+    "examples": [
+      "applaud- to show approval of especially by clapping the hands",
+      "?explosion- an act of exposing something as invalid or baseless",
+      "?plausible-?worthy of being applauded"
+    ]
+  },
+  {
+    "features": [
+      "pneum",
+      "pneumo"
+    ],
+    "meaning": [
+      "breathing",
+      "lung",
+      "air",
+      "spirit"
+    ],
+    "examples": [
+      "pneumonia - inflammation of the lungs",
+      "pneumatic - using the force of air",
+      "dyspnea - difficulty breathing."
+    ]
+  },
+  {
+    "features": [
+      "pod",
+      "pode"
+    ],
+    "meaning": [
+      "foot"
+    ],
+    "examples": [
+      "podiatrist - a doctor for the feet",
+      "podium - a small platform to stand on",
+      "tripod - a stand or frame with 3 legs."
+    ]
+  },
+  {
+    "features": [
+      "poli"
+    ],
+    "meaning": [
+      "city"
+    ],
+    "examples": [
+      "metropolis - a large city",
+      "police - people who work for the government to maintain order in a city",
+      "politics - actions of a government or political party."
+    ]
+  },
+  {
+    "features": [
+      "poly"
+    ],
+    "meaning": [
+      "many",
+      "more than one"
+    ],
+    "examples": [
+      "polychrome - with many colors",
+      "polyglot - a person fluent in many languages",
+      "polygon - shape with 3 or more straight sides."
+    ]
+  },
+  {
+    "features": [
+      "pon"
+    ],
+    "meaning": [
+      "place",
+      "put"
+    ],
+    "examples": [
+      "opponent - a person who places him/herself against an action, idea, etc.",
+      "postpone - to put off doing something."
+    ]
+  },
+  {
+    "features": [
+      "pop"
+    ],
+    "meaning": [
+      "people"
+    ],
+    "examples": [
+      "popular - appealing to a lot of people",
+      "population - all of the people who live in a particular area",
+      "populist - a supporter of the rights of people."
+    ]
+  },
+  {
+    "features": [
+      "port"
+    ],
+    "meaning": [
+      "carry"
+    ],
+    "examples": [
+      "export - to carry goods out of a place to another",
+      "portable - able to be carried",
+      "porter - a person who carries luggage."
+    ]
+  },
+  {
+    "features": [
+      "pos"
+    ],
+    "meaning": [
+      "place",
+      "put"
+    ],
+    "examples": [
+      "deposit - to place or drop something",
+      "expose to place out into the open for all to see",
+      "position - the place where someone is."
+    ]
+  },
+  {
+    "features": [
+      "post"
+    ],
+    "meaning": [
+      "after",
+      "behind"
+    ],
+    "examples": [
+      "posthumous - after someone's death",
+      "postpone - to delay something",
+      "postscript - an addition to an already completed document."
+    ]
+  },
+  {
+    "features": [
+      "pre"
+    ],
+    "meaning": [
+      "earlier",
+      "before",
+      "in front of"
+    ],
+    "examples": [
+      "preamble - a part in front of a formal document",
+      "prepare - to get ready in advance",
+      "prediction - a statement foretelling the future."
+    ]
+  },
+  {
+    "features": [
+      "pro"
+    ],
+    "meaning": [
+      "before",
+      "in front of",
+      "for",
+      "forward"
+    ],
+    "examples": [
+      "prognosis - a prediction of what will happen",
+      "prologue - a passage before the main part",
+      "prophet - a person who foretells the future."
+    ]
+  },
+  {
+    "features": [
+      "prot",
+      "proto"
+    ],
+    "meaning": [
+      "primitive",
+      "first",
+      "chief"
+    ],
+    "examples": [
+      "prototype - the first of a kind",
+      "proton - on of the very basic parts of an atom",
+      "protocol - a first draft from which a document is prepared."
+    ]
+  },
+  {
+    "features": [
+      "pseud",
+      "pseudo"
+    ],
+    "meaning": [
+      "wrong",
+      "false"
+    ],
+    "examples": [
+      "pseudonym - a fictitious name",
+      "pseudoscience - theories presumed without proof of a scientific nature",
+      "pseudopregnancy - a false pregnancy."
+    ]
+  },
+  {
+    "features": [
+      "psych",
+      "psycho"
+    ],
+    "meaning": [
+      "mind",
+      "mental"
+    ],
+    "examples": [
+      "psyche - the human spirit or soul",
+      "psychic - relating to the human mind or someone who has supernatural mental abilities",
+      "psychology - the study of the mind."
+    ]
+  },
+  {
+    "features": [
+      "pugn",
+      "pugna,pung"
+    ],
+    "meaning": [
+      "to fight"
+    ],
+    "examples": [
+      "pugnacious - having a quarrelsome or aggressive nature",
+      "repugnant - distasteful, offensive or revolting",
+      "pungent - piercing."
+    ]
+  },
+  {
+    "features": [
+      "pul"
+    ],
+    "meaning": [
+      "urge"
+    ],
+    "examples": [
+      "compulsion - a very strong urge",
+      "expulsion - to someone out",
+      "impulsive - having a spontaneous urge to do something."
+    ]
+  },
+  {
+    "features": [
+      "purg"
+    ],
+    "meaning": [
+      "clean"
+    ],
+    "examples": [
+      "purge - remove anything undesirable",
+      "purgatory - according to Roman Catholics a place where souls must clean themselves of sin",
+      "expurgate - remove objectionable passages from a publication."
+    ]
+  },
+  {
+    "features": [
+      "put"
+    ],
+    "meaning": [
+      "think"
+    ],
+    "examples": [
+      "computer - an electronic thinking device",
+      "dispute - to disagree with what another person thinks",
+      "input - contribution of one's thinking."
+    ]
+  },
+  {
+    "features": [
+      "pyr",
+      "pyro"
+    ],
+    "meaning": [
+      "fire",
+      "heat"
+    ],
+    "examples": [
+      "pyrotechnics - the art of making fireworks",
+      "pyrometer - a thermometer for measuring high temperature",
+      "pyretic - relating to or producing fever."
+    ]
+  },
+  {
+    "features": [
+      "quad",
+      "quadr",
+      "quadri"
+    ],
+    "meaning": [
+      "four"
+    ],
+    "examples": [
+      "quadrant - open space with buildings on 4 sides",
+      "quadrennium - period of 4 years",
+      "quadruped - a 4-footed animal."
+    ]
+  },
+  {
+    "features": [
+      "quart"
+    ],
+    "meaning": [
+      "fourth"
+    ],
+    "examples": [
+      "quarter - one fourth",
+      "quart - a fourth of a gallon",
+      "quartet - a musical composition or group involving 4 voices or instruments."
+    ]
+  },
+  {
+    "features": [
+      "quin",
+      "quint"
+    ],
+    "meaning": [
+      "five",
+      "fifth"
+    ],
+    "examples": [
+      "quintett - a composition for 5 voices or instruments",
+      "quintessence - pure essence, based on the ancient philosophy that there was a fifth element that was present in all things",
+      "quintuple - fivefold."
+    ]
+  },
+  {
+    "features": [
+      "radic,radix"
+    ],
+    "meaning": [
+      "root"
+    ],
+    "examples": [
+      "eradicate - pull out at the roots",
+      "radical - fundamental, looking at things from a drastic point of view",
+      "radish - an edible root of the mustard family."
+    ]
+  },
+  {
+    "features": [
+      "radio"
+    ],
+    "meaning": [
+      "radiation",
+      "ray"
+    ],
+    "examples": [
+      "radioactive - emitting radiation",
+      "radiologist - someone diagnosing or treating via radiation."
+    ]
+  },
+  {
+    "features": [
+      "ram",
+      "rami"
+    ],
+    "meaning": [
+      "branch"
+    ],
+    "examples": [
+      "ramification - the resulting consequence of a decision",
+      "ramify - to spread or branch out",
+      "ramus - a branchlike part."
+    ]
+  },
+  {
+    "features": [
+      "re"
+    ],
+    "meaning": [
+      "again",
+      "back",
+      "backward"
+    ],
+    "examples": [
+      "rebound -to spring back again",
+      "rewind - to wind something backward",
+      "reaction: a response",
+      "recognize: to identify someone or something seen before."
+    ]
+  },
+  {
+    "features": [
+      "reg"
+    ],
+    "meaning": [
+      "guide",
+      "rule"
+    ],
+    "examples": [
+      "regent - a person who rules on behalf of a king or queen",
+      "regime - a government that rules",
+      "regulate - to apply a rule."
+    ]
+  },
+  {
+    "features": [
+      "retro"
+    ],
+    "meaning": [
+      "backward",
+      "back"
+    ],
+    "examples": [
+      "retroactive - relating to something in the past",
+      "retrogress - to go back to an earlier condition",
+      "retrospect - the remembering of past events."
+    ]
+  },
+  {
+    "features": [
+      "rhin",
+      "rhino"
+    ],
+    "meaning": [
+      "nose"
+    ],
+    "examples": [
+      "rhinoceros - a species of animals with a big horn on the snout",
+      "rhinoplasty - surgery of the nose",
+      "rhinovirus - viruses that are causing the common cold."
+    ]
+  },
+  {
+    "features": [
+      "rhod",
+      "rhodo"
+    ],
+    "meaning": [
+      "red"
+    ],
+    "examples": [
+      "rhododendron - a flower with red/pink flowers",
+      "rhodium - an element which produces a red solution",
+      "rhodopsin - a purple pigment in the retina that is needed for vision."
+    ]
+  },
+  {
+    "features": [
+      "rid"
+    ],
+    "meaning": [
+      "laugh"
+    ],
+    "examples": [
+      "deride - to make fun of someone",
+      "ridicule - to make fun or mock",
+      "ridiculous - silly, causing laughter."
+    ]
+  },
+  {
+    "features": [
+      "rrh",
+      "rrhea",
+      "rrhoea",
+      "rrhag"
+    ],
+    "meaning": [
+      "flow",
+      "discharge"
+    ],
+    "examples": [
+      "diarrhea - abnormally excessive bowl movement",
+      "hemorrhage - heavy blood flow",
+      "catarrh - inflammation of a mucous membrane, especially the nose and throat."
+    ]
+  },
+  {
+    "features": [
+      "rub"
+    ],
+    "meaning": [
+      "red"
+    ],
+    "examples": [
+      "ruby - deep red color and a precious stone of the same color",
+      "rubella - measles",
+      "bilirubin - reddish pigment in bile."
+    ]
+  },
+  {
+    "features": [
+      "rupt"
+    ],
+    "meaning": [
+      "break",
+      "burst"
+    ],
+    "examples": [
+      "bankrupt - unable to pay because you're \"broke\"",
+      "interrupt - to break into a conversation or event, to disturb",
+      "rupture - a break in something."
+    ]
+  },
+  {
+    "features": [
+      "san"
+    ],
+    "meaning": [
+      "health"
+    ],
+    "examples": [
+      "sane - mentally healthy",
+      "sanitary - relating to cleanliness and health",
+      "sanitation - maintenance of public health and cleanliness."
+    ]
+  },
+  {
+    "features": [
+      "scend"
+    ],
+    "meaning": [
+      "climb",
+      "go"
+    ],
+    "examples": [
+      "ascend - to climb upward",
+      "crescendo - a climbing up of the volume of music",
+      "descend - to go or climb down."
+    ]
+  },
+  {
+    "features": [
+      "sci"
+    ],
+    "meaning": [
+      "know"
+    ],
+    "examples": [
+      "conscience - sense of knowing right from wrong",
+      "conscious - knowing what is happening",
+      "omniscient - knowing everything."
+    ]
+  },
+  {
+    "features": [
+      "scler",
+      "sclero"
+    ],
+    "meaning": [
+      "hard"
+    ],
+    "examples": [
+      "arteriosclerosis - hardening of the arterial walls",
+      "multiple sclerosis - disease which causes the tissue of the brain and spinal cord to harden",
+      "sclerometer - instrument for measuring hardness."
+    ]
+  },
+  {
+    "features": [
+      "scop",
+      "scope",
+      "scopy"
+    ],
+    "meaning": [
+      "see",
+      "examine",
+      "observe"
+    ],
+    "examples": [
+      "microscope - a device used to see tiny things",
+      "periscope - a seeing instrument on a submarine",
+      "telescope - a device used to see over a distance."
+    ]
+  },
+  {
+    "features": [
+      "scrib,script"
+    ],
+    "meaning": [
+      "write",
+      "written"
+    ],
+    "examples": [
+      "inscribe - to write letters or words on a surface",
+      "scribe - a person who writes out documents",
+      "describe - to represent with words or pictures."
+    ]
+  },
+  {
+    "features": [
+      "se"
+    ],
+    "meaning": [
+      "apart"
+    ],
+    "examples": [
+      "secede - to formally break away from",
+      "seclude - to keep away from",
+      "serum - a liquid isolated out of another."
+    ]
+  },
+  {
+    "features": [
+      "sect"
+    ],
+    "meaning": [
+      "cut"
+    ],
+    "examples": [
+      "dissect - to cut apart piece by piece",
+      "intersection - the place or point where two things cross each other",
+      "bisect - to cut into two equal parts."
+    ]
+  },
+  {
+    "features": [
+      "sed, sid, sess"
+    ],
+    "meaning": [
+      "sit"
+    ],
+    "examples": [
+      "reside- be stationed",
+      "?sediment-?the matter that settles to the bottom of a liquid",
+      "?session-?an actual or constructive sitting of a body"
+    ]
+  },
+  {
+    "features": [
+      "self"
+    ],
+    "meaning": [
+      "of",
+      "for",
+      "or by itself"
+    ],
+    "examples": [
+      "self-discipline - the ability to discipline yourself",
+      "self-respect - respect for yourself",
+      "selfish concerned only with your own interests."
+    ]
+  },
+  {
+    "features": [
+      "semi"
+    ],
+    "meaning": [
+      "half",
+      "partial"
+    ],
+    "examples": [
+      "semiannual - every half year",
+      "semicircle - half a circle",
+      "semiconscious - partly conscious",
+      "semiannual - every half of a year."
+    ]
+  },
+  {
+    "features": [
+      "sept",
+      "septi"
+    ],
+    "meaning": [
+      "seven"
+    ],
+    "examples": [
+      "September - this used to be the seventh month in the Roman calendar",
+      "septet - a group of seven musicians",
+      "septuagenarian - a person in his/her seventies."
+    ]
+  },
+  {
+    "features": [
+      "serv"
+    ],
+    "meaning": [
+      "save",
+      "keep"
+    ],
+    "examples": [
+      "conserve - to save or keep something safe",
+      "preserve - to save something",
+      "reservation - a place kept for a person."
+    ]
+  },
+  {
+    "features": [
+      "sex"
+    ],
+    "meaning": [
+      "six"
+    ],
+    "examples": [
+      "sextet or sextette - a composition or group of six, sextuple - sixfold",
+      "sexagenarian - person in his/her sixties."
+    ]
+  },
+  {
+    "features": [
+      "sol"
+    ],
+    "meaning": [
+      "alone"
+    ],
+    "examples": [
+      "desolate - lonely, dismal, gloomy",
+      "solitary - done alone, by yourself",
+      "solo - a performance done by one person alone."
+    ]
+  },
+  {
+    "features": [
+      "sol"
+    ],
+    "meaning": [
+      "sun"
+    ],
+    "examples": [
+      "solar - involving the sun",
+      "parasol - umbrella protecting from the sun",
+      "solarium - a room where one is exposed to sun light."
+    ]
+  },
+  {
+    "features": [
+      "somn",
+      "somnI"
+    ],
+    "meaning": [
+      "sleep"
+    ],
+    "examples": [
+      "insomnia - inability to fall asleep",
+      "somniloquy - talking in your sleep",
+      "somnolent - feeling sleepy."
+    ]
+  },
+  {
+    "features": [
+      "son"
+    ],
+    "meaning": [
+      "sound"
+    ],
+    "examples": [
+      "consonant - a speech sound",
+      "sonorous - producing loud, full, rich sounds",
+      "supersonic - faster than sound",
+      "unison - as one voice."
+    ]
+  },
+  {
+    "features": [
+      "soph"
+    ],
+    "meaning": [
+      "wise"
+    ],
+    "examples": [
+      "philosopher - a wise person",
+      "sophisticated - wise about the ways of the world",
+      "sophism - a clever but misleading argument."
+    ]
+  },
+  {
+    "features": [
+      "spec",
+      "spect,spic"
+    ],
+    "meaning": [
+      "see",
+      "look"
+    ],
+    "examples": [
+      "circumspect - cautious, looking all around",
+      "retrospective - a looking back at past things",
+      "spectator - a person who sees an event."
+    ]
+  },
+  {
+    "features": [
+      "sphere"
+    ],
+    "meaning": [
+      "ball"
+    ],
+    "examples": [
+      "biosphere - the whole round surface of the earth",
+      "hemisphere - half the earth spherically shaped like a ball."
+    ]
+  },
+  {
+    "features": [
+      "spir"
+    ],
+    "meaning": [
+      "breathe"
+    ],
+    "examples": [
+      "inspire - to stimulate or animate",
+      "transpire - to give of vapor with waste product through the skin or a membrane",
+      "spirit - invisible life force."
+    ]
+  },
+  {
+    "features": [
+      "sta"
+    ],
+    "meaning": [
+      "stand"
+    ],
+    "examples": [
+      "stable - standing steady and firm",
+      "stagnant - standing still, not moving",
+      "stationary - at a standstill, fixed."
+    ]
+  },
+  {
+    "features": [
+      "stell"
+    ],
+    "meaning": [
+      "star"
+    ],
+    "examples": [
+      "constellation - a group of stars that forms a pattern",
+      "interstellar - between the stars",
+      "stellar - relating to stars."
+    ]
+  },
+  {
+    "features": [
+      "struct"
+    ],
+    "meaning": [
+      "build"
+    ],
+    "examples": [
+      "construct - to build",
+      "destruction - the act of destroying something that was built",
+      "structure - something built",
+      "infrastructure - underlying framework of a system."
+    ]
+  },
+  {
+    "features": [
+      "sub"
+    ],
+    "meaning": [
+      "under",
+      "lower than",
+      "inferior to"
+    ],
+    "examples": [
+      "submarine - an underwater boat",
+      "submerge - to put underwater",
+      "substandard - inferior to accepted standards."
+    ]
+  },
+  {
+    "features": [
+      "sum"
+    ],
+    "meaning": [
+      "highest"
+    ],
+    "examples": [
+      "sum - the combined total of everything",
+      "summation - the total, highest amount",
+      "summit the highest point or top."
+    ]
+  },
+  {
+    "features": [
+      "super"
+    ],
+    "meaning": [
+      "higher in qualityor quantity"
+    ],
+    "examples": [
+      "Super bowl - the final annual football game",
+      "superior - above average, better in quality",
+      "supersonic - faster than the speed of sound."
+    ]
+  },
+  {
+    "features": [
+      "sy",
+      "sym",
+      "syn",
+      "syl",
+      "sys"
+    ],
+    "meaning": [
+      "together",
+      "with",
+      "same"
+    ],
+    "examples": [
+      "symmetry -similarity in size, form or arrangement",
+      "synergy - the combined effect",
+      "synchronize - to cause to occur at the same time."
+    ]
+  },
+  {
+    "features": [
+      "tact, tang"
+    ],
+    "meaning": [
+      "touch"
+    ],
+    "examples": [
+      "contact - a state in which two things touch",
+      "tactile - relating to the sense of touch",
+      "tangible - able to be touched",
+      "intact - with nothing missing."
+    ]
+  },
+  {
+    "features": [
+      "tax",
+      "taxo"
+    ],
+    "meaning": [
+      "arrangement"
+    ],
+    "examples": [
+      "syntax - the systematic arrangement of words",
+      "taxonomy - the science of classification",
+      "ataxia - loss of the ability to coordinate muscle action."
+    ]
+  },
+  {
+    "features": [
+      "techno"
+    ],
+    "meaning": [
+      "technique",
+      "skill"
+    ],
+    "examples": [
+      "technology - the practical application of knowledge",
+      "technocracy - rule of technology",
+      "technologically - characterized by technology."
+    ]
+  },
+  {
+    "features": [
+      "tel",
+      "tele",
+      "telo"
+    ],
+    "meaning": [
+      "far",
+      "distant",
+      "complete"
+    ],
+    "examples": [
+      "telephone - a device to talk to a distant person",
+      "telescope - a device to view distant objects",
+      "television - a device to receive pictures from afar",
+      "telecommuting - working remotely, bridging the distance via virtual devices."
+    ]
+  },
+  {
+    "features": [
+      "temp",
+      "tempor"
+    ],
+    "meaning": [
+      "time"
+    ],
+    "examples": [
+      "contemporary- existing at the same time",
+      "temporal - relating to time",
+      "temporary - lasting for a limited time."
+    ]
+  },
+  {
+    "features": [
+      "ten, tin, tent"
+    ],
+    "meaning": [
+      "hold"
+    ],
+    "examples": [
+      "continent- serving to restrain or limit",
+      "?detention- ?the act or fact of detaining, tenacious-?having parts or elements strongly adhering to each other"
+    ]
+  },
+  {
+    "features": [
+      "ter, trit"
+    ],
+    "meaning": [
+      "rub"
+    ],
+    "examples": [
+      "attrition- ?the act of rubbing together or wearing down",
+      "?detritus- a product of disintegration or wearing away",
+      "?trite-?used or occurring so often as to have lost interest, freshness, or force"
+    ]
+  },
+  {
+    "features": [
+      "term",
+      "termina"
+    ],
+    "meaning": [
+      "end",
+      "limit"
+    ],
+    "examples": [
+      "determine - to find something out at the end of an investigation",
+      "terminate - to end",
+      "exterminate - to destroy or get rid of completely."
+    ]
+  },
+  {
+    "features": [
+      "terr",
+      "terra",
+      "terri"
+    ],
+    "meaning": [
+      "land",
+      "earth"
+    ],
+    "examples": [
+      "extraterrestrial - existing outside the earth",
+      "terrain - ground or land",
+      "territory - an area of land."
+    ]
+  },
+  {
+    "features": [
+      "tetra"
+    ],
+    "meaning": [
+      "four"
+    ],
+    "examples": [
+      "tetrapod - having 4 legs",
+      "tetrarchy - government by 4 rulers",
+      "tetrose - a monosaccharide with four carbon atoms."
+    ]
+  },
+  {
+    "features": [
+      "the"
+    ],
+    "meaning": [
+      "put"
+    ],
+    "examples": [
+      "bibliotheca- ?a list or catalog of books",
+      "?theme- a proposition for discussion or argument",
+      "?thesis-?a dissertation embodying results of original research and especially substantiating a specific view"
+    ]
+  },
+  {
+    "features": [
+      "the",
+      "theo"
+    ],
+    "meaning": [
+      "god"
+    ],
+    "examples": [
+      "monotheism - belief in one god",
+      "polytheism - worshiping more than one god",
+      "theology - the study of religion, god, etc."
+    ]
+  },
+  {
+    "features": [
+      "therm",
+      "thermo"
+    ],
+    "meaning": [
+      "heat"
+    ],
+    "examples": [
+      "thermal - relating to heat",
+      "thermos - an insulated jar that keeps heat in",
+      "thermostat - a device that controls heat."
+    ]
+  },
+  {
+    "features": [
+      "tort"
+    ],
+    "meaning": [
+      "twist"
+    ],
+    "examples": [
+      "contortion - a twisted shape or position",
+      "distort - to alter the shape or condition of",
+      "retort - reply in a manner that is supposed to change the effect of something previously said."
+    ]
+  },
+  {
+    "features": [
+      "tox"
+    ],
+    "meaning": [
+      "poison"
+    ],
+    "examples": [
+      "detoxification - the process of removing poisons",
+      "toxic - poisonous",
+      "toxicology - the study of poisons",
+      "intoxicated - influenced by drugs."
+    ]
+  },
+  {
+    "features": [
+      "tract"
+    ],
+    "meaning": [
+      "pull",
+      "drag"
+    ],
+    "examples": [
+      "attract - to pull objects nearer",
+      "distract - to drag attention away from something",
+      "tractor - a motor vehicle that pulls things."
+    ]
+  },
+  {
+    "features": [
+      "trans"
+    ],
+    "meaning": [
+      "across",
+      "beyond",
+      "through"
+    ],
+    "examples": [
+      "transcontinental - across the continent",
+      "transfer - to move from one place to another",
+      "transport - to carry something across a space."
+    ]
+  },
+  {
+    "features": [
+      "tri"
+    ],
+    "meaning": [
+      "three",
+      "once in every three",
+      "third"
+    ],
+    "examples": [
+      "triangle - a figure with 3 sides and 3 angles",
+      "triathlon - an athletic contest with 3 events",
+      "tricycle - a 3-wheeI vehicle with pedals."
+    ]
+  },
+  {
+    "features": [
+      "ultra"
+    ],
+    "meaning": [
+      "beyond",
+      "extreme",
+      "more than"
+    ],
+    "examples": [
+      "ultrahigh - extremely high",
+      "ultramodern - more modern than anything else",
+      "ultrasonic - sound waves beyond human hearing."
+    ]
+  },
+  {
+    "features": [
+      "un"
+    ],
+    "meaning": [
+      "not",
+      "opposite of",
+      "lacking"
+    ],
+    "examples": [
+      "unabridged - not shortened",
+      "unfair - opposite of fair",
+      "unfriendly - lacking friendliness."
+    ]
+  },
+  {
+    "features": [
+      "uni"
+    ],
+    "meaning": [
+      "one",
+      "single"
+    ],
+    "examples": [
+      "unicycle - a vehicle with one wheel",
+      "unilateral - decided by only one person or nation",
+      "unique - the only one of its kind",
+      "unison - as one voice."
+    ]
+  },
+  {
+    "features": [
+      "urb"
+    ],
+    "meaning": [
+      "city"
+    ],
+    "examples": [
+      "suburb - residential area on the edge of a city",
+      "urban - relating to a city",
+      "urbanology - the study of city life."
+    ]
+  },
+  {
+    "features": [
+      "vac"
+    ],
+    "meaning": [
+      "empty"
+    ],
+    "examples": [
+      "evacuate - to empty a dangerous place",
+      "vacant - empty, not occupied",
+      "vacation - a time without work."
+    ]
+  },
+  {
+    "features": [
+      "ven",
+      "vent"
+    ],
+    "meaning": [
+      "come"
+    ],
+    "examples": [
+      "circumvent - to go around or bypass restrictions",
+      "convention - a gathering or assembly of people with a common interest",
+      "intervene - to come between."
+    ]
+  },
+  {
+    "features": [
+      "ver",
+      "verI"
+    ],
+    "meaning": [
+      "truth"
+    ],
+    "examples": [
+      "veracious - truthful, honest",
+      "veracity - the truth",
+      "verify - to make sure that something is true."
+    ]
+  },
+  {
+    "features": [
+      "verb"
+    ],
+    "meaning": [
+      "word"
+    ],
+    "examples": [
+      "verbalize - to put into words",
+      "adverb - a word relating to a verb",
+      "proverb - a short saying that expresses a well-known truth."
+    ]
+  },
+  {
+    "features": [
+      "vers,vert"
+    ],
+    "meaning": [
+      "turn"
+    ],
+    "examples": [
+      "reverse - to turn around",
+      "introvert - being turned towards the inside",
+      "version - a variation of an original",
+      "controversy - a conversation in which positions are turned against each other."
+    ]
+  },
+  {
+    "features": [
+      "vice"
+    ],
+    "meaning": [
+      "acting in place of",
+      "next in rank"
+    ],
+    "examples": [
+      "vice-president - the person next in rank to the president"
+    ]
+  },
+  {
+    "features": [
+      "vid"
+    ],
+    "meaning": [
+      "see"
+    ],
+    "examples": [
+      "evident clearly seen"
+    ]
+  },
+  {
+    "features": [
+      "vince,vic"
+    ],
+    "meaning": [
+      "conquer"
+    ],
+    "examples": [
+      "convince - to win someone over",
+      "invincible - not able to be conquered",
+      "victory - the conquest of an enemy."
+    ]
+  },
+  {
+    "features": [
+      "vis, vid"
+    ],
+    "meaning": [
+      "see"
+    ],
+    "examples": [
+      "vision - the ability to see",
+      "envision - to picture in the mind",
+      "evident - clearly visible."
+    ]
+  },
+  {
+    "features": [
+      "viv",
+      "vivivit"
+    ],
+    "meaning": [
+      "live",
+      "life"
+    ],
+    "examples": [
+      "revival - the act of bringing back to life",
+      "vital - pertaining to live",
+      "vivacious - high-spirited and full of life."
+    ]
+  },
+  {
+    "features": [
+      "voc",
+      "voci"
+    ],
+    "meaning": [
+      "voice",
+      "call"
+    ],
+    "examples": [
+      "advocate - to speak in favor of",
+      "equivocate - to use misleading language that could be interpreted two different ways",
+      "vocalize - to produce with your voice."
+    ]
+  },
+  {
+    "features": [
+      "vol",
+      "voli",
+      "volu"
+    ],
+    "meaning": [
+      "wish",
+      "will"
+    ],
+    "examples": [
+      "benevolent - showing good will and kindness",
+      "volition - the act of making a choice or decision, voluntary - resulting from your own free will."
+    ]
+  },
+  {
+    "features": [
+      "vor,vour"
+    ],
+    "meaning": [
+      "eat"
+    ],
+    "examples": [
+      "carnivorous - meat-eating",
+      "voracious - desiring or eating food in great quantities",
+      "devour - to eat quickly."
+    ]
+  },
+  {
+    "features": [
+      "xanth"
+    ],
+    "meaning": [
+      "yellow"
+    ],
+    "examples": [
+      "xanthium- a genus of coarse and rough or spiny herbs",
+      "?xanthochromia- yellowish discoloration (as of the skin or cerebrospinal fluid)",
+      "?xanthogenic"
+    ]
+  },
+  {
+    "features": [
+      "xen",
+      "xeno"
+    ],
+    "meaning": [
+      "foreign"
+    ],
+    "examples": [
+      "xenophobic - afraid of foreigners",
+      "xenogenesis - the creation of offspring that is completely different from either parent",
+      "xenophile - attracted to foreigners."
+    ]
+  },
+  {
+    "features": [
+      "xer",
+      "xero",
+      "xerI"
+    ],
+    "meaning": [
+      "dry"
+    ],
+    "examples": [
+      "xerophyte - a plant that grows in dry climate",
+      "xerography - a dry photocopying process",
+      "xeric - requiring small amounts of moisture."
+    ]
+  },
+  {
+    "features": [
+      "xyl"
+    ],
+    "meaning": [
+      "wood"
+    ],
+    "examples": [
+      "xylocarp",
+      "xyloid- resembling wood",
+      "?xylophone-an organ percussion stop of similar tone quality"
+    ]
+  },
+  {
+    "features": [
+      "zo",
+      "zoo"
+    ],
+    "meaning": [
+      "animal life"
+    ],
+    "examples": [
+      "zoology - study of animals",
+      "zooid - resembling an animal",
+      "zooplankton - minute floating aquatic animals."
+    ]
+  },
+  {
+    "features": [
+      "zyg",
+      "zygo"
+    ],
+    "meaning": [
+      "pair"
+    ],
+    "examples": [
+      "zygote - a cell formed by the union of two gametes and the organism developing from that",
+      "zygomorphic - pertaining to organisms that can be divided into symmetrical halves along one axis"
+    ]
+  },
+  {
+    "features": [
+      "aud",
+      "audi",
+      "audio"
+    ],
+    "meaning": [
+      "hear"
+    ],
+    "examples": [
+      "audible - loud enough to be heard",
+      "audience - people who listen to a program",
+      "audiovisual - relating to sound and vision"
+    ]
+  }
+]

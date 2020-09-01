@@ -1,44 +1,16 @@
-# frozen_string_literal: true
+require_relative './dictparse/generic_parser'
+require_relative './dictparse/dict1_parser'
+require_relative './dictparse/dict2_parser'
 
-require 'csv'
-require 'json'
-require 'pathname'
+parser_arr = [
+  Dict1Parser.new,
+  Dict2Parser.new
+]
 
-puts 'Enter path of the CSV file:'
-csv_path = readline
+source_arr = %w[./raw/dict-raw1.csv ./raw/dict-raw2.csv]
 
-csv_path_instance = Pathname.new csv_path
-destination = Pathname.new './dict/dict.json'
+target_arr = %w[./dict/dict1.json ./dict/dict2.json]
 
-puts "Entered path: #{csv_path_instance}"
-print 'Processing... '
-# Process start
-
-def load_dict(path)
-  CSV.foreach(path.to_s.strip) do |row|
-    row[0].split(', ').each do |root|
-      yield Hash[root, row[1]]
-    end
-  end
+parser_arr.each_index do |index|
+  parser_arr[index].parse_into source_arr[index], target_arr[index]
 end
-
-@result = {}
-
-load_dict(csv_path_instance) do |item|
-  item.each do |key, value|
-    if @result.key?(key)
-      @result[key] += "; #{value}"
-    else
-      @result[key] = value
-    end
-  end
-end
-
-File.open(destination, 'w+') do |file|
-  file.write(JSON.pretty_generate(@result))
-end
-
-# Process complete
-puts 'done'
-puts "Target file saved as #{destination}"
-puts 'Done'

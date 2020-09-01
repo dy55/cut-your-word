@@ -1,0 +1,7090 @@
+[
+  {
+    "features": [
+      "a",
+      "ac",
+      "ad",
+      "af",
+      "ag",
+      "al",
+      "an",
+      "ap",
+      "as",
+      "at"
+    ],
+    "meaning": [
+      "to",
+      "toward",
+      "near",
+      "in addition to",
+      "by"
+    ],
+    "examples": [
+      "aside",
+      "accompany",
+      "adjust",
+      "aggression",
+      "allocate",
+      "annihilate",
+      "affix",
+      "associate",
+      "attend",
+      "adverb"
+    ]
+  },
+  {
+    "features": [
+      "a-",
+      "an-"
+    ],
+    "meaning": [
+      "not",
+      "without"
+    ],
+    "examples": [
+      "apolitical",
+      "atheist",
+      "anarchy",
+      "anonymous",
+      "apathy",
+      "aphasia",
+      "anemia"
+    ]
+  },
+  {
+    "features": [
+      "ab",
+      "abs"
+    ],
+    "meaning": [
+      "away from",
+      "off"
+    ],
+    "examples": [
+      "absolve",
+      "abrupt",
+      "absent"
+    ]
+  },
+  {
+    "features": [
+      "-able",
+      "-ible"
+    ],
+    "meaning": [
+      "Adjective: worth",
+      "ability"
+    ],
+    "examples": [
+      "solvable",
+      "incredible"
+    ]
+  },
+  {
+    "features": [
+      "acer",
+      "acid",
+      "acri"
+    ],
+    "meaning": [
+      "bitter",
+      "sour",
+      "sharp"
+    ],
+    "examples": [
+      "acerbic",
+      "acidity",
+      "acrid",
+      "acrimony"
+    ]
+  },
+  {
+    "features": [
+      "act",
+      "ag"
+    ],
+    "meaning": [
+      "do",
+      "act",
+      "drive"
+    ],
+    "examples": [
+      "active",
+      "react",
+      "agent",
+      "active",
+      "agitate"
+    ]
+  },
+  {
+    "features": [
+      "acu"
+    ],
+    "meaning": [
+      "sharp"
+    ],
+    "examples": [
+      "acute",
+      "acupuncture",
+      "accurate"
+    ]
+  },
+  {
+    "features": [
+      "-acy",
+      "-cy"
+    ],
+    "meaning": [
+      "Noun: state or quality"
+    ],
+    "examples": [
+      "privacy",
+      "infancy",
+      "adequacy",
+      "intimacy",
+      "supremacy"
+    ]
+  },
+  {
+    "features": [
+      "-ade"
+    ],
+    "meaning": [
+      "act",
+      "product",
+      "sweet drink"
+    ],
+    "examples": [
+      "blockade",
+      "lemonade"
+    ]
+  },
+  {
+    "features": [
+      "aer",
+      "aero"
+    ],
+    "meaning": [
+      "air",
+      "atmosphere",
+      "aviation"
+    ],
+    "examples": [
+      "aerial",
+      "aerosol",
+      "aerodrome"
+    ]
+  },
+  {
+    "features": [
+      "ag",
+      "agi",
+      "ig",
+      "act"
+    ],
+    "meaning": [
+      "do",
+      "move",
+      "go"
+    ],
+    "examples": [
+      "agent",
+      "agenda",
+      "agitate",
+      "navigate",
+      "ambiguous",
+      "action"
+    ]
+  },
+  {
+    "features": [
+      "-age"
+    ],
+    "meaning": [
+      "Noun: activity",
+      "or result of action"
+    ],
+    "examples": [
+      "courage",
+      "suffrage",
+      "shrinkage",
+      "tonnage"
+    ]
+  },
+  {
+    "features": [
+      "agri",
+      "agro"
+    ],
+    "meaning": [
+      "pertaining to fields or soil"
+    ],
+    "examples": [
+      "agriculture",
+      "agroindustry"
+    ]
+  },
+  {
+    "features": [
+      "-al"
+    ],
+    "meaning": [
+      "Noun: action",
+      "result of action"
+    ],
+    "examples": [
+      "referral",
+      "disavowal",
+      "disposal",
+      "festival"
+    ]
+  },
+  {
+    "features": [
+      "-al",
+      "-ial",
+      "-ical"
+    ],
+    "meaning": [
+      "Adjective: quality",
+      "relation"
+    ],
+    "examples": [
+      "structural",
+      "territorial",
+      "categorical"
+    ]
+  },
+  {
+    "features": [
+      "alb",
+      "albo"
+    ],
+    "meaning": [
+      "white",
+      "without pigment"
+    ],
+    "examples": [
+      "albino",
+      "albite"
+    ]
+  },
+  {
+    "features": [
+      "ali",
+      "allo",
+      "alter"
+    ],
+    "meaning": [
+      "other"
+    ],
+    "examples": [
+      "alias",
+      "alibi",
+      "alien",
+      "alloy",
+      "alter",
+      "alter ego",
+      "altruism"
+    ]
+  },
+  {
+    "features": [
+      "alt"
+    ],
+    "meaning": [
+      "high",
+      "deep"
+    ],
+    "examples": [
+      "altimeter",
+      "altitude"
+    ]
+  },
+  {
+    "features": [
+      "am",
+      "ami",
+      "amor"
+    ],
+    "meaning": [
+      "love",
+      "like",
+      "liking"
+    ],
+    "examples": [
+      "amorous",
+      "amiable",
+      "amicable",
+      "enamoured"
+    ]
+  },
+  {
+    "features": [
+      "ambi"
+    ],
+    "meaning": [
+      "both"
+    ],
+    "examples": [
+      "ambidextrous"
+    ]
+  },
+  {
+    "features": [
+      "ambul"
+    ],
+    "meaning": [
+      "to walk"
+    ],
+    "examples": [
+      "ambulatory",
+      "amble",
+      "ambulance",
+      "somnambulist"
+    ]
+  },
+  {
+    "features": [
+      "-an"
+    ],
+    "meaning": [
+      "Noun: person"
+    ],
+    "examples": [
+      "artisan",
+      "guardian",
+      "historian",
+      "magician"
+    ]
+  },
+  {
+    "features": [
+      "ana",
+      "ano"
+    ],
+    "meaning": [
+      "up",
+      "back",
+      "again",
+      "anew"
+    ],
+    "examples": [
+      "anode",
+      "anagram",
+      "anagenetic"
+    ]
+  },
+  {
+    "features": [
+      "-ance",
+      "-ence"
+    ],
+    "meaning": [
+      "Noun: action",
+      "state",
+      "quality or process"
+    ],
+    "examples": [
+      "resistance",
+      "independence",
+      "extravagance",
+      "fraudulence"
+    ]
+  },
+  {
+    "features": [
+      "-ancy",
+      "-ency"
+    ],
+    "meaning": [
+      "Noun: state",
+      "quality or capacity"
+    ],
+    "examples": [
+      "vacancy",
+      "agency",
+      "truancy",
+      "latency"
+    ]
+  },
+  {
+    "features": [
+      "andr",
+      "andro"
+    ],
+    "meaning": [
+      "male",
+      "characteristics of men"
+    ],
+    "examples": [
+      "androcentric",
+      "android"
+    ]
+  },
+  {
+    "features": [
+      "ang"
+    ],
+    "meaning": [
+      "angular"
+    ],
+    "examples": [
+      "angle"
+    ]
+  },
+  {
+    "features": [
+      "anim"
+    ],
+    "meaning": [
+      "mind",
+      "life",
+      "spirit",
+      "anger"
+    ],
+    "examples": [
+      "animal",
+      "animate",
+      "animosity"
+    ]
+  },
+  {
+    "features": [
+      "ann",
+      "annu",
+      "enni"
+    ],
+    "meaning": [
+      "yearly"
+    ],
+    "examples": [
+      "annual",
+      "annual",
+      "annuity",
+      "anniversary",
+      "perrenial"
+    ]
+  },
+  {
+    "features": [
+      "-ant",
+      "-ent"
+    ],
+    "meaning": [
+      "Noun: an agent",
+      "something that performs the action"
+    ],
+    "examples": [
+      "disinfectant",
+      "dependent",
+      "fragrant"
+    ]
+  },
+  {
+    "features": [
+      "-ant",
+      "-ent",
+      "-ient"
+    ],
+    "meaning": [
+      "Adjective: kind of agent",
+      "indication"
+    ],
+    "examples": [
+      "important",
+      "dependent",
+      "convenient"
+    ]
+  },
+  {
+    "features": [
+      "ante"
+    ],
+    "meaning": [
+      "before"
+    ],
+    "examples": [
+      "anterior",
+      "anteroom",
+      "antebellum",
+      "antedate",
+      "antecedent antediluvian"
+    ]
+  },
+  {
+    "features": [
+      "anthrop"
+    ],
+    "meaning": [
+      "man"
+    ],
+    "examples": [
+      "anthropology",
+      "misanthrope",
+      "philanthropy"
+    ]
+  },
+  {
+    "features": [
+      "anti",
+      "ant"
+    ],
+    "meaning": [
+      "against",
+      "opposite"
+    ],
+    "examples": [
+      "antisocial",
+      "antiseptic",
+      "antithesis",
+      "antibody",
+      "antinomies",
+      "antifreeze",
+      "antipathy"
+    ]
+  },
+  {
+    "features": [
+      "anti",
+      "antico"
+    ],
+    "meaning": [
+      "old"
+    ],
+    "examples": [
+      "antique",
+      "antiquated",
+      "antiquity"
+    ]
+  },
+  {
+    "features": [
+      "apo",
+      "ap",
+      "aph"
+    ],
+    "meaning": [
+      "away from",
+      "detached",
+      "formed"
+    ],
+    "examples": [
+      "apology",
+      "apocalypse",
+      "aphagia"
+    ]
+  },
+  {
+    "features": [
+      "aqu"
+    ],
+    "meaning": [
+      "water"
+    ],
+    "examples": [
+      "aqueous"
+    ]
+  },
+  {
+    "features": [
+      "-ar",
+      "-ary"
+    ],
+    "meaning": [
+      "Adjective: resembling",
+      "related to"
+    ],
+    "examples": [
+      "spectacular",
+      "unitary"
+    ]
+  },
+  {
+    "features": [
+      "arch"
+    ],
+    "meaning": [
+      "chief",
+      "first",
+      "rule"
+    ],
+    "examples": [
+      "archangel",
+      "architect",
+      "archaic",
+      "monarchy",
+      "matriarchy",
+      "patriarchy",
+      "Archeozoic era"
+    ]
+  },
+  {
+    "features": [
+      "-ard",
+      "-art"
+    ],
+    "meaning": [
+      "Noun: characterized"
+    ],
+    "examples": [
+      "braggart",
+      "drunkard",
+      "wizard"
+    ]
+  },
+  {
+    "features": [
+      "aster",
+      "astr"
+    ],
+    "meaning": [
+      "star"
+    ],
+    "examples": [
+      "aster",
+      "asterisk",
+      "asteroid",
+      "astronomy",
+      "astronaut"
+    ]
+  },
+  {
+    "features": [
+      "-ate"
+    ],
+    "meaning": [
+      "Noun: state",
+      "office",
+      "fuction"
+    ],
+    "examples": [
+      "candidate",
+      "electorate",
+      "delegate"
+    ]
+  },
+  {
+    "features": [
+      "-ate"
+    ],
+    "meaning": [
+      "Verb: cause to be"
+    ],
+    "examples": [
+      "graduate",
+      "ameliorate",
+      "amputate",
+      "colligate"
+    ]
+  },
+  {
+    "features": [
+      "-ate"
+    ],
+    "meaning": [
+      "Adjective: kind of state"
+    ],
+    "examples": [
+      "inviolate"
+    ]
+  },
+  {
+    "features": [
+      "-ation"
+    ],
+    "meaning": [
+      "Noun: action",
+      "resulting state"
+    ],
+    "examples": [
+      "specialization",
+      "aggravation",
+      "alternation"
+    ]
+  },
+  {
+    "features": [
+      "auc",
+      "aug",
+      "aut"
+    ],
+    "meaning": [
+      "to originate",
+      "to increase"
+    ],
+    "examples": [
+      "augment ",
+      "author",
+      "augment",
+      "auction"
+    ]
+  },
+  {
+    "features": [
+      "aud",
+      "audi",
+      "aur",
+      "aus"
+    ],
+    "meaning": [
+      "to hear",
+      "listen"
+    ],
+    "examples": [
+      "audience",
+      "audio",
+      "audible",
+      "auditorium",
+      "audiovisual",
+      "audition",
+      "auricular",
+      "ausculate"
+    ]
+  },
+  {
+    "features": [
+      "aug",
+      "auc"
+    ],
+    "meaning": [
+      "increase"
+    ],
+    "examples": [
+      "augur",
+      "augment",
+      "auction"
+    ]
+  },
+  {
+    "features": [
+      "aut",
+      "auto"
+    ],
+    "meaning": [
+      "self"
+    ],
+    "examples": [
+      "automobile",
+      "automatic",
+      "automotive",
+      "autograph",
+      "autonomous",
+      "autoimmune"
+    ]
+  },
+  {
+    "features": [
+      "bar"
+    ],
+    "meaning": [
+      "weight",
+      "pressure"
+    ],
+    "examples": [
+      "barometer"
+    ]
+  },
+  {
+    "features": [
+      "be"
+    ],
+    "meaning": [
+      "on",
+      "around",
+      "over",
+      "about",
+      "excessively",
+      "make",
+      "cause",
+      "name",
+      "affect"
+    ],
+    "examples": [
+      "berate",
+      "bedeck",
+      "bespeak",
+      "belittle",
+      "beleaguer"
+    ]
+  },
+  {
+    "features": [
+      "belli"
+    ],
+    "meaning": [
+      "war"
+    ],
+    "examples": [
+      "rebellion",
+      "belligerent",
+      "casus belli",
+      "bellicose"
+    ]
+  },
+  {
+    "features": [
+      "bene"
+    ],
+    "meaning": [
+      "good",
+      "well",
+      "gentle"
+    ],
+    "examples": [
+      "benefactor",
+      "beneficial",
+      "benevolent",
+      "benediction",
+      "beneficiary",
+      "benefit"
+    ]
+  },
+  {
+    "features": [
+      "bi",
+      "bine"
+    ],
+    "meaning": [
+      "two"
+    ],
+    "examples": [
+      "biped",
+      "bifurcate",
+      "biweekly",
+      "bivalve",
+      "biannual"
+    ]
+  },
+  {
+    "features": [
+      "bibl",
+      "bibli",
+      "biblio"
+    ],
+    "meaning": [
+      "book"
+    ],
+    "examples": [
+      "bibliophile",
+      "bibliography",
+      "Bible"
+    ]
+  },
+  {
+    "features": [
+      "bio",
+      "bi"
+    ],
+    "meaning": [
+      "life"
+    ],
+    "examples": [
+      "biography",
+      "biology",
+      "biometricsm biome",
+      "biosphere"
+    ]
+  },
+  {
+    "features": [
+      "brev"
+    ],
+    "meaning": [
+      "short"
+    ],
+    "examples": [
+      "abbreviate",
+      "brevity",
+      "brief"
+    ]
+  },
+  {
+    "features": [
+      "cad",
+      "cap",
+      "cas",
+      "ceiv",
+      "cept",
+      "capt",
+      "cid",
+      "cip"
+    ],
+    "meaning": [
+      "to take",
+      "to seize",
+      "to hold"
+    ],
+    "examples": [
+      "receive",
+      "deceive",
+      "capable",
+      "capacious",
+      "captive",
+      "accident",
+      "capture",
+      "occasion",
+      "concept",
+      "intercept",
+      "forceps",
+      "except",
+      "reciprocate"
+    ]
+  },
+  {
+    "features": [
+      "cad",
+      "cas"
+    ],
+    "meaning": [
+      "to fall"
+    ],
+    "examples": [
+      "cadaver",
+      "cadence",
+      "cascade"
+    ]
+  },
+  {
+    "features": [
+      "-cade"
+    ],
+    "meaning": [
+      "procession"
+    ],
+    "examples": [
+      "motorcade"
+    ]
+  },
+  {
+    "features": [
+      "calor"
+    ],
+    "meaning": [
+      "heat"
+    ],
+    "examples": [
+      "calorie",
+      "caloric",
+      "calorimeter"
+    ]
+  },
+  {
+    "features": [
+      "capit",
+      "capt"
+    ],
+    "meaning": [
+      "head"
+    ],
+    "examples": [
+      "decapitate",
+      "capital",
+      "captain",
+      "caption"
+    ]
+  },
+  {
+    "features": [
+      "carn"
+    ],
+    "meaning": [
+      "flesh"
+    ],
+    "examples": [
+      "carnivorous",
+      "incarnate",
+      "reincarnation",
+      "carnal"
+    ]
+  },
+  {
+    "features": [
+      "cat",
+      "cata",
+      "cath"
+    ],
+    "meaning": [
+      "down",
+      "with"
+    ],
+    "examples": [
+      "catalogue",
+      "category",
+      "catheter"
+    ]
+  },
+  {
+    "features": [
+      "caus",
+      "caut"
+    ],
+    "meaning": [
+      "burn",
+      "heat"
+    ],
+    "examples": [
+      "caustic",
+      "cauldron",
+      "cauterize"
+    ]
+  },
+  {
+    "features": [
+      "cause",
+      "cuse",
+      "cus"
+    ],
+    "meaning": [
+      "cause",
+      "motive"
+    ],
+    "examples": [
+      "because",
+      "excuse",
+      "accusation"
+    ]
+  },
+  {
+    "features": [
+      "ceas",
+      "ced",
+      "cede",
+      "ceed",
+      "cess"
+    ],
+    "meaning": [
+      "to go",
+      "to yield",
+      "move",
+      "go",
+      "surrender"
+    ],
+    "examples": [
+      "succeed",
+      "proceed",
+      "precede",
+      "recede",
+      "secession",
+      "exceed",
+      "succession"
+    ]
+  },
+  {
+    "features": [
+      "cent"
+    ],
+    "meaning": [
+      "hundred"
+    ],
+    "examples": [
+      "centennial",
+      "century",
+      "centipede"
+    ]
+  },
+  {
+    "features": [
+      "centr",
+      "centri"
+    ],
+    "meaning": [
+      "center"
+    ],
+    "examples": [
+      "eccentricity",
+      "centrifugal",
+      "concentric",
+      "eccentric"
+    ]
+  },
+  {
+    "features": [
+      "chrom"
+    ],
+    "meaning": [
+      "color"
+    ],
+    "examples": [
+      "chrome",
+      "chromosome",
+      "polychrome",
+      "chromatic"
+    ]
+  },
+  {
+    "features": [
+      "chron"
+    ],
+    "meaning": [
+      "time"
+    ],
+    "examples": [
+      "chronology",
+      "chronic",
+      "chronicle chronometer",
+      "anachronism",
+      "synchronize"
+    ]
+  },
+  {
+    "features": [
+      "cide",
+      "cis",
+      "cise"
+    ],
+    "meaning": [
+      "to kill",
+      "to cut",
+      "cut down"
+    ],
+    "examples": [
+      "fratricide",
+      "homicide",
+      "incision",
+      "incision",
+      "circumcision",
+      "scissors"
+    ]
+  },
+  {
+    "features": [
+      "circum"
+    ],
+    "meaning": [
+      "around"
+    ],
+    "examples": [
+      "circumnavigate",
+      "circumflex",
+      "circumstance",
+      "circumcision",
+      "circumference",
+      "circumorbital",
+      "circumlocution",
+      "circumvent",
+      "circumscribe",
+      "circulatory"
+    ]
+  },
+  {
+    "features": [
+      "cit"
+    ],
+    "meaning": [
+      "call",
+      "start"
+    ],
+    "examples": [
+      "incite",
+      "citation",
+      "cite"
+    ]
+  },
+  {
+    "features": [
+      "civ"
+    ],
+    "meaning": [
+      "citizen"
+    ],
+    "examples": [
+      "civic",
+      "civil",
+      "civilian",
+      "civilization"
+    ]
+  },
+  {
+    "features": [
+      "clam",
+      "claim"
+    ],
+    "meaning": [
+      "cry out"
+    ],
+    "examples": [
+      "exclamation",
+      "clamor",
+      "proclamation",
+      "reclamation",
+      "acclaim"
+    ]
+  },
+  {
+    "features": [
+      "clin"
+    ],
+    "meaning": [
+      "lean",
+      "bend"
+    ],
+    "examples": [
+      "decline",
+      "aclinic",
+      "inclination"
+    ]
+  },
+  {
+    "features": [
+      "clud",
+      "clus claus"
+    ],
+    "meaning": [
+      "to close",
+      "shut"
+    ],
+    "examples": [
+      "include",
+      "exclude",
+      "clause",
+      "claustrophobia",
+      "enclose",
+      "exclusive",
+      "reclusive",
+      "conclude"
+    ]
+  },
+  {
+    "features": [
+      "co",
+      "cog",
+      "col",
+      "coll",
+      "con",
+      "com",
+      "cor"
+    ],
+    "meaning": [
+      "with",
+      "together"
+    ],
+    "examples": [
+      "cohesiveness",
+      "cognate",
+      "collaborate",
+      "convene",
+      "commitment",
+      "compress",
+      "contemporary",
+      "converge",
+      "compact",
+      "confluence",
+      "convenient",
+      "concatenate",
+      "conjoin",
+      "combine",
+      "correct"
+    ]
+  },
+  {
+    "features": [
+      "cogn",
+      "gnos"
+    ],
+    "meaning": [
+      "to know"
+    ],
+    "examples": [
+      "recognize",
+      "cognizant",
+      "diagnose",
+      "agnostic",
+      "incognito",
+      "prognosis"
+    ]
+  },
+  {
+    "features": [
+      "com",
+      "con"
+    ],
+    "meaning": [
+      "fully"
+    ],
+    "examples": [
+      "complete",
+      "compel",
+      "conscious",
+      "condense",
+      "confess",
+      "confirm"
+    ]
+  },
+  {
+    "features": [
+      "contr",
+      "contra",
+      "counter"
+    ],
+    "meaning": [
+      "against",
+      "opposite"
+    ],
+    "examples": [
+      "contradict",
+      "counteract",
+      "contravene",
+      "contrary",
+      "counterspy",
+      "contrapuntal"
+    ]
+  },
+  {
+    "features": [
+      "cord",
+      "cor",
+      "cardi"
+    ],
+    "meaning": [
+      "heart"
+    ],
+    "examples": [
+      "cordial",
+      "concord",
+      "discord",
+      "courage",
+      "encourage"
+    ]
+  },
+  {
+    "features": [
+      "corp"
+    ],
+    "meaning": [
+      "body"
+    ],
+    "examples": [
+      "corporation",
+      "corporal punishment",
+      "corpse",
+      "corpulent",
+      "corpus luteum"
+    ]
+  },
+  {
+    "features": [
+      "cort"
+    ],
+    "meaning": [
+      "correct"
+    ],
+    "examples": [
+      "escort",
+      "cortage"
+    ]
+  },
+  {
+    "features": [
+      "cosm"
+    ],
+    "meaning": [
+      "universe",
+      "world"
+    ],
+    "examples": [
+      "cosmos",
+      "microcosm",
+      "cosmopolitan",
+      "cosmonaut"
+    ]
+  },
+  {
+    "features": [
+      "cour",
+      "cur",
+      "curr",
+      "curs"
+    ],
+    "meaning": [
+      "run",
+      "course"
+    ],
+    "examples": [
+      "occur",
+      "excursion",
+      "discourse",
+      "courier",
+      "course"
+    ]
+  },
+  {
+    "features": [
+      "crat",
+      "cracy"
+    ],
+    "meaning": [
+      "rule"
+    ],
+    "examples": [
+      "autocrat",
+      "aristocrat",
+      "theocracy",
+      "technocracy"
+    ]
+  },
+  {
+    "features": [
+      "cre",
+      "cresc",
+      "cret",
+      "crease"
+    ],
+    "meaning": [
+      "grow"
+    ],
+    "examples": [
+      "create",
+      "crescent",
+      "accretion",
+      "increase"
+    ]
+  },
+  {
+    "features": [
+      "crea"
+    ],
+    "meaning": [
+      "create"
+    ],
+    "examples": [
+      "creature",
+      "recreation",
+      "creation"
+    ]
+  },
+  {
+    "features": [
+      "cred"
+    ],
+    "meaning": [
+      "believe"
+    ],
+    "examples": [
+      "creed",
+      "credo",
+      "credence",
+      "credit",
+      "credulous",
+      "incredulous",
+      "incredible"
+    ]
+  },
+  {
+    "features": [
+      "cresc",
+      "cret",
+      "crease",
+      "cru"
+    ],
+    "meaning": [
+      "rise",
+      "grow"
+    ],
+    "examples": [
+      "crescendo",
+      "concrete",
+      "increase",
+      "decrease",
+      "accrue"
+    ]
+  },
+  {
+    "features": [
+      "crit"
+    ],
+    "meaning": [
+      "separate",
+      "choose"
+    ],
+    "examples": [
+      "critical",
+      "criterion",
+      "hypocrite"
+    ]
+  },
+  {
+    "features": [
+      "cur",
+      "curs"
+    ],
+    "meaning": [
+      "run"
+    ],
+    "examples": [
+      "current",
+      "concurrent",
+      "concur",
+      "incur",
+      "recur",
+      "occur",
+      "courier",
+      "precursor",
+      "cursive"
+    ]
+  },
+  {
+    "features": [
+      "cura"
+    ],
+    "meaning": [
+      "care"
+    ],
+    "examples": [
+      "curator",
+      "curative",
+      "manicure"
+    ]
+  },
+  {
+    "features": [
+      "cycl",
+      "cyclo"
+    ],
+    "meaning": [
+      "wheel",
+      "circle",
+      "circular"
+    ],
+    "examples": [
+      "Cyclops",
+      "unicycle",
+      "bicycle",
+      "cyclone",
+      "cyclic"
+    ]
+  },
+  {
+    "features": [
+      "de-"
+    ],
+    "meaning": [
+      "from",
+      "down",
+      "away",
+      "to do the opposite",
+      "reverse",
+      "against"
+    ],
+    "examples": [
+      "detach",
+      "deploy",
+      "derange",
+      "decrease",
+      "deodorize",
+      "devoid",
+      "deflate",
+      "degenerate"
+    ]
+  },
+  {
+    "features": [
+      "dec",
+      "deca"
+    ],
+    "meaning": [
+      "ten",
+      "ten times"
+    ],
+    "examples": [
+      "decimal",
+      "decade",
+      "decalogue",
+      "decimate",
+      "decathlon"
+    ]
+  },
+  {
+    "features": [
+      "dec",
+      "dign"
+    ],
+    "meaning": [
+      "suitable"
+    ],
+    "examples": [
+      "decent decorate dignity"
+    ]
+  },
+  {
+    "features": [
+      "dei",
+      "div"
+    ],
+    "meaning": [
+      "God"
+    ],
+    "examples": [
+      "divinity",
+      "divine",
+      "deity",
+      "divination",
+      "deify"
+    ]
+  },
+  {
+    "features": [
+      "dem",
+      "demo"
+    ],
+    "meaning": [
+      "people",
+      "populace",
+      "population"
+    ],
+    "examples": [
+      "democracy",
+      "demography",
+      "demagogue",
+      "epidemic"
+    ]
+  },
+  {
+    "features": [
+      "dent",
+      "dont"
+    ],
+    "meaning": [
+      "tooth"
+    ],
+    "examples": [
+      "dental",
+      "denture",
+      "orthodontist",
+      "periodontal"
+    ]
+  },
+  {
+    "features": [
+      "derm"
+    ],
+    "meaning": [
+      "skin",
+      "covering"
+    ],
+    "examples": [
+      "hypodermic",
+      "dermatology",
+      "epidermis",
+      "taxidermy"
+    ]
+  },
+  {
+    "features": [
+      "di-",
+      "dy-"
+    ],
+    "meaning": [
+      "two",
+      "twice",
+      "double"
+    ],
+    "examples": [
+      "divide",
+      "diverge",
+      "diglycerides"
+    ]
+  },
+  {
+    "features": [
+      "dia"
+    ],
+    "meaning": [
+      "through",
+      "across",
+      "between"
+    ],
+    "examples": [
+      "diameter",
+      "diagonal",
+      "dialogue dialect",
+      "dialectic",
+      "diagnosis",
+      "diachronic"
+    ]
+  },
+  {
+    "features": [
+      "dic",
+      "dict",
+      "dit"
+    ],
+    "meaning": [
+      "say",
+      "speak"
+    ],
+    "examples": [
+      "dictation",
+      "dictionary",
+      "dictate",
+      "dictator",
+      "Dictaphone",
+      "edict",
+      "predict",
+      "verdict",
+      "contradict",
+      "benediction"
+    ]
+  },
+  {
+    "features": [
+      "dis",
+      "dif"
+    ],
+    "meaning": [
+      "not",
+      "opposite of",
+      "reverse",
+      "separate",
+      "deprive of",
+      "away"
+    ],
+    "examples": [
+      "dismiss",
+      "differ",
+      "disallow",
+      "disperse",
+      "dissuade",
+      "divide",
+      "disconnect",
+      "disproportion",
+      "disrespect",
+      "distemper",
+      "disarray"
+    ]
+  },
+  {
+    "features": [
+      "dit"
+    ],
+    "meaning": [
+      "give"
+    ],
+    "examples": [
+      "credit",
+      "audit"
+    ]
+  },
+  {
+    "features": [
+      "doc",
+      "doct"
+    ],
+    "meaning": [
+      "teach",
+      "prove"
+    ],
+    "examples": [
+      "docile",
+      "doctor",
+      "doctrine",
+      "document",
+      "dogma",
+      "indoctrinate"
+    ]
+  },
+  {
+    "features": [
+      "domin"
+    ],
+    "meaning": [
+      "master",
+      "that which is under control"
+    ],
+    "examples": [
+      "dominate",
+      "dominion",
+      "predominant",
+      "domain"
+    ]
+  },
+  {
+    "features": [
+      "don"
+    ],
+    "meaning": [
+      "give"
+    ],
+    "examples": [
+      "donate",
+      "condone"
+    ]
+  },
+  {
+    "features": [
+      "dorm"
+    ],
+    "meaning": [
+      "sleep"
+    ],
+    "examples": [
+      "dormant",
+      "dormitory"
+    ]
+  },
+  {
+    "features": [
+      "dox"
+    ],
+    "meaning": [
+      "thought",
+      "opinion",
+      "praise"
+    ],
+    "examples": [
+      "orthodox",
+      "heterodox",
+      "paradox",
+      "doxology"
+    ]
+  },
+  {
+    "features": [
+      "-drome"
+    ],
+    "meaning": [
+      "run",
+      "step"
+    ],
+    "examples": [
+      "syndrome",
+      "aerodrome",
+      "velodrome"
+    ]
+  },
+  {
+    "features": [
+      "duc",
+      "duct"
+    ],
+    "meaning": [
+      "to lead",
+      "pull"
+    ],
+    "examples": [
+      "produce",
+      "abduct",
+      "product",
+      "transducer",
+      "viaduct",
+      "aqueduct",
+      "induct",
+      "deduct",
+      "reduce",
+      "induce"
+    ]
+  },
+  {
+    "features": [
+      "dura"
+    ],
+    "meaning": [
+      "hard",
+      "lasting"
+    ],
+    "examples": [
+      "durable",
+      "duration",
+      "endure"
+    ]
+  },
+  {
+    "features": [
+      "dynam"
+    ],
+    "meaning": [
+      "power"
+    ],
+    "examples": [
+      "dynamo",
+      "dynamic",
+      "dynamite",
+      "hydrodynamics"
+    ]
+  },
+  {
+    "features": [
+      "dys-"
+    ],
+    "meaning": [
+      "bad",
+      "abnormal",
+      "difficult",
+      "impaired",
+      "unfavorable"
+    ],
+    "examples": [
+      "dysfunctional",
+      "dyslexia",
+      "dyspathy"
+    ]
+  },
+  {
+    "features": [
+      "e-"
+    ],
+    "meaning": [
+      "not",
+      "missing",
+      "out",
+      "fully",
+      "away",
+      "computer network related"
+    ],
+    "examples": [
+      "emit",
+      "embed",
+      "eternal",
+      "ether",
+      "erase",
+      "email",
+      "e-tailer"
+    ]
+  },
+  {
+    "features": [
+      "ec-"
+    ],
+    "meaning": [
+      "out of",
+      "outside"
+    ],
+    "examples": [
+      "echo",
+      "eclipse",
+      "eclectic",
+      "ecesis",
+      "ecstasy",
+      "exzema"
+    ]
+  },
+  {
+    "features": [
+      "eco-"
+    ],
+    "meaning": [
+      "household",
+      "environment",
+      "relating to ecology or economy"
+    ],
+    "examples": [
+      "ecology",
+      "economize",
+      "ecospheres",
+      "ecomanagement"
+    ]
+  },
+  {
+    "features": [
+      "ecto-"
+    ],
+    "meaning": [
+      "outside",
+      "external"
+    ],
+    "examples": [
+      "ectomorph",
+      "ectoderm",
+      "ectoplasm"
+    ]
+  },
+  {
+    "features": [
+      "-ed"
+    ],
+    "meaning": [
+      "Verb: past tense"
+    ],
+    "examples": [
+      "dressed",
+      "faded",
+      "patted",
+      "closed",
+      "introduced"
+    ]
+  },
+  {
+    "features": [
+      "-ed"
+    ],
+    "meaning": [
+      "Adjective: having the quality or characteristics of"
+    ],
+    "examples": [
+      "winged",
+      "moneyed",
+      "dogged",
+      "tiered"
+    ]
+  },
+  {
+    "features": [
+      "-en"
+    ],
+    "meaning": [
+      "Verb: to cause to become"
+    ],
+    "examples": [
+      "lengthen",
+      "moisten",
+      "sharpen"
+    ]
+  },
+  {
+    "features": [
+      "-en"
+    ],
+    "meaning": [
+      "Adjective: material"
+    ],
+    "examples": [
+      "golden",
+      "woolen",
+      "silken"
+    ]
+  },
+  {
+    "features": [
+      "en-",
+      "em-"
+    ],
+    "meaning": [
+      "put into",
+      "make",
+      "provide with",
+      "surround with"
+    ],
+    "examples": [
+      "enamor",
+      "embolden",
+      "enslave",
+      "empower",
+      "entangle"
+    ]
+  },
+  {
+    "features": [
+      "-ence",
+      "-ency"
+    ],
+    "meaning": [
+      "Noun: action or process",
+      "quality or state"
+    ],
+    "examples": [
+      "reference",
+      "emergency",
+      "dependence",
+      "eminence",
+      "latency"
+    ]
+  },
+  {
+    "features": [
+      "end-"
+    ],
+    "meaning": [
+      "inside",
+      "within"
+    ],
+    "examples": [
+      "endorse",
+      "endocardial",
+      "endergonic",
+      "endoskeleton",
+      "endoscope",
+      "endogenous"
+    ]
+  },
+  {
+    "features": [
+      "epi-"
+    ],
+    "meaning": [
+      "upon",
+      "close to",
+      "over",
+      "after",
+      "altered"
+    ],
+    "examples": [
+      "epicenter",
+      "epicarp",
+      "epilogue",
+      "epigone",
+      "epidiorite"
+    ]
+  },
+  {
+    "features": [
+      "equi-"
+    ],
+    "meaning": [
+      "equal"
+    ],
+    "examples": [
+      "equidistant",
+      "equilateral",
+      "equilibrium",
+      "equinox",
+      "equation",
+      "equator"
+    ]
+  },
+  {
+    "features": [
+      "-er",
+      "-ier"
+    ],
+    "meaning": [
+      "Adjective: comparative"
+    ],
+    "examples": [
+      "better",
+      "brighter",
+      "sooner",
+      "hotter",
+      "happier"
+    ]
+  },
+  {
+    "features": [
+      "-er",
+      "-or"
+    ],
+    "meaning": [
+      "Noun: person or thing that does something"
+    ],
+    "examples": [
+      "flyer",
+      "reporter",
+      "player",
+      "member",
+      "fryer",
+      "collector",
+      "concentrator"
+    ]
+  },
+  {
+    "features": [
+      "-er",
+      "-or"
+    ],
+    "meaning": [
+      "Verb: action"
+    ],
+    "examples": [
+      "ponder",
+      "dishonor",
+      "clamor"
+    ]
+  },
+  {
+    "features": [
+      "erg"
+    ],
+    "meaning": [
+      "work",
+      "effect"
+    ],
+    "examples": [
+      "energy",
+      "erg",
+      "allergy",
+      "ergometer",
+      "ergograph",
+      "ergophobia"
+    ]
+  },
+  {
+    "features": [
+      "-ery"
+    ],
+    "meaning": [
+      "collective qualities",
+      "art",
+      "practice",
+      "trade",
+      "collection",
+      "state",
+      "condition"
+    ],
+    "examples": [
+      "snobbery",
+      "bakery",
+      "geenery",
+      "gallery",
+      "slavery"
+    ]
+  },
+  {
+    "features": [
+      "-es",
+      "-ies"
+    ],
+    "meaning": [
+      "Noun: plural of most nouns ending in -ch",
+      "-s",
+      "-sh",
+      "-o and -z and some in -f and -y"
+    ],
+    "examples": [
+      "passes",
+      "glasses",
+      "ladies",
+      "heroes"
+    ]
+  },
+  {
+    "features": [
+      "-es",
+      "-ies"
+    ],
+    "meaning": [
+      "Verb: third person singular present indicative of verbs that end in -ch",
+      "-s",
+      "-sh",
+      "- and some in -y"
+    ],
+    "examples": [
+      "blesses",
+      "hushes",
+      "fizzes",
+      "defies"
+    ]
+  },
+  {
+    "features": [
+      "-ess"
+    ],
+    "meaning": [
+      "female"
+    ],
+    "examples": [
+      "actress",
+      "goddess",
+      "poetess"
+    ]
+  },
+  {
+    "features": [
+      "-est",
+      "-iest"
+    ],
+    "meaning": [
+      "Adjective or Adverb: superlative"
+    ],
+    "examples": [
+      "latest",
+      "strongest",
+      "luckiest",
+      "lyingest"
+    ]
+  },
+  {
+    "features": [
+      "ev-",
+      "et-"
+    ],
+    "meaning": [
+      "time",
+      "age"
+    ],
+    "examples": [
+      "medieval",
+      "eternal"
+    ]
+  },
+  {
+    "features": [
+      "ex-"
+    ],
+    "meaning": [
+      "out of",
+      "away from",
+      "lacking",
+      "former"
+    ],
+    "examples": [
+      "exit",
+      "exhale",
+      "exclusive",
+      "exceed",
+      "explosion",
+      "ex-mayor"
+    ]
+  },
+  {
+    "features": [
+      "exter-",
+      "extra-",
+      "extro-"
+    ],
+    "meaning": [
+      "outside of",
+      "beyond"
+    ],
+    "examples": [
+      "external",
+      "extrinsic",
+      "extraordinary",
+      "extrapolate",
+      "extraneous",
+      "extrovert"
+    ]
+  },
+  {
+    "features": [
+      "fa",
+      "fess"
+    ],
+    "meaning": [
+      "speak"
+    ],
+    "examples": [
+      "fable",
+      "fabulous",
+      "fame",
+      "famous",
+      "confess",
+      "profess"
+    ]
+  },
+  {
+    "features": [
+      "fac",
+      "fact",
+      "fec",
+      "fect",
+      "fic",
+      "fas",
+      "fea"
+    ],
+    "meaning": [
+      "do",
+      "make"
+    ],
+    "examples": [
+      "difficult",
+      "fashion",
+      "feasible",
+      "feature",
+      "factory",
+      "fact",
+      "effect",
+      "manufacture",
+      "amplification",
+      "confection"
+    ]
+  },
+  {
+    "features": [
+      "fall",
+      "fals"
+    ],
+    "meaning": [
+      "deceive"
+    ],
+    "examples": [
+      "fallacy",
+      "falsify",
+      "fallacious"
+    ]
+  },
+  {
+    "features": [
+      "femto"
+    ],
+    "meaning": [
+      "quadrillionth"
+    ],
+    "examples": [
+      "femtosecond"
+    ]
+  },
+  {
+    "features": [
+      "fer"
+    ],
+    "meaning": [
+      "bear",
+      "carry"
+    ],
+    "examples": [
+      "ferry",
+      "coniferous",
+      "fertile",
+      "defer",
+      "infer",
+      "refer",
+      "transfer"
+    ]
+  },
+  {
+    "features": [
+      "fic",
+      "feign",
+      "fain",
+      "fit",
+      "feat"
+    ],
+    "meaning": [
+      "shape",
+      "make",
+      "fashion"
+    ],
+    "examples": [
+      "fiction",
+      "faint",
+      "feign"
+    ]
+  },
+  {
+    "features": [
+      "fid"
+    ],
+    "meaning": [
+      "belief",
+      "faith"
+    ],
+    "examples": [
+      "confide",
+      "diffident",
+      "fidelity"
+    ]
+  },
+  {
+    "features": [
+      "fid",
+      "fide",
+      "feder"
+    ],
+    "meaning": [
+      "faith",
+      "trust"
+    ],
+    "examples": [
+      "confidante",
+      "fidelity",
+      "confident",
+      "infidelity",
+      "infidel",
+      "federal",
+      "confederacy",
+      "semper fi"
+    ]
+  },
+  {
+    "features": [
+      "fig"
+    ],
+    "meaning": [
+      "shape",
+      "form"
+    ],
+    "examples": [
+      "figurem",
+      "effigy",
+      "figure",
+      "figment"
+    ]
+  },
+  {
+    "features": [
+      "fila",
+      "fili"
+    ],
+    "meaning": [
+      "thread"
+    ],
+    "examples": [
+      "filigree",
+      "filament",
+      "filter",
+      "filet",
+      "filibuster"
+    ]
+  },
+  {
+    "features": [
+      "fin"
+    ],
+    "meaning": [
+      "end",
+      "ended",
+      "finished"
+    ],
+    "examples": [
+      "final",
+      "finite",
+      "finish",
+      "confine",
+      "fine",
+      "refine",
+      "define",
+      "finale"
+    ]
+  },
+  {
+    "features": [
+      "fix"
+    ],
+    "meaning": [
+      "repair",
+      "attach"
+    ],
+    "examples": [
+      "fix",
+      "fixation",
+      "fixture",
+      "affix",
+      "prefix",
+      "suffix"
+    ]
+  },
+  {
+    "features": [
+      "flex",
+      "flect"
+    ],
+    "meaning": [
+      "bend"
+    ],
+    "examples": [
+      "flex",
+      "reflex",
+      "flexible",
+      "flexor",
+      "inflexibility",
+      "reflect",
+      "deflect",
+      "circumflex"
+    ]
+  },
+  {
+    "features": [
+      "flict"
+    ],
+    "meaning": [
+      "strike"
+    ],
+    "examples": [
+      "affliction",
+      "conflict",
+      "inflict"
+    ]
+  },
+  {
+    "features": [
+      "flu",
+      "fluc",
+      "fluv",
+      "flux"
+    ],
+    "meaning": [
+      "flow"
+    ],
+    "examples": [
+      "influence",
+      "fluid",
+      "flue",
+      "flush",
+      "fluently",
+      "fluctuate",
+      "reflux",
+      "influx"
+    ]
+  },
+  {
+    "features": [
+      "-fold"
+    ],
+    "meaning": [
+      "Adverb: in a manner of",
+      "marked by"
+    ],
+    "examples": [
+      "fourfold"
+    ]
+  },
+  {
+    "features": [
+      "for",
+      "fore"
+    ],
+    "meaning": [
+      "before"
+    ],
+    "examples": [
+      "forecast",
+      "fortune",
+      "foresee"
+    ]
+  },
+  {
+    "features": [
+      "forc",
+      "fort"
+    ],
+    "meaning": [
+      "strength",
+      "strong"
+    ],
+    "examples": [
+      "effort",
+      "fort",
+      "forte",
+      "fortifiable",
+      "fortify",
+      "forte",
+      "fortitude"
+    ]
+  },
+  {
+    "features": [
+      "form"
+    ],
+    "meaning": [
+      "shape",
+      "resemble"
+    ],
+    "examples": [
+      "form",
+      "format",
+      "conform",
+      "formulate",
+      "perform",
+      "formal",
+      "formula"
+    ]
+  },
+  {
+    "features": [
+      "fract",
+      "frag",
+      "frai"
+    ],
+    "meaning": [
+      "break"
+    ],
+    "examples": [
+      "fracture",
+      "infraction",
+      "fragile",
+      "fraction",
+      "refract",
+      "frail"
+    ]
+  },
+  {
+    "features": [
+      "fuge"
+    ],
+    "meaning": [
+      "flee"
+    ],
+    "examples": [
+      "subterfuge",
+      "refuge",
+      "centrifuge"
+    ]
+  },
+  {
+    "features": [
+      "-ful"
+    ],
+    "meaning": [
+      "Noun: an amount or quanity that fills"
+    ],
+    "examples": [
+      "mouthful"
+    ]
+  },
+  {
+    "features": [
+      "-ful"
+    ],
+    "meaning": [
+      "Adjective: having",
+      "giving",
+      "marked by"
+    ],
+    "examples": [
+      "fanciful"
+    ]
+  },
+  {
+    "features": [
+      "fuse"
+    ],
+    "meaning": [
+      "pour"
+    ],
+    "examples": [
+      "confuse",
+      "transfuse"
+    ]
+  },
+  {
+    "features": [
+      "-fy"
+    ],
+    "meaning": [
+      "make",
+      "form into"
+    ],
+    "examples": [
+      "falsify",
+      "dandify"
+    ]
+  },
+  {
+    "features": [
+      "gam"
+    ],
+    "meaning": [
+      "marriage"
+    ],
+    "examples": [
+      "bigamy",
+      "monogamy",
+      "polygamy"
+    ]
+  },
+  {
+    "features": [
+      "gastr",
+      "gastro"
+    ],
+    "meaning": [
+      "stomach"
+    ],
+    "examples": [
+      "gastric",
+      "gastronomic",
+      "gastritis",
+      "gastropod"
+    ]
+  },
+  {
+    "features": [
+      "gen"
+    ],
+    "meaning": [
+      "kind"
+    ],
+    "examples": [
+      "generous"
+    ]
+  },
+  {
+    "features": [
+      "gen"
+    ],
+    "meaning": [
+      "birth",
+      "race",
+      "produce"
+    ],
+    "examples": [
+      "genesis",
+      "genetics",
+      "eugenics",
+      "genealogy",
+      "generate",
+      "genetic",
+      "antigen",
+      "pathogen"
+    ]
+  },
+  {
+    "features": [
+      "geo"
+    ],
+    "meaning": [
+      "earth"
+    ],
+    "examples": [
+      "geometry",
+      "geography",
+      "geocentric",
+      "geology"
+    ]
+  },
+  {
+    "features": [
+      "germ"
+    ],
+    "meaning": [
+      "vital part"
+    ],
+    "examples": [
+      "germination",
+      "germ",
+      "germane"
+    ]
+  },
+  {
+    "features": [
+      "gest"
+    ],
+    "meaning": [
+      "carry",
+      "bear"
+    ],
+    "examples": [
+      "congest",
+      "gestation"
+    ]
+  },
+  {
+    "features": [
+      "giga"
+    ],
+    "meaning": [
+      "billion"
+    ],
+    "examples": [
+      "gigabyte",
+      "gigaflop"
+    ]
+  },
+  {
+    "features": [
+      "gin"
+    ],
+    "meaning": [
+      "careful"
+    ],
+    "examples": [
+      "gingerly"
+    ]
+  },
+  {
+    "features": [
+      "gloss",
+      "glot"
+    ],
+    "meaning": [
+      "tongue"
+    ],
+    "examples": [
+      "glossary",
+      "polyglot",
+      "epiglottis"
+    ]
+  },
+  {
+    "features": [
+      "glu",
+      "glo"
+    ],
+    "meaning": [
+      "lump",
+      "bond",
+      "glue"
+    ],
+    "examples": [
+      "glue",
+      "agglutinate",
+      "conglomerate"
+    ]
+  },
+  {
+    "features": [
+      "gor"
+    ],
+    "meaning": [
+      "to gather",
+      "to bring together"
+    ],
+    "examples": [
+      "category",
+      "categorize"
+    ]
+  },
+  {
+    "features": [
+      "grad",
+      "gress",
+      "gree"
+    ],
+    "meaning": [
+      "to gather",
+      "to bring together",
+      "step",
+      "go"
+    ],
+    "examples": [
+      "grade",
+      "degree",
+      "progress",
+      "gradual",
+      "graduate",
+      "egress"
+    ]
+  },
+  {
+    "features": [
+      "graph",
+      "gram",
+      "graf"
+    ],
+    "meaning": [
+      "write",
+      "written",
+      "draw"
+    ],
+    "examples": [
+      "graph",
+      "graphic",
+      "autograph",
+      "photography",
+      "graphite",
+      "telegram",
+      "polygraph",
+      "grammar",
+      "biography",
+      "lithograph",
+      "graphic"
+    ]
+  },
+  {
+    "features": [
+      "grat"
+    ],
+    "meaning": [
+      "pleasing"
+    ],
+    "examples": [
+      "congratulate",
+      "gratuity",
+      "grateful",
+      "ingrate"
+    ]
+  },
+  {
+    "features": [
+      "grav"
+    ],
+    "meaning": [
+      "heavy",
+      "weighty"
+    ],
+    "examples": [
+      "grave",
+      "gravity",
+      "aggravate",
+      "gravitate"
+    ]
+  },
+  {
+    "features": [
+      "greg"
+    ],
+    "meaning": [
+      "herd"
+    ],
+    "examples": [
+      "gregarious",
+      "congregation",
+      "segregate",
+      "gregarian"
+    ]
+  },
+  {
+    "features": [
+      "hale",
+      "heal"
+    ],
+    "meaning": [
+      "make whole",
+      "sound"
+    ],
+    "examples": [
+      "inhale",
+      "exhale",
+      "heal",
+      "healthy",
+      "healthiness"
+    ]
+  },
+  {
+    "features": [
+      "helio"
+    ],
+    "meaning": [
+      "sun"
+    ],
+    "examples": [
+      "heliograph",
+      "heliotrope",
+      "heliocentric"
+    ]
+  },
+  {
+    "features": [
+      "hema",
+      "hemo"
+    ],
+    "meaning": [
+      "blood"
+    ],
+    "examples": [
+      "hemorrhage",
+      "hemoglobin",
+      "hemophilia",
+      "hemostat"
+    ]
+  },
+  {
+    "features": [
+      "her",
+      "here",
+      "hes"
+    ],
+    "meaning": [
+      "stick"
+    ],
+    "examples": [
+      "adhere",
+      "cohere",
+      "cohesion",
+      "inherent",
+      "hereditary",
+      "hesitate"
+    ]
+  },
+  {
+    "features": [
+      "hetero"
+    ],
+    "meaning": [
+      "other",
+      "different"
+    ],
+    "examples": [
+      "heterodox",
+      "heterogeneous",
+      "heterosexual",
+      "heterodyne"
+    ]
+  },
+  {
+    "features": [
+      "hex",
+      "ses",
+      "sex"
+    ],
+    "meaning": [
+      "six"
+    ],
+    "examples": [
+      "hexagon",
+      "hexameter",
+      "sestet",
+      "sextuplets"
+    ]
+  },
+  {
+    "features": [
+      "homo"
+    ],
+    "meaning": [
+      "same"
+    ],
+    "examples": [
+      "homogenize",
+      "homosexual",
+      "homonym",
+      "homophone"
+    ]
+  },
+  {
+    "features": [
+      "hum",
+      "human"
+    ],
+    "meaning": [
+      "earth",
+      "ground",
+      "man"
+    ],
+    "examples": [
+      "humus",
+      "exhume",
+      "humane"
+    ]
+  },
+  {
+    "features": [
+      "hydr",
+      "hydra",
+      "hydro"
+    ],
+    "meaning": [
+      "water"
+    ],
+    "examples": [
+      "dehydrate",
+      "hydrant",
+      "hydraulic",
+      "hydraulics",
+      "hydrogen",
+      "hydrophobia"
+    ]
+  },
+  {
+    "features": [
+      "hyper"
+    ],
+    "meaning": [
+      "over",
+      "above"
+    ],
+    "examples": [
+      "hyperactive",
+      "hypertensive",
+      "hyperbolic",
+      "hypersensitive",
+      "hyperventilate",
+      "hyperkinetic"
+    ]
+  },
+  {
+    "features": [
+      "hypn"
+    ],
+    "meaning": [
+      "sleep"
+    ],
+    "examples": [
+      "hypnosis",
+      "hypnotherapy"
+    ]
+  },
+  {
+    "features": [
+      "-ia"
+    ],
+    "meaning": [
+      "Noun: names",
+      "diseases"
+    ],
+    "examples": [
+      "phobia"
+    ]
+  },
+  {
+    "features": [
+      "-ian",
+      "an"
+    ],
+    "meaning": [
+      "Noun: related to",
+      "one that is"
+    ],
+    "examples": [
+      "pedestrian",
+      "human"
+    ]
+  },
+  {
+    "features": [
+      "-iatry"
+    ],
+    "meaning": [
+      "Noun: art of healing"
+    ],
+    "examples": [
+      "psychiatry"
+    ]
+  },
+  {
+    "features": [
+      "-ic"
+    ],
+    "meaning": [
+      "Adjective: quality",
+      "relation"
+    ],
+    "examples": [
+      "generic"
+    ]
+  },
+  {
+    "features": [
+      "-ic",
+      "ics"
+    ],
+    "meaning": [
+      "Noun: related to the arts and sciences"
+    ],
+    "examples": [
+      "arithmetic",
+      "economics"
+    ]
+  },
+  {
+    "features": [
+      "-ice"
+    ],
+    "meaning": [
+      "Noun: act"
+    ],
+    "examples": [
+      "malice"
+    ]
+  },
+  {
+    "features": [
+      "-ify"
+    ],
+    "meaning": [
+      "Verb: cause"
+    ],
+    "examples": [
+      "specify"
+    ]
+  },
+  {
+    "features": [
+      "ignis"
+    ],
+    "meaning": [
+      "fire"
+    ],
+    "examples": [
+      "ignite",
+      "igneous",
+      "ignition"
+    ]
+  },
+  {
+    "features": [
+      "-ile"
+    ],
+    "meaning": [
+      "Adjective: having the qualities of"
+    ],
+    "examples": [
+      "projectile"
+    ]
+  },
+  {
+    "features": [
+      "in",
+      "im"
+    ],
+    "meaning": [
+      "into",
+      "on",
+      "near",
+      "towards"
+    ],
+    "examples": [
+      "instead",
+      "import"
+    ]
+  },
+  {
+    "features": [
+      "in",
+      "im",
+      "il",
+      "ir"
+    ],
+    "meaning": [
+      "not"
+    ],
+    "examples": [
+      "illegible",
+      "irresolute",
+      "inaction",
+      "inviolate",
+      "innocuous",
+      "intractable",
+      "innocent",
+      "impregnable",
+      "impossible",
+      "imposter"
+    ]
+  },
+  {
+    "features": [
+      "infra"
+    ],
+    "meaning": [
+      "beneath"
+    ],
+    "examples": [
+      "infrared",
+      "infrastructure"
+    ]
+  },
+  {
+    "features": [
+      "-ing"
+    ],
+    "meaning": [
+      "Noun: material made for",
+      "activity",
+      "result of an activity"
+    ],
+    "examples": [
+      "flooring",
+      "swimming",
+      "building"
+    ]
+  },
+  {
+    "features": [
+      "-ing"
+    ],
+    "meaning": [
+      "Verb: present participle"
+    ],
+    "examples": [
+      "depicting"
+    ]
+  },
+  {
+    "features": [
+      "-ing"
+    ],
+    "meaning": [
+      "Adjective: activity"
+    ],
+    "examples": [
+      "cohering"
+    ]
+  },
+  {
+    "features": [
+      "inter"
+    ],
+    "meaning": [
+      "between",
+      "among"
+    ],
+    "examples": [
+      "international",
+      "intercept",
+      "interject",
+      "intermission",
+      "internal",
+      "intermittent"
+    ]
+  },
+  {
+    "features": [
+      "intra"
+    ],
+    "meaning": [
+      "within",
+      "during",
+      "between layers",
+      "underneath"
+    ],
+    "examples": [
+      "intramural",
+      "intranet",
+      "intranatal"
+    ]
+  },
+  {
+    "features": [
+      "intro"
+    ],
+    "meaning": [
+      "into",
+      "within",
+      "inward"
+    ],
+    "examples": [
+      "interoffice",
+      "introvert",
+      "introspection",
+      "introduce"
+    ]
+  },
+  {
+    "features": [
+      "-ion"
+    ],
+    "meaning": [
+      "Noun: condition or action"
+    ],
+    "examples": [
+      "abduction"
+    ]
+  },
+  {
+    "features": [
+      "-ish"
+    ],
+    "meaning": [
+      "Adjective: having the character of"
+    ],
+    "examples": [
+      "newish"
+    ]
+  },
+  {
+    "features": [
+      "-ism"
+    ],
+    "meaning": [
+      "Noun: doctrine",
+      "belief",
+      "action or conduct"
+    ],
+    "examples": [
+      "formalism"
+    ]
+  },
+  {
+    "features": [
+      "-ist"
+    ],
+    "meaning": [
+      "Noun: person or member"
+    ],
+    "examples": [
+      "podiatrist"
+    ]
+  },
+  {
+    "features": [
+      "-ite"
+    ],
+    "meaning": [
+      "Noun: state or quality"
+    ],
+    "examples": [
+      "graphite"
+    ]
+  },
+  {
+    "features": [
+      "-ity",
+      "ty"
+    ],
+    "meaning": [
+      "Noun: state or quality"
+    ],
+    "examples": [
+      "lucidity",
+      "novelty"
+    ]
+  },
+  {
+    "features": [
+      "-ive"
+    ],
+    "meaning": [
+      "Noun: condition"
+    ],
+    "examples": [
+      "native"
+    ]
+  },
+  {
+    "features": [
+      "-ive",
+      "-ative",
+      "-itive"
+    ],
+    "meaning": [
+      "Adjective: having the quality of"
+    ],
+    "examples": [
+      "festive",
+      "cooperative",
+      "sensitive"
+    ]
+  },
+  {
+    "features": [
+      "-ize"
+    ],
+    "meaning": [
+      "Verb: cause"
+    ],
+    "examples": [
+      "fantasize"
+    ]
+  },
+  {
+    "features": [
+      "jac",
+      "ject"
+    ],
+    "meaning": [
+      "throw"
+    ],
+    "examples": [
+      "reject",
+      "eject",
+      "project",
+      "trajectory",
+      "interject",
+      "dejected",
+      "inject",
+      "ejaculate",
+      "adjacent"
+    ]
+  },
+  {
+    "features": [
+      "join",
+      "junct"
+    ],
+    "meaning": [
+      "join"
+    ],
+    "examples": [
+      "adjoining",
+      "enjoin",
+      "juncture",
+      "conjunction",
+      "injunction",
+      "conjunction"
+    ]
+  },
+  {
+    "features": [
+      "judice"
+    ],
+    "meaning": [
+      "judge"
+    ],
+    "examples": [
+      "prejudice"
+    ]
+  },
+  {
+    "features": [
+      "jug",
+      "junct",
+      "just"
+    ],
+    "meaning": [
+      "to join"
+    ],
+    "examples": [
+      "junction",
+      "adjust",
+      "conjugal"
+    ]
+  },
+  {
+    "features": [
+      "juven"
+    ],
+    "meaning": [
+      "young"
+    ],
+    "examples": [
+      "juvenile",
+      "rejuvenate"
+    ]
+  },
+  {
+    "features": [
+      "labor"
+    ],
+    "meaning": [
+      "work"
+    ],
+    "examples": [
+      "laborious",
+      "belabor"
+    ]
+  },
+  {
+    "features": [
+      "lau",
+      "lav",
+      "lot",
+      "lut"
+    ],
+    "meaning": [
+      "wash"
+    ],
+    "examples": [
+      "launder",
+      "lavatory",
+      "lotion",
+      "ablution",
+      "dilute"
+    ]
+  },
+  {
+    "features": [
+      "lect",
+      "leg",
+      "lig"
+    ],
+    "meaning": [
+      "choose",
+      "gather",
+      "select",
+      "read"
+    ],
+    "examples": [
+      "collect",
+      "legible",
+      "eligible"
+    ]
+  },
+  {
+    "features": [
+      "leg"
+    ],
+    "meaning": [
+      "law"
+    ],
+    "examples": [
+      "legal",
+      "legislate",
+      "legislature",
+      "legitimize"
+    ]
+  },
+  {
+    "features": [
+      "-less"
+    ],
+    "meaning": [
+      "Adjective: without",
+      "missing"
+    ],
+    "examples": [
+      "motiveless"
+    ]
+  },
+  {
+    "features": [
+      "levi"
+    ],
+    "meaning": [
+      "light"
+    ],
+    "examples": [
+      "alleviate",
+      "levitate",
+      "levity"
+    ]
+  },
+  {
+    "features": [
+      "lex",
+      "leag",
+      "leg"
+    ],
+    "meaning": [
+      "law"
+    ],
+    "examples": [
+      "legal",
+      "college",
+      "league"
+    ]
+  },
+  {
+    "features": [
+      "liber",
+      "liver"
+    ],
+    "meaning": [
+      "free"
+    ],
+    "examples": [
+      "liberty",
+      "liberal",
+      "liberalize",
+      "deliverance"
+    ]
+  },
+  {
+    "features": [
+      "lide"
+    ],
+    "meaning": [
+      "strike"
+    ],
+    "examples": [
+      "collide",
+      "nuclide"
+    ]
+  },
+  {
+    "features": [
+      "liter"
+    ],
+    "meaning": [
+      "letters"
+    ],
+    "examples": [
+      "literary",
+      "literature",
+      "literal",
+      "alliteration",
+      "obliterate"
+    ]
+  },
+  {
+    "features": [
+      "loc",
+      "loco"
+    ],
+    "meaning": [
+      "place",
+      "area"
+    ],
+    "examples": [
+      "location",
+      "locally",
+      "locality",
+      "allocate",
+      "locomotion"
+    ]
+  },
+  {
+    "features": [
+      "log",
+      "logo",
+      "ology"
+    ],
+    "meaning": [
+      "word",
+      "study",
+      "say",
+      "speech",
+      "reason",
+      "study"
+    ],
+    "examples": [
+      "catalog",
+      "prologue",
+      "dialogue",
+      "zoology",
+      "logo"
+    ]
+  },
+  {
+    "features": [
+      "loqu",
+      "locut"
+    ],
+    "meaning": [
+      "talk",
+      "speak"
+    ],
+    "examples": [
+      "eloquent",
+      "loquacious",
+      "colloquial",
+      "circumlocution"
+    ]
+  },
+  {
+    "features": [
+      "luc",
+      "lum",
+      "lun",
+      "lus",
+      "lust"
+    ],
+    "meaning": [
+      "light"
+    ],
+    "examples": [
+      "translucent",
+      "luminary",
+      "luster",
+      "luna",
+      "illuminate",
+      "illustrate"
+    ]
+  },
+  {
+    "features": [
+      "lude"
+    ],
+    "meaning": [
+      "play"
+    ],
+    "examples": [
+      "prelude"
+    ]
+  },
+  {
+    "features": [
+      "-ly"
+    ],
+    "meaning": [
+      "Adverb: in the manner of"
+    ],
+    "examples": [
+      "fluently"
+    ]
+  },
+  {
+    "features": [
+      "macr-",
+      "macer"
+    ],
+    "meaning": [
+      "lean"
+    ],
+    "examples": [
+      "emaciated",
+      "meager"
+    ]
+  },
+  {
+    "features": [
+      "magn"
+    ],
+    "meaning": [
+      "great"
+    ],
+    "examples": [
+      "magnify",
+      "magnificent",
+      "magnanimous",
+      "magnate",
+      "magnitude",
+      "magnum"
+    ]
+  },
+  {
+    "features": [
+      "main"
+    ],
+    "meaning": [
+      "strength",
+      "foremost"
+    ],
+    "examples": [
+      "mainstream",
+      "mainsail",
+      "domain",
+      "remain"
+    ]
+  },
+  {
+    "features": [
+      "mal"
+    ],
+    "meaning": [
+      "bad",
+      "badly"
+    ],
+    "examples": [
+      "malformation",
+      "maladjusted",
+      "dismal",
+      "malady",
+      "malcontent",
+      "malfunction",
+      "malfeasance",
+      "maleficent"
+    ]
+  },
+  {
+    "features": [
+      "man",
+      "manu"
+    ],
+    "meaning": [
+      "hand",
+      "make",
+      "do"
+    ],
+    "examples": [
+      "manual",
+      "manage",
+      "manufacture",
+      "manacle",
+      "manicure",
+      "manifest",
+      "maneuver",
+      "emancipate",
+      "management"
+    ]
+  },
+  {
+    "features": [
+      "mand"
+    ],
+    "meaning": [
+      "command"
+    ],
+    "examples": [
+      "mandatory",
+      "remand",
+      "mandate"
+    ]
+  },
+  {
+    "features": [
+      "mania"
+    ],
+    "meaning": [
+      "madness"
+    ],
+    "examples": [
+      "mania",
+      "maniac",
+      "kleptomania",
+      "pyromania"
+    ]
+  },
+  {
+    "features": [
+      "mar",
+      "mari",
+      "mer"
+    ],
+    "meaning": [
+      "sea",
+      "pool"
+    ],
+    "examples": [
+      "marine",
+      "marsh",
+      "maritime",
+      "mermaid"
+    ]
+  },
+  {
+    "features": [
+      "matri"
+    ],
+    "meaning": [
+      "mother"
+    ],
+    "examples": [
+      "matrimony",
+      "maternal",
+      "matriarchate",
+      "matron"
+    ]
+  },
+  {
+    "features": [
+      "medi"
+    ],
+    "meaning": [
+      "half",
+      "middle",
+      "between",
+      "halfway"
+    ],
+    "examples": [
+      "mediate",
+      "medieval",
+      "Mediterranean",
+      "mediocre",
+      "medium"
+    ]
+  },
+  {
+    "features": [
+      "mega"
+    ],
+    "meaning": [
+      "great",
+      "million"
+    ],
+    "examples": [
+      "megaphone",
+      "megaton",
+      "megaflop",
+      "megalomaniac",
+      "megabyte",
+      "megalopolis"
+    ]
+  },
+  {
+    "features": [
+      "mem"
+    ],
+    "meaning": [
+      "recall",
+      "remember"
+    ],
+    "examples": [
+      "memo",
+      "commemoration",
+      "memento",
+      "memoir",
+      "memorable"
+    ]
+  },
+  {
+    "features": [
+      "ment"
+    ],
+    "meaning": [
+      "mind"
+    ],
+    "examples": [
+      "mental",
+      "mention"
+    ]
+  },
+  {
+    "features": [
+      "-ment"
+    ],
+    "meaning": [
+      "Noun: condition or result"
+    ],
+    "examples": [
+      "document"
+    ]
+  },
+  {
+    "features": [
+      "meso"
+    ],
+    "meaning": [
+      "middle"
+    ],
+    "examples": [
+      "mesomorph",
+      "mesoamerica",
+      "mesosphere"
+    ]
+  },
+  {
+    "features": [
+      "meta"
+    ],
+    "meaning": [
+      "beyond",
+      "change"
+    ],
+    "examples": [
+      "metaphor",
+      "metamorphosis",
+      "metabolism",
+      "metahistorical",
+      "metainformation"
+    ]
+  },
+  {
+    "features": [
+      "meter"
+    ],
+    "meaning": [
+      "measure"
+    ],
+    "examples": [
+      "meter",
+      "voltammeter",
+      "barometer",
+      "thermometer"
+    ]
+  },
+  {
+    "features": [
+      "metr"
+    ],
+    "meaning": [
+      "admeasure",
+      "apportion"
+    ],
+    "examples": [
+      "metrics",
+      "asymmetric",
+      "parametric",
+      "telemetry"
+    ]
+  },
+  {
+    "features": [
+      "micro"
+    ],
+    "meaning": [
+      "small",
+      "millionth"
+    ],
+    "examples": [
+      "microscope",
+      "microfilm",
+      "microcard",
+      "microwave",
+      "micrometer",
+      "microvolt"
+    ]
+  },
+  {
+    "features": [
+      "migra"
+    ],
+    "meaning": [
+      "wander"
+    ],
+    "examples": [
+      "migrate",
+      "emigrant",
+      "immigrate"
+    ]
+  },
+  {
+    "features": [
+      "mill",
+      "kilo"
+    ],
+    "meaning": [
+      "thousand"
+    ],
+    "examples": [
+      "millennium",
+      "kilobyte",
+      "kiloton"
+    ]
+  },
+  {
+    "features": [
+      "milli"
+    ],
+    "meaning": [
+      "thousandth"
+    ],
+    "examples": [
+      "millisecond",
+      "milligram",
+      "millivolt"
+    ]
+  },
+  {
+    "features": [
+      "min"
+    ],
+    "meaning": [
+      "little",
+      "small"
+    ],
+    "examples": [
+      "minute",
+      "minor",
+      "minuscule"
+    ]
+  },
+  {
+    "features": [
+      "mis"
+    ],
+    "meaning": [
+      "wrong",
+      "bad",
+      "badly"
+    ],
+    "examples": [
+      "misconduct",
+      "misinform",
+      "misinterpret",
+      "mispronounce",
+      "misnomer",
+      "mistake",
+      "misogynist"
+    ]
+  },
+  {
+    "features": [
+      "mit",
+      "miss"
+    ],
+    "meaning": [
+      "send"
+    ],
+    "examples": [
+      "emit",
+      "remit",
+      "submit",
+      "admit",
+      "commit",
+      "permit",
+      "transmit",
+      "omit",
+      "intermittent",
+      "mission",
+      "missile"
+    ]
+  },
+  {
+    "features": [
+      "mob",
+      "mov",
+      "mot"
+    ],
+    "meaning": [
+      "move"
+    ],
+    "examples": [
+      "motion",
+      "remove",
+      "mobile",
+      "motor"
+    ]
+  },
+  {
+    "features": [
+      "mon"
+    ],
+    "meaning": [
+      "warn",
+      "remind"
+    ],
+    "examples": [
+      "monument",
+      "admonition",
+      "monitor",
+      "premonition"
+    ]
+  },
+  {
+    "features": [
+      "mono"
+    ],
+    "meaning": [
+      "one"
+    ],
+    "examples": [
+      "monopoly",
+      "monotype",
+      "monologue",
+      "mononucleosis",
+      "monorail",
+      "monotheist"
+    ]
+  },
+  {
+    "features": [
+      "mor",
+      "mort"
+    ],
+    "meaning": [
+      "mortal",
+      "death"
+    ],
+    "examples": [
+      "mortal",
+      "immortal",
+      "mortality",
+      "mortician",
+      "mortuary"
+    ]
+  },
+  {
+    "features": [
+      "morph"
+    ],
+    "meaning": [
+      "shape",
+      "form"
+    ],
+    "examples": [
+      "amorphous",
+      "dimorphic",
+      "metamorphosis",
+      "morphology",
+      "polymorphic",
+      "morpheme",
+      "amorphous"
+    ]
+  },
+  {
+    "features": [
+      "multi"
+    ],
+    "meaning": [
+      "many",
+      "much"
+    ],
+    "examples": [
+      "multifold",
+      "multilingual",
+      "multiped",
+      "multiply",
+      "multitude",
+      "multipurpose",
+      "multinational"
+    ]
+  },
+  {
+    "features": [
+      "nano"
+    ],
+    "meaning": [
+      "billionth"
+    ],
+    "examples": [
+      "nanosecond",
+      "nanobucks"
+    ]
+  },
+  {
+    "features": [
+      "nasc",
+      "nat",
+      "gnant",
+      "nai"
+    ],
+    "meaning": [
+      "to be born"
+    ],
+    "examples": [
+      "nascent",
+      "native",
+      "pregnant",
+      "naive"
+    ]
+  },
+  {
+    "features": [
+      "nat",
+      "nasc"
+    ],
+    "meaning": [
+      "to be from",
+      "to spring forth"
+    ],
+    "examples": [
+      "innate",
+      "natal",
+      "native",
+      "renaissance"
+    ]
+  },
+  {
+    "features": [
+      "neo"
+    ],
+    "meaning": [
+      "new"
+    ],
+    "examples": [
+      "Neolithic",
+      "nuveau riche",
+      "neologism",
+      "neophyte",
+      "neonate"
+    ]
+  },
+  {
+    "features": [
+      "-ness"
+    ],
+    "meaning": [
+      "Noun: state",
+      "condition",
+      "quality"
+    ],
+    "examples": [
+      "kindness"
+    ]
+  },
+  {
+    "features": [
+      "neur"
+    ],
+    "meaning": [
+      "nerve"
+    ],
+    "examples": [
+      "neuritis",
+      "neuropathic",
+      "neurologist",
+      "neural",
+      "neurotic"
+    ]
+  },
+  {
+    "features": [
+      "nom"
+    ],
+    "meaning": [
+      "law",
+      "order"
+    ],
+    "examples": [
+      "autonomy",
+      "astronomy",
+      "gastronomy",
+      "economy"
+    ]
+  },
+  {
+    "features": [
+      "nom",
+      "nym"
+    ],
+    "meaning": [
+      "name"
+    ],
+    "examples": [
+      "nominate",
+      "synonym"
+    ]
+  },
+  {
+    "features": [
+      "nomen",
+      "nomin"
+    ],
+    "meaning": [
+      "name"
+    ],
+    "examples": [
+      "nomenclature",
+      "nominate",
+      "ignominious"
+    ]
+  },
+  {
+    "features": [
+      "non"
+    ],
+    "meaning": [
+      "nine"
+    ],
+    "examples": [
+      "nonagon"
+    ]
+  },
+  {
+    "features": [
+      "non"
+    ],
+    "meaning": [
+      "not"
+    ],
+    "examples": [
+      "nonferrous",
+      "nonsense",
+      "nonabrasive",
+      "nondescript"
+    ]
+  },
+  {
+    "features": [
+      "nov"
+    ],
+    "meaning": [
+      "new"
+    ],
+    "examples": [
+      "novel",
+      "renovate",
+      "novice",
+      "nova",
+      "innovate"
+    ]
+  },
+  {
+    "features": [
+      "nox",
+      "noc"
+    ],
+    "meaning": [
+      "night"
+    ],
+    "examples": [
+      "nocturnal",
+      "equinox",
+      "noctilucent"
+    ]
+  },
+  {
+    "features": [
+      "numer"
+    ],
+    "meaning": [
+      "number"
+    ],
+    "examples": [
+      "numeral",
+      "numeration",
+      "enumerate",
+      "innumerable"
+    ]
+  },
+  {
+    "features": [
+      "numisma"
+    ],
+    "meaning": [
+      "coin"
+    ],
+    "examples": [
+      "numismatics"
+    ]
+  },
+  {
+    "features": [
+      "ob",
+      "oc",
+      "of",
+      "op"
+    ],
+    "meaning": [
+      "toward",
+      "against",
+      "in the way"
+    ],
+    "examples": [
+      "oppose",
+      "occur",
+      "offer",
+      "obtain"
+    ]
+  },
+  {
+    "features": [
+      "oct"
+    ],
+    "meaning": [
+      "eight"
+    ],
+    "examples": [
+      "octopus",
+      "octagon",
+      "octogenarian",
+      "octave"
+    ]
+  },
+  {
+    "features": [
+      "oligo"
+    ],
+    "meaning": [
+      "few",
+      "little"
+    ],
+    "examples": [
+      "Oligocene",
+      "oligosaccharide",
+      "oligotrophic",
+      "oligarchy"
+    ]
+  },
+  {
+    "features": [
+      "omni"
+    ],
+    "meaning": [
+      "all",
+      "every"
+    ],
+    "examples": [
+      "omnipotent",
+      "omniscient",
+      "omnipresent",
+      "omnivorous"
+    ]
+  },
+  {
+    "features": [
+      "onym"
+    ],
+    "meaning": [
+      "name"
+    ],
+    "examples": [
+      "anonymous",
+      "pseudonym",
+      "antonym",
+      "synonym"
+    ]
+  },
+  {
+    "features": [
+      "oper"
+    ],
+    "meaning": [
+      "work"
+    ],
+    "examples": [
+      "operate",
+      "cooperate",
+      "opus"
+    ]
+  },
+  {
+    "features": [
+      "-or"
+    ],
+    "meaning": [
+      "Noun: condition or activity"
+    ],
+    "examples": [
+      "valor",
+      "honor",
+      "humor",
+      "minor"
+    ]
+  },
+  {
+    "features": [
+      "ortho"
+    ],
+    "meaning": [
+      "straight",
+      "correct"
+    ],
+    "examples": [
+      "orthodox",
+      "orthodontist",
+      "orthopedic",
+      "unorthodox"
+    ]
+  },
+  {
+    "features": [
+      "-ory"
+    ],
+    "meaning": [
+      "Noun: place for",
+      "serves for"
+    ],
+    "examples": [
+      "territory",
+      "rectory"
+    ]
+  },
+  {
+    "features": [
+      "-ous",
+      "-eous",
+      "-ose",
+      "-ious"
+    ],
+    "meaning": [
+      "Adjective: having the quality of",
+      "relating to"
+    ],
+    "examples": [
+      "adventurous",
+      "courageous",
+      "verbose",
+      "fractious"
+    ]
+  },
+  {
+    "features": [
+      "over"
+    ],
+    "meaning": [
+      "excessive",
+      "above"
+    ],
+    "examples": [
+      "overwork",
+      "overall",
+      "overwork"
+    ]
+  },
+  {
+    "features": [
+      "pac"
+    ],
+    "meaning": [
+      "peace"
+    ],
+    "examples": [
+      "pacifist",
+      "pacify",
+      "pacific ocean"
+    ]
+  },
+  {
+    "features": [
+      "pair",
+      "pare"
+    ],
+    "meaning": [
+      "arrange",
+      "assemblage",
+      "two"
+    ],
+    "examples": [
+      "repair",
+      "impair",
+      "compare",
+      "prepare"
+    ]
+  },
+  {
+    "features": [
+      "paleo"
+    ],
+    "meaning": [
+      "old"
+    ],
+    "examples": [
+      "Paleozoic",
+      "Paleolithic",
+      "paleomagnetism",
+      "paleopsychology"
+    ]
+  },
+  {
+    "features": [
+      "pan"
+    ],
+    "meaning": [
+      "all"
+    ],
+    "examples": [
+      "Pan-American",
+      "pan-African",
+      "panacea",
+      "pandemonium (place of all the demons)"
+    ]
+  },
+  {
+    "features": [
+      "para"
+    ],
+    "meaning": [
+      "beside"
+    ],
+    "examples": [
+      "paradox",
+      "paraprofessional",
+      "paramedic",
+      "paraphrase",
+      "parachute"
+    ]
+  },
+  {
+    "features": [
+      "pat",
+      "pass",
+      "path"
+    ],
+    "meaning": [
+      "feel",
+      "suffer"
+    ],
+    "examples": [
+      "patient",
+      "passion",
+      "sympathy",
+      "pathology"
+    ]
+  },
+  {
+    "features": [
+      "pater",
+      "patr"
+    ],
+    "meaning": [
+      "father"
+    ],
+    "examples": [
+      "paternity",
+      "patriarch",
+      "patriot",
+      "patron",
+      "patronize"
+    ]
+  },
+  {
+    "features": [
+      "path",
+      "pathy"
+    ],
+    "meaning": [
+      "feeling",
+      "suffering"
+    ],
+    "examples": [
+      "pathos",
+      "sympathy",
+      "antipathy",
+      "apathy",
+      "telepathy"
+    ]
+  },
+  {
+    "features": [
+      "ped",
+      "pod"
+    ],
+    "meaning": [
+      "foot"
+    ],
+    "examples": [
+      "pedal",
+      "impede",
+      "pedestrian",
+      "centipede",
+      "tripod",
+      "podiatry",
+      "antipode",
+      "podium"
+    ]
+  },
+  {
+    "features": [
+      "pedo"
+    ],
+    "meaning": [
+      "child"
+    ],
+    "examples": [
+      "orthopedic",
+      "pedagogue",
+      "pediatrics"
+    ]
+  },
+  {
+    "features": [
+      "pel",
+      "puls"
+    ],
+    "meaning": [
+      "drive",
+      "push",
+      "urge"
+    ],
+    "examples": [
+      "compel",
+      "dispel",
+      "expel",
+      "repel",
+      "propel",
+      "pulse",
+      "impulse",
+      "pulsate",
+      "compulsory",
+      "expulsion",
+      "repulsive"
+    ]
+  },
+  {
+    "features": [
+      "pend",
+      "pens",
+      "pond"
+    ],
+    "meaning": [
+      "hang",
+      "weigh"
+    ],
+    "examples": [
+      "pendant",
+      "pendulum",
+      "suspend",
+      "appendage",
+      "pensive",
+      "append"
+    ]
+  },
+  {
+    "features": [
+      "per"
+    ],
+    "meaning": [
+      "through",
+      "intensive"
+    ],
+    "examples": [
+      "persecute",
+      "permit",
+      "perspire",
+      "perforate",
+      "persuade"
+    ]
+  },
+  {
+    "features": [
+      "peri"
+    ],
+    "meaning": [
+      "around"
+    ],
+    "examples": [
+      "periscope",
+      "perimeter",
+      "perigee",
+      "periodontal"
+    ]
+  },
+  {
+    "features": [
+      "phage"
+    ],
+    "meaning": [
+      "eat"
+    ],
+    "examples": [
+      "macrophage",
+      "bacteriophage"
+    ]
+  },
+  {
+    "features": [
+      "phan",
+      "phas",
+      "phen",
+      "fan",
+      "phant",
+      "fant"
+    ],
+    "meaning": [
+      "show",
+      "make visible"
+    ],
+    "examples": [
+      "phantom",
+      "fantasy"
+    ]
+  },
+  {
+    "features": [
+      "phe"
+    ],
+    "meaning": [
+      "speak"
+    ],
+    "examples": [
+      "blaspheme",
+      "cipher",
+      "phenomenon",
+      "philosopher"
+    ]
+  },
+  {
+    "features": [
+      "phil"
+    ],
+    "meaning": [
+      "love"
+    ],
+    "examples": [
+      "philosopher",
+      "philanthropy",
+      "philharmonic",
+      "bibliophile"
+    ]
+  },
+  {
+    "features": [
+      "phlegma"
+    ],
+    "meaning": [
+      "inflammation"
+    ],
+    "examples": [
+      "phlegm",
+      "phlegmatic"
+    ]
+  },
+  {
+    "features": [
+      "phobia",
+      "phobos"
+    ],
+    "meaning": [
+      "fear"
+    ],
+    "examples": [
+      "phobia",
+      "claustrophobia",
+      "acrophobia",
+      "aquaphobia",
+      "ergophobia",
+      "homophobia"
+    ]
+  },
+  {
+    "features": [
+      "phon"
+    ],
+    "meaning": [
+      "sound"
+    ],
+    "examples": [
+      "telephone",
+      "phonics",
+      "phonograph",
+      "phonetic",
+      "homophone",
+      "microphone",
+      "symphony",
+      "euphonious"
+    ]
+  },
+  {
+    "features": [
+      "phot",
+      "photo"
+    ],
+    "meaning": [
+      "light"
+    ],
+    "examples": [
+      "photograph",
+      "photoelectric",
+      "photogenic",
+      "photosynthesis",
+      "photon"
+    ]
+  },
+  {
+    "features": [
+      "pico"
+    ],
+    "meaning": [
+      "trillionth"
+    ],
+    "examples": [
+      "picofarad",
+      "picocurie",
+      "picovolt"
+    ]
+  },
+  {
+    "features": [
+      "pict"
+    ],
+    "meaning": [
+      "paint",
+      "show",
+      "draw"
+    ],
+    "examples": [
+      "picture",
+      "depict"
+    ]
+  },
+  {
+    "features": [
+      "plac",
+      "plais"
+    ],
+    "meaning": [
+      "please"
+    ],
+    "examples": [
+      "placid",
+      "placebo",
+      "placate",
+      "complacent"
+    ]
+  },
+  {
+    "features": [
+      "pli",
+      "ply"
+    ],
+    "meaning": [
+      "fold"
+    ],
+    "examples": [
+      "reply",
+      "implicate",
+      "ply"
+    ]
+  },
+  {
+    "features": [
+      "plore"
+    ],
+    "meaning": [
+      "cry out",
+      "wail"
+    ],
+    "examples": [
+      "implore",
+      "exploration",
+      "deploring"
+    ]
+  },
+  {
+    "features": [
+      "plu",
+      "plur",
+      "plus"
+    ],
+    "meaning": [
+      "more"
+    ],
+    "examples": [
+      "plural",
+      "pluralist",
+      "plus"
+    ]
+  },
+  {
+    "features": [
+      "pneuma",
+      "pneumon"
+    ],
+    "meaning": [
+      "breath"
+    ],
+    "examples": [
+      "pneumatic",
+      "pneumonia"
+    ]
+  },
+  {
+    "features": [
+      "pod"
+    ],
+    "meaning": [
+      "foot",
+      "feet"
+    ],
+    "examples": [
+      "podiatry",
+      "tripod"
+    ]
+  },
+  {
+    "features": [
+      "poli"
+    ],
+    "meaning": [
+      "city"
+    ],
+    "examples": [
+      "metropolis",
+      "police",
+      "politics",
+      "Indianapolis",
+      "megalopolis",
+      "acropolis"
+    ]
+  },
+  {
+    "features": [
+      "poly"
+    ],
+    "meaning": [
+      "many"
+    ],
+    "examples": [
+      "polytheist",
+      "polygon",
+      "polygamy",
+      "polymorphous"
+    ]
+  },
+  {
+    "features": [
+      "pon",
+      "pos",
+      "pound"
+    ],
+    "meaning": [
+      "place",
+      "put"
+    ],
+    "examples": [
+      "postpone",
+      "component",
+      "opponent",
+      "proponent",
+      "expose",
+      "impose",
+      "deposit",
+      "posture",
+      "position",
+      "expound",
+      "impound"
+    ]
+  },
+  {
+    "features": [
+      "pop"
+    ],
+    "meaning": [
+      "people"
+    ],
+    "examples": [
+      "population",
+      "populous",
+      "popular"
+    ]
+  },
+  {
+    "features": [
+      "port"
+    ],
+    "meaning": [
+      "carry"
+    ],
+    "examples": [
+      "porter",
+      "portable",
+      "transport",
+      "report",
+      "export",
+      "import",
+      "support",
+      "transportation"
+    ]
+  },
+  {
+    "features": [
+      "portion"
+    ],
+    "meaning": [
+      "part",
+      "share"
+    ],
+    "examples": [
+      "portion",
+      "proportion"
+    ]
+  },
+  {
+    "features": [
+      "post"
+    ],
+    "meaning": [
+      "after",
+      "behind"
+    ],
+    "examples": [
+      "postpone",
+      "postdate"
+    ]
+  },
+  {
+    "features": [
+      "pot"
+    ],
+    "meaning": [
+      "power"
+    ],
+    "examples": [
+      "potential",
+      "potentate",
+      "impotent"
+    ]
+  },
+  {
+    "features": [
+      "pre",
+      "pur"
+    ],
+    "meaning": [
+      "before"
+    ],
+    "examples": [
+      "precede"
+    ]
+  },
+  {
+    "features": [
+      "prehendere"
+    ],
+    "meaning": [
+      "seize",
+      "grasp"
+    ],
+    "examples": [
+      "apprehend",
+      "comprehend",
+      "comprehensive",
+      "prehensile"
+    ]
+  },
+  {
+    "features": [
+      "prin",
+      "prim",
+      "prime"
+    ],
+    "meaning": [
+      "first"
+    ],
+    "examples": [
+      "primacy",
+      "prima donna",
+      "primitive",
+      "primary",
+      "primal",
+      "primeval",
+      "prince",
+      "principal"
+    ]
+  },
+  {
+    "features": [
+      "pro"
+    ],
+    "meaning": [
+      "for",
+      "foward"
+    ],
+    "examples": [
+      "propel"
+    ]
+  },
+  {
+    "features": [
+      "proto"
+    ],
+    "meaning": [
+      "first"
+    ],
+    "examples": [
+      "prototype",
+      "protocol",
+      "protagonist",
+      "protozoan",
+      "Proterozoic",
+      "protoindustrial"
+    ]
+  },
+  {
+    "features": [
+      "psych"
+    ],
+    "meaning": [
+      "mind",
+      "soul"
+    ],
+    "examples": [
+      "psyche",
+      "psychiatry",
+      "psychology",
+      "psychosis"
+    ]
+  },
+  {
+    "features": [
+      "punct"
+    ],
+    "meaning": [
+      "point",
+      "dot"
+    ],
+    "examples": [
+      "punctual",
+      "punctuation",
+      "puncture",
+      "acupuncture",
+      "punctuation"
+    ]
+  },
+  {
+    "features": [
+      "pute"
+    ],
+    "meaning": [
+      "think"
+    ],
+    "examples": [
+      "dispute",
+      "computer"
+    ]
+  },
+  {
+    "features": [
+      "quat",
+      "quad"
+    ],
+    "meaning": [
+      "four"
+    ],
+    "examples": [
+      "quadrangle",
+      "quadruplets"
+    ]
+  },
+  {
+    "features": [
+      "quint",
+      "penta"
+    ],
+    "meaning": [
+      "five"
+    ],
+    "examples": [
+      "quintet",
+      "quintuplets",
+      "pentagon",
+      "pentane",
+      "pentameter"
+    ]
+  },
+  {
+    "features": [
+      "quip"
+    ],
+    "meaning": [
+      "ship"
+    ],
+    "examples": [
+      "equip",
+      "equipment"
+    ]
+  },
+  {
+    "features": [
+      "quir",
+      "quis",
+      "quest",
+      "quer"
+    ],
+    "meaning": [
+      "seek",
+      "ask"
+    ],
+    "examples": [
+      "query",
+      "inquire",
+      "exquisite",
+      "quest"
+    ]
+  },
+  {
+    "features": [
+      "re"
+    ],
+    "meaning": [
+      "back",
+      "again"
+    ],
+    "examples": [
+      "report",
+      "realign",
+      "retract",
+      "revise",
+      "regain"
+    ]
+  },
+  {
+    "features": [
+      "reg",
+      "recti"
+    ],
+    "meaning": [
+      "straighten"
+    ],
+    "examples": [
+      "regiment",
+      "regular",
+      "rectify",
+      "correct",
+      "direct",
+      "rectangle"
+    ]
+  },
+  {
+    "features": [
+      "retro"
+    ],
+    "meaning": [
+      "backwards"
+    ],
+    "examples": [
+      "retrorocket",
+      "retrospect",
+      "retrogression",
+      "retroactive"
+    ]
+  },
+  {
+    "features": [
+      "ri",
+      "ridi",
+      "risi"
+    ],
+    "meaning": [
+      "laughter"
+    ],
+    "examples": [
+      "deride",
+      "ridicule",
+      "ridiculous",
+      "derision",
+      "risible"
+    ]
+  },
+  {
+    "features": [
+      "rog",
+      "roga"
+    ],
+    "meaning": [
+      "ask"
+    ],
+    "examples": [
+      "prerogative",
+      "interrogation",
+      "derogatory"
+    ]
+  },
+  {
+    "features": [
+      "rupt"
+    ],
+    "meaning": [
+      "break"
+    ],
+    "examples": [
+      "rupture",
+      "interrupt",
+      "abrupt",
+      "disrupt",
+      "ruptible"
+    ]
+  },
+  {
+    "features": [
+      "sacr",
+      "sanc",
+      "secr"
+    ],
+    "meaning": [
+      "sacred"
+    ],
+    "examples": [
+      "sacred",
+      "sacrosanct",
+      "sanction",
+      "consecrate",
+      "desecrate"
+    ]
+  },
+  {
+    "features": [
+      "salv",
+      "salu"
+    ],
+    "meaning": [
+      "safe",
+      "healthy"
+    ],
+    "examples": [
+      "salvation",
+      "salvage",
+      "salutation"
+    ]
+  },
+  {
+    "features": [
+      "sanct"
+    ],
+    "meaning": [
+      "holy"
+    ],
+    "examples": [
+      "sanctify",
+      "sanctuary",
+      "sanction",
+      "sanctimonious",
+      "sacrosanct"
+    ]
+  },
+  {
+    "features": [
+      "sat",
+      "satis"
+    ],
+    "meaning": [
+      "enough"
+    ],
+    "examples": [
+      "satient",
+      "saturate",
+      "satisfy"
+    ]
+  },
+  {
+    "features": [
+      "sci",
+      "scio",
+      "scientia"
+    ],
+    "meaning": [
+      "know"
+    ],
+    "examples": [
+      "science",
+      "conscious",
+      "omniscient",
+      "cognocienti"
+    ]
+  },
+  {
+    "features": [
+      "scope"
+    ],
+    "meaning": [
+      "see",
+      "watch"
+    ],
+    "examples": [
+      "telescope",
+      "microscope",
+      "kaleidoscope",
+      "periscope",
+      "stethoscope"
+    ]
+  },
+  {
+    "features": [
+      "scrib",
+      "script"
+    ],
+    "meaning": [
+      "write"
+    ],
+    "examples": [
+      "scribe",
+      "scribble",
+      "inscribe",
+      "describe",
+      "subscribe",
+      "prescribe",
+      "manuscript"
+    ]
+  },
+  {
+    "features": [
+      "se"
+    ],
+    "meaning": [
+      "apart",
+      "move away from"
+    ],
+    "examples": [
+      "secede"
+    ]
+  },
+  {
+    "features": [
+      "sect",
+      "sec"
+    ],
+    "meaning": [
+      "cut"
+    ],
+    "examples": [
+      "intersect",
+      "transect",
+      "dissect",
+      "secant",
+      "section"
+    ]
+  },
+  {
+    "features": [
+      "sed",
+      "sess",
+      "sid"
+    ],
+    "meaning": [
+      "sit"
+    ],
+    "examples": [
+      "sediment",
+      "session",
+      "obsession",
+      "possess",
+      "preside",
+      "president",
+      "reside",
+      "subside"
+    ]
+  },
+  {
+    "features": [
+      "semi"
+    ],
+    "meaning": [
+      "half",
+      "partial"
+    ],
+    "examples": [
+      "semifinal",
+      "semiconscious",
+      "semiannual",
+      "semimonthly",
+      "semicircle"
+    ]
+  },
+  {
+    "features": [
+      "sen",
+      "scen"
+    ],
+    "meaning": [
+      "old",
+      "grow old"
+    ],
+    "examples": [
+      "senior",
+      "senator",
+      "senile",
+      "senescence",
+      "evanescent"
+    ]
+  },
+  {
+    "features": [
+      "sent",
+      "sens"
+    ],
+    "meaning": [
+      "feel",
+      "think"
+    ],
+    "examples": [
+      "sentiment",
+      "consent",
+      "resent",
+      "dissent",
+      "sentimental",
+      "sense",
+      "sensation",
+      "sensitive",
+      "sensory",
+      "dissension"
+    ]
+  },
+  {
+    "features": [
+      "sept"
+    ],
+    "meaning": [
+      "seven"
+    ],
+    "examples": [
+      "septet",
+      "septennial"
+    ]
+  },
+  {
+    "features": [
+      "sequ",
+      "secu",
+      "sue"
+    ],
+    "meaning": [
+      "follow"
+    ],
+    "examples": [
+      "sequence",
+      "consequence",
+      "sequel",
+      "subsequent",
+      "prosecute",
+      "consecutive",
+      "second",
+      "ensue",
+      "pursue"
+    ]
+  },
+  {
+    "features": [
+      "serv"
+    ],
+    "meaning": [
+      "save",
+      "serve",
+      "keep"
+    ],
+    "examples": [
+      "servant",
+      "service",
+      "subservient",
+      "servitude",
+      "preserve",
+      "conserve",
+      "reservation",
+      "deserve",
+      "conservation",
+      "observe"
+    ]
+  },
+  {
+    "features": [
+      "-ship"
+    ],
+    "meaning": [
+      "Noun: status",
+      "condition"
+    ],
+    "examples": [
+      "relationship",
+      "friendship"
+    ]
+  },
+  {
+    "features": [
+      "sign",
+      "signi"
+    ],
+    "meaning": [
+      "sign",
+      "mark",
+      "seal"
+    ],
+    "examples": [
+      "signal",
+      "signature",
+      "design",
+      "insignia",
+      "significant"
+    ]
+  },
+  {
+    "features": [
+      "simil",
+      "simul"
+    ],
+    "meaning": [
+      "like",
+      "resembling"
+    ],
+    "examples": [
+      "similar",
+      "assimilate",
+      "simulate",
+      "simulacrum",
+      "simultaneous"
+    ]
+  },
+  {
+    "features": [
+      "sist",
+      "sta",
+      "stit"
+    ],
+    "meaning": [
+      "stand",
+      "withstand",
+      "make up"
+    ],
+    "examples": [
+      "assist",
+      "insist",
+      "persist",
+      "circumstance",
+      "stamina",
+      "status",
+      "state",
+      "static",
+      "stable",
+      "stationary",
+      "substitute"
+    ]
+  },
+  {
+    "features": [
+      "soci"
+    ],
+    "meaning": [
+      "to join",
+      "companions"
+    ],
+    "examples": [
+      "sociable",
+      "society"
+    ]
+  },
+  {
+    "features": [
+      "sol",
+      "solus"
+    ],
+    "meaning": [
+      "alone"
+    ],
+    "examples": [
+      "solo",
+      "soliloquy",
+      "solitaire",
+      "solitude",
+      "solitary",
+      "isolate"
+    ]
+  },
+  {
+    "features": [
+      "solv",
+      "solu",
+      "solut"
+    ],
+    "meaning": [
+      "loosen",
+      "explain"
+    ],
+    "examples": [
+      "solvent",
+      "solve",
+      "absolve",
+      "resolve",
+      "soluble",
+      "solution",
+      "resolution",
+      "resolute",
+      "dissolute",
+      "absolution"
+    ]
+  },
+  {
+    "features": [
+      "somn"
+    ],
+    "meaning": [
+      "sleep"
+    ],
+    "examples": [
+      "insomnia",
+      "somnambulist"
+    ]
+  },
+  {
+    "features": [
+      "soph"
+    ],
+    "meaning": [
+      "wise"
+    ],
+    "examples": [
+      "sophomore (wise fool)",
+      "philosophy",
+      "sophisticated"
+    ]
+  },
+  {
+    "features": [
+      "spec",
+      "spect",
+      "spi",
+      "spic"
+    ],
+    "meaning": [
+      "look",
+      "see"
+    ],
+    "examples": [
+      "specimen",
+      "specific",
+      "spectator",
+      "spectacle",
+      "aspect",
+      "speculate",
+      "inspect",
+      "respect",
+      "prospect",
+      "retrospective",
+      "introspective",
+      "expect",
+      "conspicuous"
+    ]
+  },
+  {
+    "features": [
+      "sper"
+    ],
+    "meaning": [
+      "render favorable"
+    ],
+    "examples": [
+      "prosper"
+    ]
+  },
+  {
+    "features": [
+      "sphere"
+    ],
+    "meaning": [
+      "ball",
+      "sphere"
+    ],
+    "examples": [
+      "sphere",
+      "stratosphere",
+      "hemisphere",
+      "spheroid"
+    ]
+  },
+  {
+    "features": [
+      "spir"
+    ],
+    "meaning": [
+      "breath"
+    ],
+    "examples": [
+      "spirit",
+      "conspire",
+      "inspire",
+      "aspire",
+      "expire",
+      "perspire",
+      "respiration"
+    ]
+  },
+  {
+    "features": [
+      "stand",
+      "stant",
+      "stab",
+      "stat",
+      "stan",
+      "sti",
+      "sta",
+      "st",
+      "stead"
+    ],
+    "meaning": [
+      "stand"
+    ],
+    "examples": [
+      "stature",
+      "establish",
+      "stance"
+    ]
+  },
+  {
+    "features": [
+      "-ster"
+    ],
+    "meaning": [
+      "person"
+    ],
+    "examples": [
+      "mobster",
+      "monster"
+    ]
+  },
+  {
+    "features": [
+      "strain",
+      "strict",
+      "string",
+      "stige"
+    ],
+    "meaning": [
+      "bind",
+      "pull",
+      "draw tight"
+    ],
+    "examples": [
+      "stringent",
+      "strict",
+      "restrict",
+      "constrict",
+      "restrain",
+      "boa constrictor"
+    ]
+  },
+  {
+    "features": [
+      "stru",
+      "struct",
+      "stroy",
+      "stry"
+    ],
+    "meaning": [
+      "build"
+    ],
+    "examples": [
+      "construe",
+      "structure",
+      "construct",
+      "instruct",
+      "obstruct",
+      "destruction",
+      "destroy",
+      "industry",
+      "ministry"
+    ]
+  },
+  {
+    "features": [
+      "sub",
+      "suc",
+      "suf",
+      "sup",
+      "sur",
+      "sus"
+    ],
+    "meaning": [
+      "under",
+      "below",
+      "from",
+      "secretly",
+      "instead of"
+    ],
+    "examples": [
+      "sustain",
+      "survive",
+      "support",
+      "suffice",
+      "succeed",
+      "submerge",
+      "submarine",
+      "substandard",
+      "subnormal",
+      "subvert"
+    ]
+  },
+  {
+    "features": [
+      "sume",
+      "sump"
+    ],
+    "meaning": [
+      "take",
+      "use",
+      "waste"
+    ],
+    "examples": [
+      "consume",
+      "assume",
+      "sump",
+      "presumption"
+    ]
+  },
+  {
+    "features": [
+      "super",
+      "supra"
+    ],
+    "meaning": [
+      "over",
+      "above"
+    ],
+    "examples": [
+      "superior",
+      "suprarenal",
+      "superscript",
+      "supernatural",
+      "superimpose",
+      "supercede"
+    ]
+  },
+  {
+    "features": [
+      "syn",
+      "sym"
+    ],
+    "meaning": [
+      "together",
+      "at the same time"
+    ],
+    "examples": [
+      "sympathy",
+      "synthesis",
+      "synchronous",
+      "syndicate"
+    ]
+  },
+  {
+    "features": [
+      "tact",
+      "tang",
+      "tag",
+      "tig",
+      "ting"
+    ],
+    "meaning": [
+      "touch"
+    ],
+    "examples": [
+      "tactile",
+      "contact",
+      "intact",
+      "intangible",
+      "tangible",
+      "contagious",
+      "contiguous",
+      "contingent"
+    ]
+  },
+  {
+    "features": [
+      "tain",
+      "ten",
+      "tent",
+      "tin"
+    ],
+    "meaning": [
+      "hold",
+      "keep",
+      "have"
+    ],
+    "examples": [
+      "retain",
+      "continue",
+      "content",
+      "tenacious"
+    ]
+  },
+  {
+    "features": [
+      "tect",
+      "teg"
+    ],
+    "meaning": [
+      "cover"
+    ],
+    "examples": [
+      "detect",
+      "protect",
+      "tegular",
+      "tegument"
+    ]
+  },
+  {
+    "features": [
+      "tele"
+    ],
+    "meaning": [
+      "distance",
+      "far",
+      "from afar"
+    ],
+    "examples": [
+      "telephone",
+      "telegraph",
+      "telegram",
+      "telescope",
+      "television",
+      "telephoto",
+      "telecast",
+      "telepathy",
+      "telepathy"
+    ]
+  },
+  {
+    "features": [
+      "tem",
+      "tempo"
+    ],
+    "meaning": [
+      "time"
+    ],
+    "examples": [
+      "tempo",
+      "temporary",
+      "extemporaneously",
+      "contemporary",
+      "pro tem",
+      "temporal"
+    ]
+  },
+  {
+    "features": [
+      "ten",
+      "tin",
+      "tain"
+    ],
+    "meaning": [
+      "hold"
+    ],
+    "examples": [
+      "tenacious",
+      "tenant",
+      "tenure",
+      "untenable",
+      "detention",
+      "retentive",
+      "content",
+      "pertinent",
+      "continent",
+      "obstinate",
+      "contain",
+      "abstain",
+      "pertain",
+      "detain"
+    ]
+  },
+  {
+    "features": [
+      "tend",
+      "tent",
+      "tens"
+    ],
+    "meaning": [
+      "stretch",
+      "strain"
+    ],
+    "examples": [
+      "tendency",
+      "extend",
+      "intend",
+      "contend",
+      "pretend",
+      "superintend",
+      "tender",
+      "extent",
+      "tension",
+      "pretense"
+    ]
+  },
+  {
+    "features": [
+      "tera"
+    ],
+    "meaning": [
+      "trillion"
+    ],
+    "examples": [
+      "terabyte",
+      "teraflop"
+    ]
+  },
+  {
+    "features": [
+      "term"
+    ],
+    "meaning": [
+      "end",
+      "boundary",
+      "limit"
+    ],
+    "examples": [
+      "exterminate",
+      "terminal"
+    ]
+  },
+  {
+    "features": [
+      "terr",
+      "terra"
+    ],
+    "meaning": [
+      "earth"
+    ],
+    "examples": [
+      "terrain",
+      "terrarium",
+      "territory",
+      "terrestrial"
+    ]
+  },
+  {
+    "features": [
+      "test"
+    ],
+    "meaning": [
+      "to bear witness"
+    ],
+    "examples": [
+      "testament",
+      "detest",
+      "testimony",
+      "attest",
+      "testify"
+    ]
+  },
+  {
+    "features": [
+      "the",
+      "theo"
+    ],
+    "meaning": [
+      "God",
+      "a god"
+    ],
+    "examples": [
+      "monotheism",
+      "polytheism",
+      "atheism",
+      "theology"
+    ]
+  },
+  {
+    "features": [
+      "therm"
+    ],
+    "meaning": [
+      "heat"
+    ],
+    "examples": [
+      "thermometer",
+      "theorem",
+      "thermal",
+      "thermos bottle",
+      "thermostat",
+      "hypothermia"
+    ]
+  },
+  {
+    "features": [
+      "thesis",
+      "thet"
+    ],
+    "meaning": [
+      "place",
+      "put"
+    ],
+    "examples": [
+      "antithesis",
+      "hypothesis",
+      "synthesis",
+      "epithet"
+    ]
+  },
+  {
+    "features": [
+      "tire"
+    ],
+    "meaning": [
+      "draw",
+      "pull"
+    ],
+    "examples": [
+      "attire",
+      "retire",
+      "entire"
+    ]
+  },
+  {
+    "features": [
+      "tom"
+    ],
+    "meaning": [
+      "cut"
+    ],
+    "examples": [
+      "atom (not cutable)",
+      "appendectomy",
+      "tonsillectomy",
+      "dichotomy",
+      "anatomy"
+    ]
+  },
+  {
+    "features": [
+      "tor",
+      "tors",
+      "tort"
+    ],
+    "meaning": [
+      "twist"
+    ],
+    "examples": [
+      "torture",
+      "retort",
+      "extort",
+      "distort",
+      "contort",
+      "torsion",
+      "tortuous",
+      "torturous"
+    ]
+  },
+  {
+    "features": [
+      "tox"
+    ],
+    "meaning": [
+      "poison"
+    ],
+    "examples": [
+      "toxic",
+      "intoxicate",
+      "antitoxin"
+    ]
+  },
+  {
+    "features": [
+      "tract",
+      "tra",
+      "trai",
+      "treat"
+    ],
+    "meaning": [
+      "drag",
+      "draw",
+      "pull"
+    ],
+    "examples": [
+      "attract",
+      "tractor",
+      "traction",
+      "extract",
+      "retract",
+      "protract",
+      "detract",
+      "subtract",
+      "contract",
+      "intractable"
+    ]
+  },
+  {
+    "features": [
+      "trans"
+    ],
+    "meaning": [
+      "across",
+      "beyond",
+      "change"
+    ],
+    "examples": [
+      "transform",
+      "transoceanic",
+      "transmit",
+      "transportation",
+      "transducer"
+    ]
+  },
+  {
+    "features": [
+      "tri"
+    ],
+    "meaning": [
+      "three"
+    ],
+    "examples": [
+      "tripod",
+      "triangle",
+      "trinity",
+      "trilateral"
+    ]
+  },
+  {
+    "features": [
+      "trib"
+    ],
+    "meaning": [
+      "pay",
+      "bestow"
+    ],
+    "examples": [
+      "tribute",
+      "contribute",
+      "attribute",
+      "retribution",
+      "tributary"
+    ]
+  },
+  {
+    "features": [
+      "tribute"
+    ],
+    "meaning": [
+      "give"
+    ],
+    "examples": [
+      "contribute",
+      "distribute",
+      "tributary"
+    ]
+  },
+  {
+    "features": [
+      "turbo"
+    ],
+    "meaning": [
+      "disturb"
+    ],
+    "examples": [
+      "turbulent",
+      "disturb",
+      "turbid",
+      "turmoil"
+    ]
+  },
+  {
+    "features": [
+      "typ"
+    ],
+    "meaning": [
+      "print"
+    ],
+    "examples": [
+      "type",
+      "prototype",
+      "typical",
+      "typography",
+      "typewriter",
+      "typology",
+      "typify"
+    ]
+  },
+  {
+    "features": [
+      "ultima"
+    ],
+    "meaning": [
+      "last"
+    ],
+    "examples": [
+      "ultimate",
+      "ultimatum"
+    ]
+  },
+  {
+    "features": [
+      "umber",
+      "umbraticum"
+    ],
+    "meaning": [
+      "shadow"
+    ],
+    "examples": [
+      "umbra",
+      "penumbra",
+      "(take) umbrage",
+      "adumbrate"
+    ]
+  },
+  {
+    "features": [
+      "un"
+    ],
+    "meaning": [
+      "not",
+      "against",
+      "opposite"
+    ],
+    "examples": [
+      "unceasing",
+      "unequal"
+    ]
+  },
+  {
+    "features": [
+      "uni"
+    ],
+    "meaning": [
+      "one"
+    ],
+    "examples": [
+      "uniform",
+      "unilateral",
+      "universal",
+      "unity",
+      "unanimous",
+      "unite",
+      "unison",
+      "unicorn"
+    ]
+  },
+  {
+    "features": [
+      "-ure"
+    ],
+    "meaning": [
+      "Noun: act",
+      "condition",
+      "process",
+      "function"
+    ],
+    "examples": [
+      "exposure",
+      "conjecture",
+      "measure"
+    ]
+  },
+  {
+    "features": [
+      "vac"
+    ],
+    "meaning": [
+      "empty"
+    ],
+    "examples": [
+      "vacate",
+      "vacuum",
+      "evacuate",
+      "vacation",
+      "vacant",
+      "vacuous"
+    ]
+  },
+  {
+    "features": [
+      "vade"
+    ],
+    "meaning": [
+      "go"
+    ],
+    "examples": [
+      "evade",
+      "invader"
+    ]
+  },
+  {
+    "features": [
+      "vale",
+      "vali",
+      "valu"
+    ],
+    "meaning": [
+      "strength",
+      "worth"
+    ],
+    "examples": [
+      "equivalent",
+      "valiant",
+      "validity",
+      "evaluate",
+      "value",
+      "valor"
+    ]
+  },
+  {
+    "features": [
+      "veh",
+      "vect"
+    ],
+    "meaning": [
+      "to carry"
+    ],
+    "examples": [
+      "vector",
+      "vehicle",
+      "convection",
+      "vehement"
+    ]
+  },
+  {
+    "features": [
+      "ven",
+      "vent"
+    ],
+    "meaning": [
+      "come"
+    ],
+    "examples": [
+      "convene",
+      "intervene",
+      "venue",
+      "convenient",
+      "avenue",
+      "circumvent",
+      "invent",
+      "convent",
+      "venture",
+      "event",
+      "advent",
+      "prevent"
+    ]
+  },
+  {
+    "features": [
+      "ver",
+      "veri"
+    ],
+    "meaning": [
+      "TRUE"
+    ],
+    "examples": [
+      "very",
+      "aver",
+      "verdict",
+      "verity",
+      "verify",
+      "verisimilitude"
+    ]
+  },
+  {
+    "features": [
+      "verb",
+      "verv"
+    ],
+    "meaning": [
+      "word"
+    ],
+    "examples": [
+      "verify",
+      "veracity",
+      "verbalize",
+      "verve"
+    ]
+  },
+  {
+    "features": [
+      "vert",
+      "vers"
+    ],
+    "meaning": [
+      "turn",
+      "change"
+    ],
+    "examples": [
+      "convert",
+      "revert",
+      "advertise",
+      "versatile",
+      "vertigo",
+      "invert",
+      "reversion",
+      "extravert",
+      "introvert",
+      "diversion",
+      "introvert",
+      "convertible",
+      "reverse",
+      "controversy"
+    ]
+  },
+  {
+    "features": [
+      "vi"
+    ],
+    "meaning": [
+      "way"
+    ],
+    "examples": [
+      "viable",
+      "vibrate",
+      "vibrant"
+    ]
+  },
+  {
+    "features": [
+      "vic",
+      "vicis"
+    ],
+    "meaning": [
+      "change",
+      "substitute"
+    ],
+    "examples": [
+      "vicarious",
+      "vicar",
+      "vicissitude"
+    ]
+  },
+  {
+    "features": [
+      "vict",
+      "vinc"
+    ],
+    "meaning": [
+      "conquer"
+    ],
+    "examples": [
+      "victor",
+      "evict",
+      "convict",
+      "convince",
+      "invincible"
+    ]
+  },
+  {
+    "features": [
+      "vid",
+      "vis"
+    ],
+    "meaning": [
+      "see"
+    ],
+    "examples": [
+      "video",
+      "evident",
+      "provide",
+      "providence",
+      "visible",
+      "revise",
+      "supervise",
+      "vista",
+      "visit",
+      "vision",
+      "review",
+      "indivisible"
+    ]
+  },
+  {
+    "features": [
+      "viv",
+      "vita",
+      "vivi"
+    ],
+    "meaning": [
+      "alive",
+      "life"
+    ],
+    "examples": [
+      "revive",
+      "survive",
+      "vivid",
+      "vivacious",
+      "vitality",
+      "vivisection",
+      "vital",
+      "vitamins",
+      "revitalize"
+    ]
+  },
+  {
+    "features": [
+      "voc",
+      "voke"
+    ],
+    "meaning": [
+      "call"
+    ],
+    "examples": [
+      "vocation",
+      "avocation",
+      "convocation",
+      "invocation",
+      "evoke",
+      "provoke",
+      "revoke",
+      "advocate",
+      "provocative",
+      "vocal"
+    ]
+  },
+  {
+    "features": [
+      "vol"
+    ],
+    "meaning": [
+      "will"
+    ],
+    "examples": [
+      "malevolent",
+      "benevolent",
+      "volunteer",
+      "volition"
+    ]
+  },
+  {
+    "features": [
+      "volcan"
+    ],
+    "meaning": [
+      "fire"
+    ],
+    "examples": [
+      "volcano",
+      "vulcanize",
+      "Vulcan"
+    ]
+  },
+  {
+    "features": [
+      "volv",
+      "volt",
+      "vol"
+    ],
+    "meaning": [
+      "turn about",
+      "roll"
+    ],
+    "examples": [
+      "revolve",
+      "voluble",
+      "voluminous",
+      "convolution",
+      "revolt",
+      "evolution"
+    ]
+  },
+  {
+    "features": [
+      "vor"
+    ],
+    "meaning": [
+      "eat greedily"
+    ],
+    "examples": [
+      "voracious",
+      "carnivorous",
+      "herbivorous",
+      "omnivorous",
+      "devour"
+    ]
+  },
+  {
+    "features": [
+      "-ward"
+    ],
+    "meaning": [
+      "Adverb: in a direction or manner"
+    ],
+    "examples": [
+      "homeward"
+    ]
+  },
+  {
+    "features": [
+      "-wise"
+    ],
+    "meaning": [
+      "Adverb: in the manner of",
+      "with regard to"
+    ],
+    "examples": [
+      "timewise",
+      "clockwise",
+      "bitwise"
+    ]
+  },
+  {
+    "features": [
+      "with"
+    ],
+    "meaning": [
+      "against"
+    ],
+    "examples": [
+      "withhold",
+      "without",
+      "withdraw",
+      "forthwith"
+    ]
+  },
+  {
+    "features": [
+      "-y"
+    ],
+    "meaning": [
+      "Noun: state",
+      "condition",
+      "result of an activity"
+    ],
+    "examples": [
+      "society",
+      "victory"
+    ]
+  },
+  {
+    "features": [
+      "-y"
+    ],
+    "meaning": [
+      "Adjective: marked by",
+      "having"
+    ],
+    "examples": [
+      "hungry",
+      "angry",
+      "smeary",
+      "teary"
+    ]
+  },
+  {
+    "features": [
+      "zo"
+    ],
+    "meaning": [
+      "animal"
+    ],
+    "examples": [
+      "zoo (zoological garden)",
+      "zoology",
+      "zodiac",
+      "protozoan"
+    ]
+  }
+]
