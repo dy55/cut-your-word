@@ -1,3 +1,5 @@
+require_relative 'generic_parser'
+
 ##
 # Parser for dict 2
 class Dict2Parser < GenericParser
@@ -5,11 +7,10 @@ class Dict2Parser < GenericParser
 
   def split_features(input)
     split_arr = input.split %r{/}
-
-    base_word = split_arr.delete_at 0
+    base_word = split_arr[0]
     word_arr = [base_word]
 
-    split_arr.each do |item|
+    split_arr[1..-1].each do |item|
       word_arr.append base_word + item
     end
 

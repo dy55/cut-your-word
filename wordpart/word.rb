@@ -17,6 +17,15 @@ class Word
     @content.include? input_string
   end
 
+  ##
+  # Whether has a root word
+  #
+  # @param word_part [RootWord] Input root word
+  # @return [Boolean] Has this root word?
+  def root?(word_part)
+    word_part.part_of? @content
+  end
+
   def to_s
     content
   end

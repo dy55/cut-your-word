@@ -1,23 +1,30 @@
 # frozen_string_literal: true
 
-# Root Word class
-class RootWord < WordPart
+# Root word class
+#
+# @author dy55
+class RootWord
+  attr_reader :features, :meaning, :examples, :source
+
+  # Initializer
+  #
+  # @param features [Array<String>] Word part contents
+  # @param meaning [Array<String>] Meaning of this word part
+  # @param examples [Array<String>] Example words
+  # @param source [String] Word part source
   def initialize(features, meaning, examples = nil, source = nil)
-    super
+    @features = features
+    @meaning = meaning
+    @examples = examples
+    @source = source
   end
 
-  # Split input word via the root word
+  # Whether input word contains this word part
   #
-  # @param word [String] Input word
-  # @return [Array<String>] Split parts
-  def split(word)
-    return [word.dup] unless part_of? word
-
-    matched = []
-    @features.each { |item| matched.append item if word.include? item }
-    matched_max = matched.max_by &'length'
-    split_arr = word.split /#{matched_max}/
-
-    split_arr.insert 1, matched_max
+  # @param word [String | Word] Input word
+  # @return [Boolean] Is this is a part of input word
+  def part_of?(word)
+    @features.each { |item| return true if word.include? item }
+    false
   end
 end

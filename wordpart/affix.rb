@@ -1,7 +1,9 @@
 # frozen_string_literal: true
 
+require_relative 'root_word'
+
 # Affix class
-class Affix < WordPart
+class Affix < RootWord
   @pattern = /.+/
 
   def initialize(features, meaning, examples = nil, source = nil)
@@ -21,5 +23,9 @@ class Affix < WordPart
   # @return [Boolean] Is affix of the word
   def affix_of?(word, offset = 0)
     raise NotImplementedError
+  end
+
+  def part_of?(word)
+    affix_of? word, 0
   end
 end

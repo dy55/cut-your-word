@@ -1,5 +1,7 @@
 # frozen_string_literal: true
 
+require_relative 'affix'
+
 # Prefix class
 class Prefix < Affix
   @pattern = /^[^-]+-?$/
