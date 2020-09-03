@@ -4,11 +4,11 @@ require_relative 'root_word'
 
 # Affix class
 class Affix < RootWord
-  @pattern = /.+/
 
   def initialize(features, meaning, examples = nil, source = nil)
     super
 
+    @pattern = /.+/
     @features.each do |item|
       raise MismatchedAffixException unless @pattern.match? item
 

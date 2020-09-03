@@ -1,6 +1,8 @@
 # frozen_string_literal: true
 
 require 'json'
+require_relative './wordpart/root_word'
+require_relative './wordpart/dictionary'
 
 dict_path = './dict/dict.json'
 
@@ -36,27 +38,59 @@ def print_help
   puts lines
 end
 
-def has_root?(root, word)
+def print_each(arr, delimiter = ', ')
+  out_arr = []
 
+  arr.each do |item|
+    out_arr << item
+    out_arr << delimiter
+  end
+
+  out_arr[0..-2].each { |item| print item }
+end
+
+def find_word(dict, word)
+  count = 1
+
+  dict.find word do |item|
+    puts count.to_s + '.'
+    count += 1
+
+    print_each item.features
+    puts
+    print_each item.meaning
+    puts
+    print_each item.examples
+    puts
+    puts
+  end
 end
 
 def eval_word(word)
   puts
   puts word
 
-  printf "Evaluating...\r"
-  @word_dict.each { |key, val| puts "#{key}\n#{val}" if has_root? key, word }
+  puts 'Possible related root words:'
+
+  dict1 = Dictionary.read_from('./dict/dict1.json')
+  dict2 = Dictionary.read_from('./dict/dict2.json')
+
+  puts 'Dict 1:'
+  find_word dict1, word
+
+  puts 'Dict 2:'
+  find_word dict2, word
 end
 
 def do_if_escape(input)
-  return unless /-.*/.match input
+  return unless /-.*/.match? input
 
-  is_alias = /-[^-]*/.match input
+  is_alias = /-[^-]*/.match? input
 
   cmd = input.delete '-'
   cmd = @alias_escapes[cmd] if is_alias
 
-  @escapes[cmd]['exec'] unless cmd.empty?
+  @escapes[cmd]['exec'].call unless cmd == '' # FIXME: Cannot work properly, 2020-9-3
 end
 
 def start_loop(loop_mode = true, exit_then = false)

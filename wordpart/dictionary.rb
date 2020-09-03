@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 
 require 'json'
-require 'root_word'
-require 'root_word_factory'
+require_relative 'root_word'
+require_relative 'root_word_factory'
 
 # Root word dictionary
 class Dictionary
@@ -22,13 +22,13 @@ class Dictionary
   # @param path [String] Path of dictionary file
   # @return [Dictionary] New instance
   def self.read_from(path)
-    dict_obj =  JSON.parse path
+    dict_obj = JSON.parse File.read path
     obj_arr = []
 
     root_factory = RootWordFactory.new
 
     dict_obj.each do |item|
-      obj_arr.append root_factory.get_root item[:features], item[:meaning], item[:examples]
+      obj_arr.append root_factory.get_root item['features'], item['meaning'], item['examples']
     end
 
     Dictionary.new obj_arr
