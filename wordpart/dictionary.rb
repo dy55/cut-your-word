@@ -46,20 +46,22 @@ class Dictionary
       break_halfway = false
 
       @dict.each do |item|
-        if item.part_of? word_part
-          yield item
+        next unless item.part_of? word_part
 
-          if item.is_a? Prefix
-            word_part = word_part[item.content.length..-1]
-          elsif item.is_a? Suffix
-            word_part = word_part[(0 until -item.content.length)]
-          else
-            next
-          end
+        yield item
 
-          break_halfway = true
-          break
-        end
+        next unless (item.is_a? Prefix) || (item.is_a? Suffix)
+
+        index_from = 0
+        index_to = -1
+
+        index_from = item.features.min_by(&:length) if item.is_a? Prefix
+        index_to = -item.features.min_by(&:length).length - 1 if item.is_a? Suffix
+
+        word_part = word_part[index_from..index_to]
+
+        break_halfway = true
+        break
       end
 
       break unless break_halfway
